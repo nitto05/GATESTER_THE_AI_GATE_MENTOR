@@ -1,11 +1,11 @@
 import os
 from dotenv import load_dotenv
-import google.generativeai as genai
+from google import genai  # #############
 from qdrant_client import QdrantClient
 
 load_dotenv()
 
-genai.configure(api_key = os.getenv("GEMINI_API_KEY"))
+ai_client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))  # #############
 
 client = QdrantClient(
         url =os.getenv("QDRANT_URL"),
@@ -18,11 +18,11 @@ def retrieve (query: str, top_k: int = 5):
         in Qdrant for the top_k most semantically similar chunks.
     """
 
-    result = genai.embed_content(
-            model = "models/text-embedding-004",
-            content = query 
-    )
-    query_vector = result["embedding"]
+    response = ai_client.models.embed_content(              # #############
+            model = "gemini-embedding-2",                   # #############
+            contents = query                                # #############
+    )                                                       # #############
+    query_vector = response.embeddings[0].values            # #############
 
     hits = client.search(
         collection_name = "gate_books",
