@@ -30,7 +30,7 @@ def run_diagnostics():
 
     for idx, query in enumerate(test_queries):
         print(f"\nTest Query {idx + 1} : '{query}'")
-        print("retrieving marchign contents...")
+        print("retrieving matching contents...")
         try:
             results = retrieve(query, top_k = 2)
             if not results : 

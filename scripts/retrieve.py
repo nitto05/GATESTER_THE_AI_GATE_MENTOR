@@ -24,11 +24,12 @@ def retrieve (query: str, top_k: int = 5):
     )                                                       # #############
     query_vector = response.embeddings[0].values            # #############
 
-    hits = client.search(
+    response = client.query_points(
         collection_name = "gate_books",
-        query_vector = query_vector,
+        query = query_vector,
         limit = top_k
     )
+    hits = response.points
 
     return [hit.payload["text"] for hit in hits]
     
