@@ -1,6 +1,6 @@
 import os 
 from qdrant_client import QdrantClient
-from retrieve import retrieve
+from retrieve_local import retrieve
 
 def run_diagnostics():
     print("=== STARTING GATESTER RAG PIPELINE TEST ===")

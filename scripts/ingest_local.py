@@ -45,5 +45,10 @@ for i, vecotr in enumerate(embeddings):
         vector = vecotr.tolist(),
         payload = {"text": chunks[i], "chunk_index" : i}
     ))
-client.upsert(collection_name = "gate_books", points=points)
-print(f"Done. Uploaded{len(points)} chunks to Qdrant.")
+
+upload_batch_size = 250
+for i in range(0, len(points), upload_batch_size):
+    batch_points = points[i: i+ upload_batch_size]
+    client.upsert(collection_name = "gate_books", points=batch_points)
+    print(f"Uploaded batch {i // upload_batch_size + 1}/{(len(points)+upload_batch_size-1) // upload_batch_size} to Qdrant Cloud...")
+print(f"Done. Uploaded{len(points)} chunks to Qdrant!!!!")
