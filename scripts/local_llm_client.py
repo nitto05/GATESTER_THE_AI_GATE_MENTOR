@@ -1,34 +1,32 @@
 import os 
-import requests
 from dotenv import load_dotenv
 from google import genai
+from api_helper import safe_generate_json
 
 load_dotenv()
 
-LOCAL_SERVER_URL = "http://127.0.0.1:8000/generate"
+ai_client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
-ai_client = genai.Client(api_key = os.getenv("GEMINI_API_KEY"))
+class ConfigMock:
+    def __init__(self, temp: float, max_tok: int):
+        self.temperature = temp
+        self.max_output_tokens = max_tok
 
-def query_local_llm(prompt: str, max_tokens: int = 200, temperature: float = 0.1) -> str:
+def query_local_llm(prompt: str, max_tokens: int = 200, temperature: float = 0.1, preference: str = "qwen") -> str:
     """
-    Queries the local LLM server on port 8000.
-    Falls back to Gemini Cloud if the local server is unreachable.
+    Queries Warm GPU LLM (Qwen) with exponential backoff via safe_generate_json.
+    Falls back to Gemini Cloud seamlessly with safe retries if unreachable.
     """
-
-    try: 
-        payload = {
-            "prompt" : prompt,
-            "max_tokens" : max_tokens,
-            "temperature" : temperature
-        }
-        response = requests.post(LOCAL_SERVER_URL, json = payload, timeout = 60)
-        if response.status_code == 200:
-            return response.json()["response"]
-    except Exception as e:
-        print(f"Local LLM server offline ({e}). Falling back to Gemini Cloud...")
+    config = ConfigMock(temperature, max_tokens)
     
-    res = ai_client.models.generate_content(
-        model = "gemini-2.0-flash",
-        contents = prompt
-    )
+    if preference == "qwen":
+        try:
+            res = safe_generate_json(ai_client, "gemini-2.0-flash", prompt, config=config, llm="qwen")
+            if res and res.text:
+                return res.text.strip()
+        except Exception as e:
+            print(f"⚠️ GPU Server unreachable ({e}). Falling back to Gemini Cloud with safe retries...")
+
+    res = safe_generate_json(ai_client, "gemini-2.0-flash", prompt, config=config, llm="gemini")
     return res.text.strip()
+
