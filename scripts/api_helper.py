@@ -2,6 +2,7 @@ import os
 import time
 import requests
 from dotenv import load_dotenv
+from google import genai
 from google.genai.errors import APIError
 
 load_dotenv()
@@ -14,6 +15,10 @@ class UnifiedResponse:
         self.candidates = candidates or []
 
 def safe_generate_json(client, model, prompt, config, llm: str = "gemini") -> UnifiedResponse:
+    """
+    Robust LLM generator with smart rate limit (429) backoff.
+    Waits 15s on rate limits to let Gemini sliding window reset cleanly.
+    """
     max_retries = 6
     for attempt in range(max_retries):
         try:
@@ -26,12 +31,12 @@ def safe_generate_json(client, model, prompt, config, llm: str = "gemini") -> Un
                 return UnifiedResponse(response.text, response.candidates)
             elif llm == "qwen":
                 temp = 0.1
-                max_tok = 512
+                max_tok = 1024
                 if config:
                     if hasattr(config, "temperature"):
                         temp = config.temperature or 0.1
                     if hasattr(config, "max_output_tokens"):
-                        max_tok = config.max_output_tokens or 512
+                        max_tok = config.max_output_tokens or 1024
                 payload = {
                     "prompt": prompt,
                     "max_tokens": max_tok,
@@ -48,16 +53,21 @@ def safe_generate_json(client, model, prompt, config, llm: str = "gemini") -> Un
             if e.code in [400, 401, 403]:
                 raise e
 
+            is_rate_limit = e.code == 429 or "RESOURCE_EXHAUSTED" in str(e) or "429" in str(e)
+            wait_time = max(15, 5 * (attempt + 1)) if is_rate_limit else (2 ** attempt)
+
             if attempt < max_retries - 1:
-                wait_time = 2 ** attempt
-                print(f"  ⚠️ APIError {e.code}. Retrying in {wait_time}s...")
+                print(f"  ⚠️ Rate Limit / APIError {e.code}. Pausing {wait_time}s for sliding window reset...")
                 time.sleep(wait_time)
                 continue
             raise e
         except Exception as e:
+            is_rate_limit = "429" in str(e) or "RESOURCE_EXHAUSTED" in str(e)
+            wait_time = max(15, 5 * (attempt + 1)) if is_rate_limit else (2 ** attempt)
+
             if attempt < max_retries - 1:
-                wait_time = 2 ** attempt
-                print(f"  ⚠️ LLM Server connection/error ({e}). Retrying in {wait_time}s...")
+                print(f"  ⚠️ LLM Server/Rate Limit error ({e}). Pausing {wait_time}s...")
                 time.sleep(wait_time)
                 continue
             raise e
+

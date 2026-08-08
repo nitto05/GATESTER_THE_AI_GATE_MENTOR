@@ -21,7 +21,7 @@ def query_local_llm(prompt: str, max_tokens: int = 200, temperature: float = 0.1
     
     if preference == "qwen":
         try:
-            res = safe_generate_json(ai_client, "gemini-2.0-flash", prompt, config=config, llm="qwen")
+            res = safe_generate_json(ai_client, "gemini-2.5-flash", prompt, config=config, llm="qwen")
             if res and res.text:
                 return res.text.strip()
         except Exception as e:

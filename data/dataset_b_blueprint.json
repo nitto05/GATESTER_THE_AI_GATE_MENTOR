@@ -1,0 +1,2488 @@
+{
+  "GATE_2022_Q1": {
+    "subject": "Data Structures",
+    "topic": "Programming Fundamentals",
+    "core_concept": "C Programming",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [
+      "integer_literals",
+      "character_literals",
+      "variable_names",
+      "string_literals"
+    ],
+    "immutable_fields": [
+      "ANSI_C_standard_behavior",
+      "ASCII_character_encoding"
+    ],
+    "transformation_rules": [
+      "CHANGE_NUMBERS",
+      "CHANGE_OPTION_ORDER",
+      "CHANGE_VARIABLE_NAMES",
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_2022_Q1",
+    "year": 2022,
+    "question": "What is printed by the following ANSI C program?",
+    "options": [
+      "A) z K S",
+      "B) 122 75 83",
+      "C) * - +",
+      "D) P x +"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\n\n```\nMarks [4]\n```\n\n```\nMarks [3]\n```\n\n### GATE WALLAH COMPUTER SCIENCE & INFORMATION TECHNOLOGY HANDBOOK\n\n```\nC Programming",
+      "```\n\u2751\u2751\u2751\n```\n\n### GATE WALLAH COMPUTER SCIENCE & INFORMATION TECHNOLOGY HANDBOOK\n\n```\nC Programming"
+    ]
+  },
+  "GATE_2022_Q2": {
+    "subject": "Data Structures",
+    "topic": "Arrays",
+    "core_concept": "Upper triangular Matrix",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [
+      "matrix_dimensions",
+      "matrix_elements"
+    ],
+    "immutable_fields": [
+      "matrix_type",
+      "programming_language"
+    ],
+    "transformation_rules": [
+      "CHANGE_NUMBERS",
+      "CHANGE_OPTION_ORDER",
+      "CHANGE_VARIABLE_NAMES",
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_2022_Q2",
+    "year": 2022,
+    "question": "Consider the following C program",
+    "options": [
+      "A) 0 to 0",
+      "B) 0",
+      "C) 11",
+      "D) 12"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\nC Programming\n```\n\nFor ex.\n\n```\n11\n21 22\n31 32 33\n41 42 43 44\n```\n\n### 000\n\n### 00\n\n### 0\n\n### A\n\n### AA\n\n### A\n\n### A A A\n\n### A A A A\n\n### \uf0e9\uf0f9\n\n### \uf0ea\uf0fa\n\n### =\uf0ea\uf0fa\n\n### \uf0ea\uf0fa\n\n### \uf0ea\uf0fa\n\n### \uf0eb\uf0fb\n\n**6.2.5 Upper triangular Matrix**\n\n```\n11 12 13 14\n22 23 24\n33 34\n44",
+      "```\nC Programming"
+    ]
+  },
+  "GATE_2016_Q3": {
+    "subject": "Data Structures",
+    "topic": "C Language Fundamentals",
+    "core_concept": "C Programming",
+    "question_type": "MCQ",
+    "requires_calculation": true,
+    "mutable_fields": [
+      "numbers_in_code",
+      "variable_names",
+      "loop_bounds",
+      "data_types"
+    ],
+    "immutable_fields": [
+      "C_standard_rules",
+      "compiler_behavior"
+    ],
+    "transformation_rules": [
+      "CHANGE_NUMBERS",
+      "CHANGE_OPTION_ORDER",
+      "CHANGE_VARIABLE_NAMES",
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_2016_Q3",
+    "year": 2016,
+    "question": "What will be the output of the following C program segment?",
+    "options": [
+      "Choice A",
+      "Choice B",
+      "Choice A Choice B No Choice",
+      "Program gives no output as it is erroneous"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\nC Programming",
+      "```\nC Programming"
+    ]
+  },
+  "GATE_2014_Q4": {
+    "subject": "Operating Systems",
+    "topic": "Memory Management",
+    "core_concept": "Memory Organization of C Program",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "CHANGE_NUMBERS",
+      "CHANGE_OPTION_ORDER",
+      "CHANGE_VARIABLE_NAMES",
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_2014_Q4",
+    "year": 2014,
+    "question": "Consider the following segment of C-code:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\n\n3\n\n**STORAGE CLASS & FUNCTION**\n\n**3.1 Memory Organization of C Program**\n\n**3.1.1 Code Segment**",
+      "```\nC Programming\n```\n\nFor ex.\n\n```\n11\n21 22\n31 32 33\n41 42 43 44\n```\n\n### 000\n\n### 00\n\n### 0\n\n### A\n\n### AA\n\n### A\n\n### A A A\n\n### A A A A\n\n### \uf0e9\uf0f9\n\n### \uf0ea\uf0fa\n\n### =\uf0ea\uf0fa\n\n### \uf0ea\uf0fa\n\n### \uf0ea\uf0fa\n\n### \uf0eb\uf0fb\n\n**6.2.5 Upper triangular Matrix**\n\n```\n11 12 13 14\n22 23 24\n33 34\n44"
+    ]
+  },
+  "GATE_2022_Q5": {
+    "subject": "Data Structures",
+    "topic": "C Programming Fundamentals",
+    "core_concept": "Variable Scope and Declaration",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [
+      "numbers_5_7",
+      "variable_name_a"
+    ],
+    "immutable_fields": [
+      "C_language_scope_rules",
+      "C_language_re-declaration_rules",
+      "main_function_structure",
+      "global_vs_local_variables"
+    ],
+    "transformation_rules": [
+      "CHANGE_NUMBERS",
+      "CHANGE_OPTION_ORDER",
+      "CHANGE_VARIABLE_NAMES",
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_2022_Q5",
+    "year": 2022,
+    "question": "Q1. Consider the following three ANSI \u2013 C programs. P1, P2, and P3\n\nP1\nP2\nP3\n\n#include <stdio.h>\n\nint a = 5;\nint main(){\nint a = 7;\nreturn(0);\n}\n\n#include <stdio.h>\n\nint main(){\nint a=5;\nint a=7;\nreturn(0);\n}\n\n#include <stdio.h>\n\nint main(){\nint a=5;\nfloat a=7;\nreturn(0);\n}\n\nWhich one of the following statement is true?\n\n(a) Only P1 will compile without any error\n(b) Only P2 will compile without any error\n(c) Only P3 will compile without any error\n(d) All three programs P1, P2, and P3 will compile without any error",
+    "options": [
+      "(a) Only P1 will compile without any error",
+      "(b) Only P2 will compile without any error",
+      "(c) Only P3 will compile without any error",
+      "(d) All three programs P1, P2, and P3 will compile without any error"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\nC Programming\n```\n\n```\nint a = 10; // a is a local variable and goes out of scope after execution of f( )\nreturn &a :\n}\nint main () {\nint * ptr = f (); //Ptr points to something which is not valid\nprint (\u201c/d\u201d*,ptr);\nreturn 0 ;\n}",
+      "```\nC Programming\n```\n\n```\nPa = a ;\nboth are same."
+    ]
+  },
+  "GATE_2022_Q6": {
+    "subject": "Algorithms",
+    "topic": "Recurrences",
+    "core_concept": "Recursion",
+    "question_type": "NAT",
+    "requires_calculation": true,
+    "mutable_fields": [
+      "n",
+      "constant_0",
+      "constant_1",
+      "constant_2",
+      "target_value_5"
+    ],
+    "immutable_fields": [
+      "recursive_structure_of_bar",
+      "recursive_structure_of_foo",
+      "base_cases_n_equals_1",
+      "integer_division"
+    ],
+    "transformation_rules": [
+      "CHANGE_NUMBERS",
+      "CHANGE_VARIABLE_NAMES",
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_2022_Q6",
+    "year": 2022,
+    "question": "Q2. Consider the recursive functions represented by the following code segment:\n\nint bar(int n)\n{\nif (n == 1)  return 0;\nelse\nreturn 1 + bar(n/2);\n}\n\nint foo(int n)\n{\nif (n == 1)\nreturn 1;\nelse\nreturn 1 + foo(bar(n));\n}\n\nThe smallest positive integer n for which foo(n) returns 5 is _______. (answer in integer)",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "else\n  return n * factorial (n - 1);\n  }\n  If we call factorial (3), it will call factorial of 2 and so on ...the argument will get closer to 0 i.e., the base argument.\n- Recursion code is shorter than iterative code.\n- Overhead is present.\n- Some standard problems are best suited to be solved by using recursion for example- Tower of Hanoi, Factorial, merge\n  Sort.",
+      "```\nth\n16\n```\n\n```\n\uf0e6\uf0f6n\n\uf0e7\uf0f7\uf0e8\uf0f8smallest element is selected as pivot. what is the worst-case time^\nComplexity?\n```\n\nSolution.\n\n```\nT (n) = T\n16\n```\n\n```\n\uf0e6\uf0f6n\n\uf0e7\uf0f7\n\uf0e8\uf0f8\n```\n\n### + T\n\n```\n15\n16\n```\n\n```\n\uf0e6\uf0f6n\n\uf0e7\uf0f7\n\uf0e8\uf0f8\n```\n\n```\n+O (n)\n```\n\n```\n= (solve by recursive tree method)\n```\n\nExample 2: The median of n elements can be found in O (n) time then, what is the time complexity of quick sort algo in\nwhich median selected as pivot?\n\nSolution.\n\n```\nT (n) = O (n) + C + O (n) + T (n/2) + T (n/2)"
+    ]
+  },
+  "GATE_2022_Q7": {
+    "subject": "Operating Systems",
+    "topic": "Memory Management",
+    "core_concept": "Returning local variables/arrays from functions",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [
+      "start",
+      "end",
+      "length",
+      "modulus_divisor",
+      "return_increment",
+      "recursive_start_offset",
+      "recursive_end_offset"
+    ],
+    "immutable_fields": [
+      "recursive_function_structure",
+      "base_case_conditions",
+      "integer_arithmetic_rules",
+      "c_function_syntax"
+    ],
+    "transformation_rules": [
+      "CHANGE_NUMBERS",
+      "CHANGE_VARIABLE_NAMES",
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_2022_Q7",
+    "year": 2022,
+    "question": "Q3. Consider the following ANSI-C function.\n\nint func(int start, int end)\n{\nint length = end + 1 - start;\nif ((length < 1) || (start < 0) || (end < 0)) {\nreturn 0;\n}\nif (length % 3 == 0) {\nreturn (func(start + 1, end));\n}\nelse if (length % 3 == 1) {\nreturn 1 + func(start, end - 1);\n}\nelse {\nreturn func(start + 2, end);\n}\n}\nThe maximum possible value that can be returned from this function is __________. (answer in integer)",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "```\nC Programming\n```\n\n```\nint a = 10; // a is a local variable and goes out of scope after execution of f( )\nreturn &a :\n}\nint main () {\nint * ptr = f (); //Ptr points to something which is not valid\nprint (\u201c/d\u201d*,ptr);\nreturn 0 ;\n}",
+      "int *fun()\n{\nint marks [5];\nprint f (\u201cEnter the element in an array\u201d);\nfor (int i = 1 ; i < 5; i++)\n{\nscanf(\u201c%d\u201d,& marks[i]);\n}\nreturn marks;\n}\nint main()\n{\nint *n;\nn = fun();\nprintf(\u201c\\n Elements of array are:\u201d);\nfor(int i = 0; i < 5; i++)\n{\nprintf(\u201c%d\u201d,n[i]);\n}\nreturn 0;\n}\nNote:\nfun() function returns a variable \u2018marks\u2019.\nIt returns a local variable, but it is an illegal memory location to be returned, which is allocated with a function in the"
+    ]
+  },
+  "GATE_2022_Q8": {
+    "subject": "Data Structures",
+    "topic": "Arrays",
+    "core_concept": "C Function Calls",
+    "question_type": "NAT",
+    "requires_calculation": true,
+    "mutable_fields": [
+      "10",
+      "2",
+      "1",
+      "3",
+      "g",
+      "f",
+      "sum",
+      "n"
+    ],
+    "immutable_fields": [
+      "function_g_structure",
+      "function_f_structure",
+      "main_loop_structure",
+      "function_call_order"
+    ],
+    "transformation_rules": [
+      "CHANGE_NUMBERS",
+      "CHANGE_VARIABLE_NAMES",
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_2022_Q8",
+    "year": 2022,
+    "question": "Q4. Consider the following C program:\n\n#include <stdio.h>\nint g(int n)\n{\nreturn (n+10);\n}\nint f(int n)\n{\nreturn g(n*2);\n}\nint main()\n{\nint sum, n;\nsum=0;\n\nfor (n=1; n<=3; n++)\nsum += f(n);\n\nprintf(\"%d\", sum);\nreturn 0;\n}\nThe output of the given C program is________________  (Answer in integer)",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "```\nC Programming\n```\n\n```\nint a = 10; // a is a local variable and goes out of scope after execution of f( )\nreturn &a :\n}\nint main () {\nint * ptr = f (); //Ptr points to something which is not valid\nprint (\u201c/d\u201d*,ptr);\nreturn 0 ;\n}",
+      "```\n\n```\nC Array Example:\n# include <stdio.h>\nint main ()\n{\nint i = 0;\nint marks [5];\nmarks [0] = 80;\nmarks [1] = 60;\nmarks [2] = 70;\nmarks [3] = 85;\nmarks [4] = 75;\nfor(i = 0; i<5; i++)\n{\nprintf(\u201c%d\\n\u201d,marks[i]);\n}\nreturn 0;\n}"
+    ]
+  },
+  "GATE_2022_Q9": {
+    "subject": "Data Structures",
+    "topic": "Arrays",
+    "core_concept": "C Array Element Access",
+    "question_type": "NAT",
+    "requires_calculation": true,
+    "mutable_fields": [
+      "array_elements",
+      "array_size"
+    ],
+    "immutable_fields": [
+      "foo_function_logic",
+      "array_type"
+    ],
+    "transformation_rules": [
+      "CHANGE_NUMBERS",
+      "CHANGE_VARIABLE_NAMES",
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_2022_Q9",
+    "year": 2022,
+    "question": "Q5. #include <stdio.h>\nint foo(int S[], int size)\n{\nif(size == 0) return 0;\nif(size == 1) return 1;\nif(S[0] != S[1]) return 1+foo(S+1, size-1);\nreturn foo(S+1, size-1);\n}\nint main()\n{\nint A[]={0,1,2,2,2,0,0,1,1};\nprintf(\"%d\", foo(A, 9));\nreturn 0;\n}\nThe value printed by the given C program is_______.  (Answer in integer).",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "```\n\n```\nC Array Example:\n# include <stdio.h>\nint main ()\n{\nint i = 0;\nint marks [5];\nmarks [0] = 80;\nmarks [1] = 60;\nmarks [2] = 70;\nmarks [3] = 85;\nmarks [4] = 75;\nfor(i = 0; i<5; i++)\n{\nprintf(\u201c%d\\n\u201d,marks[i]);\n}\nreturn 0;\n}",
+      "# include<stdio.h>\n\nint main()\n{\nint i = 0, j = 0;\nint arrayHello[4][3] = {{1, 2, 3}, {2, 3, 4}, {4, 5, 6}};\nfor(i = 0; i < 3 ; i++)\n{\nfor(j = 0; j < 3; j++)\n{\nprintf(\u201carrayHello[%d][%d]=%d\\n\u201d,i,j,arrayHello[i][j])\n}\n}\nreturn 0;\n}\n\nOutput: arrayHello[0][0] = 1\narrayHello[0][1] = 2\narrayHello[0][2] = 3\narrayHello[1][0] = 2\narrayHello[1][1] = 3\narrayHello[1][2] = 4\narrayHello[2][0] = 3\narrayHello[2][1] = 4\narrayHello[2][2] = 5\narrayHello[3][0] = 4"
+    ]
+  },
+  "GATE_2022_Q10": {
+    "subject": "Compiler Design",
+    "topic": "Runtime Environments",
+    "core_concept": "Static and Dynamic Scoping",
+    "question_type": "MCQ",
+    "requires_calculation": true,
+    "mutable_fields": [
+      "10",
+      "20",
+      "f",
+      "g",
+      "h"
+    ],
+    "immutable_fields": [
+      "scoping_rules",
+      "function_call_structure"
+    ],
+    "transformation_rules": [
+      "CHANGE_NUMBERS",
+      "CHANGE_OPTION_ORDER",
+      "CHANGE_VARIABLE_NAMES",
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_2022_Q10",
+    "year": 2022,
+    "question": "Which one of the following options is the CORRECT output of the above C program?\nt main() {\n    f(g(10), h(20));\n}\nWhich one of the following options is the CORRECT output of the above C program?",
+    "options": [
+      "A) 20101020",
+      "B) 10202010",
+      "C) 20102010",
+      "D) 10201020"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\nC Programming\n```\n\n```\nint a = 10; // a is a local variable and goes out of scope after execution of f( )\nreturn &a :\n}\nint main () {\nint * ptr = f (); //Ptr points to something which is not valid\nprint (\u201c/d\u201d*,ptr);\nreturn 0 ;\n}",
+      "```\nC Programming\n```\n\nand dynamic scoping, let\u2019s try to find the output.\nThe order of function calls is:\n\n```\nmain () \u23af\u23af\u23af\u23af\u2192calling f()\u23af\u23af\u23af\u23af\u2192calling g()\n```\n\ng() is printing i, which is not present inside current block. So, because of dynamic scoping compiler will go to the function that\ncalls g() i.e., compiler will search f() for variable i. Hence 20 is printed.\n\n### \uf072\uf072\uf072\n\n### GATE WALLAH COMPUTER SCIENCE & INFORMATION TECHNOLOGY HANDBOOK\n\n```\nC Programming"
+    ]
+  },
+  "GATE_2022_Q11": {
+    "subject": "Data Structures",
+    "topic": "C Programming Fundamentals",
+    "core_concept": "Scope of local variables",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [
+      "i",
+      "j",
+      "loop_limit",
+      "increment_value"
+    ],
+    "immutable_fields": [
+      "variable_shadowing_rules",
+      "c_language_scope_rules",
+      "function_call_semantics"
+    ],
+    "transformation_rules": [
+      "CHANGE_NUMBERS",
+      "CHANGE_VARIABLE_NAMES",
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_2022_Q11",
+    "year": 2022,
+    "question": "Consider the following program in C:\n#include <stdio.h>\n\nvoid func(int i, int j) {\n    if (i < j) {\n        int i = 0;\n        while (i < 10) {\n            j += 2;\n            i++;\n        }\n    }\n\n    printf(\"%d\", i);\n}\n\nint main() {\n    int i = 9, j = 10;\n    func(i, j);\n    return 0;\n}",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "```\nC Programming\n```\n\n```\nint a = 10; // a is a local variable and goes out of scope after execution of f( )\nreturn &a :\n}\nint main () {\nint * ptr = f (); //Ptr points to something which is not valid\nprint (\u201c/d\u201d*,ptr);\nreturn 0 ;\n}",
+      "int *fun()\n{\nint marks [5];\nprint f (\u201cEnter the element in an array\u201d);\nfor (int i = 1 ; i < 5; i++)\n{\nscanf(\u201c%d\u201d,& marks[i]);\n}\nreturn marks;\n}\nint main()\n{\nint *n;\nn = fun();\nprintf(\u201c\\n Elements of array are:\u201d);\nfor(int i = 0; i < 5; i++)\n{\nprintf(\u201c%d\u201d,n[i]);\n}\nreturn 0;\n}\nNote:\nfun() function returns a variable \u2018marks\u2019.\nIt returns a local variable, but it is an illegal memory location to be returned, which is allocated with a function in the"
+    ]
+  },
+  "GATE_2024_Q12": {
+    "subject": "Compiler Design",
+    "topic": "Runtime Environments",
+    "core_concept": "Function Call Execution Flow",
+    "question_type": "MCQ",
+    "requires_calculation": true,
+    "mutable_fields": [
+      "f2_initial_argument",
+      "f1_return_value",
+      "f3_return_value",
+      "f2_base_case_condition",
+      "f2_recursive_multiplier",
+      "function_names",
+      "variable_names"
+    ],
+    "immutable_fields": [
+      "function_call_structure",
+      "recursive_definition_f2",
+      "conditional_logic_f2"
+    ],
+    "transformation_rules": [
+      "CHANGE_NUMBERS",
+      "CHANGE_OPTION_ORDER",
+      "CHANGE_VARIABLE_NAMES",
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_2024_Q12",
+    "year": 2024,
+    "question": "Which of the following options represent the activation function corresponding to the main function?\nint main() {\n    f1();\n    f2(2);\n    f3();\n    return 0;\n}\nint f1() {\n    return 1;\n}\nint f2(int x) {\n    f3();\n    if (x == 1) return f1();\n    else return (x * f2(x - 1));\n}\nint f3() {\n    return 5;\n}",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "```\n\nExample 1 :\nint a = 10;\nvoid main ()\n{\nint a = 1;\n{\nint a = 2\nprintf(\u201c%d\u201d,a);\n}\n}\nOutput: 2\nAs printf is referring to a, compiler first check in the current block & gets a variable whose value is 2.\n\nExample 2:\nint a = 10;\nvoid main ()\n{\nint a = 1;\n{\nScope S 1 int b;\n\nScope S 2 printf(\u201c%d\u201d,a);",
+      "```\nC Programming\n```\n\nand dynamic scoping, let\u2019s try to find the output.\nThe order of function calls is:\n\n```\nmain () \u23af\u23af\u23af\u23af\u2192calling f()\u23af\u23af\u23af\u23af\u2192calling g()\n```\n\ng() is printing i, which is not present inside current block. So, because of dynamic scoping compiler will go to the function that\ncalls g() i.e., compiler will search f() for variable i. Hence 20 is printed.\n\n### \uf072\uf072\uf072\n\n### GATE WALLAH COMPUTER SCIENCE & INFORMATION TECHNOLOGY HANDBOOK\n\n```\nC Programming"
+    ]
+  },
+  "GATE_2020_Q13": {
+    "subject": "Algorithms",
+    "topic": "Asymptotic Analysis",
+    "core_concept": "Loop Execution with Break Statement",
+    "question_type": "NAT",
+    "requires_calculation": true,
+    "mutable_fields": [
+      "input_value_1",
+      "input_value_2"
+    ],
+    "immutable_fields": [
+      "loop execution logic",
+      "break statement effect",
+      "print statement functionality"
+    ],
+    "transformation_rules": [
+      "CHANGE_NUMBERS",
+      "CHANGE_VARIABLE_NAMES",
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_2020_Q13",
+    "year": 2020,
+    "question": "The number of times that the print statement is executed by the call Count(1024, 1024) is ____ .",
+    "options": [
+      "A) 1024",
+      "B) 1024",
+      "C) 1024",
+      "D) 1024"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\n\nprintf(\u201c%d\\t\u201d,i);\nif (i > 4)\nbreak;\ni = i + 1;\n}\nprintf(\u201cEnd\u201d);\n}\nOutput: 1 2 3 4 End\nIn above code, when i becomes 5, the condition i > 4 becomes true, so break statement executes & control passed outside of\nthe loop body i.e., printf(\u201cEnd\u201d) executed.\n\n**2.6 Continue Statement**",
+      "```\n( )\n( )\n```\n\n```\nNo. of outcomes favouring event 'A' to happen\nTotal number of elements in 'S'\n```\n\n```\nnA\nPA\nnS"
+    ]
+  },
+  "GATE_2019_Q14": {
+    "subject": "Algorithms",
+    "topic": "Recurrences",
+    "core_concept": "Recursion",
+    "question_type": "MCQ",
+    "requires_calculation": true,
+    "mutable_fields": [
+      "initial_input_value_n"
+    ],
+    "immutable_fields": [
+      "recursive_structure",
+      "base_case",
+      "print_order"
+    ],
+    "transformation_rules": [
+      "CHANGE_NUMBERS",
+      "CHANGE_OPTION_ORDER",
+      "REWORD_SENTENCE",
+      "CHANGE_VARIABLE_NAMES"
+    ],
+    "question_id": "GATE_2019_Q14",
+    "year": 2019,
+    "question": "The output printed when fun1(5) is called is _____.",
+    "options": [
+      "A) 53423122233445",
+      "B) 53423120112233",
+      "C) 53423122132435",
+      "D) 53423120213243"
+    ],
+    "retrieved_go_classes_notes": [
+      "int *fun()\n{\nint marks [5];\nprint f (\u201cEnter the element in an array\u201d);\nfor (int i = 1 ; i < 5; i++)\n{\nscanf(\u201c%d\u201d,& marks[i]);\n}\nreturn marks;\n}\nint main()\n{\nint *n;\nn = fun();\nprintf(\u201c\\n Elements of array are:\u201d);\nfor(int i = 0; i < 5; i++)\n{\nprintf(\u201c%d\u201d,n[i]);\n}\nreturn 0;\n}\nNote:\nfun() function returns a variable \u2018marks\u2019.\nIt returns a local variable, but it is an illegal memory location to be returned, which is allocated with a function in the",
+      "```\n\nExample 2:\nvoid fun (in + n) T (n)\n{\nif (n > 0) C 1 time\n{\nfor (i = 1; i <= n; i + 1) n time\nprintf **(\u201cHello\u201d);**\nfun (n - 1); T (n - 1)\n}\n}\nSolution.\nT(n) = C 1 + n - 1 + T (n - 1)\n= T (n - 1) + n n > 0\nT (0) = C n = 0\n\nExample 3:\nvoid fun (in + n) T(n)\n{\nif (n > 0) C 1\n{\n\nfor (i = 1; i < = n; i = i*2) (^) \uf0ea\uf0fa\uf0eb\uf0fblog 2 n"
+    ]
+  },
+  "GATE_2018_Q15": {
+    "subject": "Operating Systems",
+    "topic": "Memory Management",
+    "core_concept": "Segmentation fault due to returning de-allocated memory location",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [
+      "memory_allocation_size",
+      "pointer_offset",
+      "loop_iterations",
+      "data_values"
+    ],
+    "immutable_fields": [
+      "stack_memory_management_rules",
+      "memory_deallocation_mechanism",
+      "behavior_of_accessing_deallocated_memory"
+    ],
+    "transformation_rules": [
+      "CHANGE_NUMBERS",
+      "CHANGE_OPTION_ORDER",
+      "CHANGE_VARIABLE_NAMES",
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_2018_Q15",
+    "year": 2018,
+    "question": "The output after executing the following program is _________.",
+    "options": [
+      "A) 53423122233445",
+      "B) 53423120112233",
+      "C) 53423122132435",
+      "D) 53423120213243"
+    ],
+    "retrieved_go_classes_notes": [
+      "B \uf0ac 4 \uf0b4 A\n\n- When these operations are performed in the order given, the result is B = 32. But if they are performed concurrently, the\n  value of A used in computing B would be the original value, 5, leading to an incorrect result. If these two operations are\n  performed by instructions in a program, then the instructions must be executed one after the other, because the data used\n  in the second instruction depend on the result of the first instruction. On the other hand, the two operations.",
+      "stack. Since the program control comes back to the main () function, and all the variables in the stack are fraud.\nTherefore, we can say that this program is returning memory location, which is already de-allocated, so the output of the\nprogram is a segmentation fault."
+    ]
+  },
+  "GATE_2017_Q16": {
+    "subject": "Operating Systems",
+    "topic": "Concurrency & Synchronization",
+    "core_concept": "Data Dependency in Concurrent Execution",
+    "question_type": "MCQ",
+    "requires_calculation": true,
+    "mutable_fields": [
+      "initial_value_A",
+      "multiplier_value",
+      "updated_value_A"
+    ],
+    "immutable_fields": [
+      "data_dependency_rule",
+      "concurrent_execution_context",
+      "sequential_execution_context"
+    ],
+    "transformation_rules": [
+      "CHANGE_NUMBERS",
+      "CHANGE_OPTION_ORDER",
+      "CHANGE_VARIABLE_NAMES",
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_2017_Q16",
+    "year": 2017,
+    "question": "The output after executing the following program is ___.",
+    "options": [
+      "A) 6",
+      "B) 6",
+      "C) 6",
+      "D) 6"
+    ],
+    "retrieved_go_classes_notes": [
+      "B \uf0ac 4 \uf0b4 A\n\n- When these operations are performed in the order given, the result is B = 32. But if they are performed concurrently, the\n  value of A used in computing B would be the original value, 5, leading to an incorrect result. If these two operations are\n  performed by instructions in a program, then the instructions must be executed one after the other, because the data used\n  in the second instruction depend on the result of the first instruction. On the other hand, the two operations.",
+      "stack. Since the program control comes back to the main () function, and all the variables in the stack are fraud.\nTherefore, we can say that this program is returning memory location, which is already de-allocated, so the output of the\nprogram is a segmentation fault."
+    ]
+  },
+  "GATE_2017_Q17": {
+    "subject": "Compiler Design",
+    "topic": "Runtime Environments",
+    "core_concept": "Program execution involving arithmetic assignments and iterative control flow",
+    "question_type": "MCQ",
+    "requires_calculation": true,
+    "mutable_fields": [
+      "function_argument_value",
+      "arithmetic_constant_3",
+      "arithmetic_constant_4",
+      "loop_condition_constant_3",
+      "variable_A",
+      "variable_B"
+    ],
+    "immutable_fields": [
+      "addition_operation",
+      "multiplication_operation",
+      "iteration_mechanism",
+      "post_iteration_expression_evaluation"
+    ],
+    "transformation_rules": [
+      "CHANGE_NUMBERS",
+      "CHANGE_OPTION_ORDER",
+      "CHANGE_VARIABLE_NAMES",
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_2017_Q17",
+    "year": 2017,
+    "question": "Invocation of foo(3) and bar(3) will result in:",
+    "options": [
+      "A) Return of 6 and 6 respectively.",
+      "B) Infinite loop and abnormal termination respectively",
+      "C) Abnormal termination and infinite loop respectively",
+      "D) Both terminating abnormally."
+    ],
+    "retrieved_go_classes_notes": [
+      "(c) expression \u2013 3 is evaluated after each iteration.",
+      "A \uf0ac 3 + A\n\nB \uf0ac 4 \uf0b4 A"
+    ]
+  },
+  "GATE_2017_Q18": {
+    "subject": "Compiler Design",
+    "topic": "Runtime Environments",
+    "core_concept": "Global Variable Scope and Function Call Execution",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [
+      "value_of_i",
+      "variable_name_i",
+      "function_name_g"
+    ],
+    "immutable_fields": [
+      "global_variable_scope",
+      "function_call_mechanism",
+      "program_execution_flow"
+    ],
+    "transformation_rules": [
+      "CHANGE_NUMBERS",
+      "CHANGE_VARIABLE_NAMES",
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_2017_Q18",
+    "year": 2017,
+    "question": "The value printed by the following program is ________.",
+    "options": [
+      "A) 6",
+      "B) 6",
+      "C) 6",
+      "D) 6"
+    ],
+    "retrieved_go_classes_notes": [
+      "call g();\n}\nProcedure g() {\nprint i;\n}\nAssuming that the above program is written in a hypothetical programming language which allows global variables",
+      "```\nComputer Organizations and Architecture\n```\n\n```\nT 2 , S 2 , H 2 , C 2\nL 2\n```\n\n```\nT 2 , S 2 , H 2 , C 2\nL 3\n```\n\nTavg = H 1 * T 1 + (1 \u2013 H 1 ) * H 2 * T 2 + (1 \u2013 H 1 ) * (1 \u2013 H 2 ) * T 3\n\nCase **\u2013** II: When fault occurs, must access from L1.\n\nTavg = H 1 * T 1 + (1\u2013H 1 ) (H 2 ) (T 2 + T 1 ) + (1\u2013H 1 ) (1\u2013H 2 ) (T 3 + T 2 + T 1 )\n\n* Average cost per bit\n\nCAvg =\n1 2\n\n```\n1 1 2 2\nS S\n```\n\n```\nCS CS\n+\n```\n\n```\n+\n(Two - level)\n```\n\nCAvg =\n1 2 3\n\n```\n1 1 2 2 3 3\nS S S\n```\n\n```\nCS CS CS\n+ +\n```"
+    ]
+  },
+  "GATE_2017_Q19": {
+    "subject": "Data Structures",
+    "topic": "Arrays",
+    "core_concept": "C Array Declaration and Initialization Rules",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [
+      "array_dimensions",
+      "initializer_list_values",
+      "data_type",
+      "variable_name"
+    ],
+    "immutable_fields": [
+      "C_language_array_rules",
+      "syntax_for_multi_dimensional_arrays"
+    ],
+    "transformation_rules": [
+      "CHANGE_NUMBERS",
+      "CHANGE_OPTION_ORDER",
+      "CHANGE_VARIABLE_NAMES",
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_2017_Q19",
+    "year": 2017,
+    "question": "Which one of the following expressions, when placed in the blank above, will NOT result in a type checking error?",
+    "options": [
+      "A) f(s, *s)",
+      "B) i = f(i, s)",
+      "C) f(i, *s)",
+      "D) f(i, *p)"
+    ],
+    "retrieved_go_classes_notes": [
+      "1. int A[ ] = {10, 20, 30}: valid\n2. int A[3] = {10, 20, 30}: valid\n3. int A[ ] ; invalid\n4. int A[3] ; valid\n5. int A[2][3]; valid\n6. int A[ ] [3]; = {10, 20, 30}: invalid\n7. int A[2] [3]; = {1, 2, 3, 4, 5, 6}: valid\n8. int A[ ] [3]; = {1, 2, 3, 4, 5, 6}: valid\n9. int A[2] [3] [2]; invalid\n10. int A[ ] [3] [2]; invalid\n11. int A[ ] [2] [ ]; invalid\n12. int A[ ] [ ] [2]; invalid\n13. int A[2] [3] [2]; = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12,}; valid",
+      "```\n\n14. int A[ ] [3] [2]; = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12,}; valid\n15. int A[2] [ ] [2]; = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12,}; invalid\n16. int A[2] [3] [ ]; = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12,}; invalid\n\nNote:"
+    ]
+  },
+  "GATE_2017_Q20": {
+    "subject": "Compiler Design",
+    "topic": "Runtime Environments",
+    "core_concept": "Function Definition and Calling",
+    "question_type": "MCQ",
+    "requires_calculation": true,
+    "mutable_fields": [
+      "initial_n_value",
+      "static_d_initial_value",
+      "recursion_condition_threshold",
+      "recursion_step_decrement"
+    ],
+    "immutable_fields": [
+      "static_variable_scope",
+      "recursive_function_structure",
+      "printf_statements_order"
+    ],
+    "transformation_rules": [
+      "CHANGE_NUMBERS",
+      "CHANGE_OPTION_ORDER",
+      "CHANGE_VARIABLE_NAMES",
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_2017_Q20",
+    "year": 2017,
+    "question": "void count(int n){\n    static int d = 1;\n    printf(\"%d \", n);\n    printf(\"%d \", d);\n    d++;\n    if(n > 1) count(n - 1);\n    printf(\"%d \", d);\n}\nvoid main(){\n    count(3);\n}",
+    "options": [
+      "A) 312213444",
+      "B) 312111222",
+      "C) 3122134",
+      "D) 3121112"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\nint add (int int);\nvoid main() {\nint (*ptr) (int, int);\nptr = &add;\nprintf (\u201c%d\u201d, (*ptr)(10, 20));\n}\n```\n\n```\nint add (int int);\nvoid main() {\nint (*ptr) (int, int):\nptr = add;\nprintf (\u201c%d\u201d, (*ptr) (10, 20));\n}\nint add (int, int) ;\nvoid main() {\nint(*ptr) (int, int);\nprt= &add;\nprintf (\u201c%d\u201d, (*ptr)(10, 20));\n}\n```\n\n```\nint add (int, int);\nvoid main() {\nint (*ptr) (int, int);\nprt= add;\nprintf (\u201c%d\u201d, (*ptr) (10, 20));\n}",
+      "# include<stdio.h>\n\nint main()\n{\nint i = 0, j = 0;\nint arrayHello[4][3] = {{1, 2, 3}, {2, 3, 4}, {4, 5, 6}};\nfor(i = 0; i < 3 ; i++)\n{\nfor(j = 0; j < 3; j++)\n{\nprintf(\u201carrayHello[%d][%d]=%d\\n\u201d,i,j,arrayHello[i][j])\n}\n}\nreturn 0;\n}\n\nOutput: arrayHello[0][0] = 1\narrayHello[0][1] = 2\narrayHello[0][2] = 3\narrayHello[1][0] = 2\narrayHello[1][1] = 3\narrayHello[1][2] = 4\narrayHello[2][0] = 3\narrayHello[2][1] = 4\narrayHello[2][2] = 5\narrayHello[3][0] = 4"
+    ]
+  },
+  "GATE_2016_Q21": {
+    "subject": "Algorithms",
+    "topic": "Recurrences",
+    "core_concept": "Divide-and-Conquer Algorithms",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "CHANGE_NUMBERS"
+    ],
+    "question_id": "GATE_2016_Q21",
+    "year": 2016,
+    "question": "If get(6) function is being called in main() then how many times will the get() function be invoked before returning to the main?",
+    "options": [
+      "A) 15",
+      "B) 25",
+      "C) 35"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\n( )\n( )\n```\n\n```\nNo. of outcomes favouring event 'A' to happen\nTotal number of elements in 'S'\n```\n\n```\nnA\nPA\nnS",
+      "```\nC Programming\n```\n\nand dynamic scoping, let\u2019s try to find the output.\nThe order of function calls is:\n\n```\nmain () \u23af\u23af\u23af\u23af\u2192calling f()\u23af\u23af\u23af\u23af\u2192calling g()\n```\n\ng() is printing i, which is not present inside current block. So, because of dynamic scoping compiler will go to the function that\ncalls g() i.e., compiler will search f() for variable i. Hence 20 is printed.\n\n### \uf072\uf072\uf072\n\n### GATE WALLAH COMPUTER SCIENCE & INFORMATION TECHNOLOGY HANDBOOK\n\n```\nC Programming"
+    ]
+  },
+  "GATE_2016_Q22": {
+    "subject": "Computer Organization and Architecture",
+    "topic": "Machine Instructions & Addressing Modes",
+    "core_concept": "Machine Instructions & Addressing Modes",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "CHANGE_NUMBERS"
+    ],
+    "question_id": "GATE_2016_Q22",
+    "year": 2016,
+    "question": "Consider the following C program. The output of the program is __________.",
+    "options": [
+      "A) 45",
+      "B) 45",
+      "C) 45",
+      "D) 45"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\nC Programming\n```\n\nand dynamic scoping, let\u2019s try to find the output.\nThe order of function calls is:\n\n```\nmain () \u23af\u23af\u23af\u23af\u2192calling f()\u23af\u23af\u23af\u23af\u2192calling g()\n```\n\ng() is printing i, which is not present inside current block. So, because of dynamic scoping compiler will go to the function that\ncalls g() i.e., compiler will search f() for variable i. Hence 20 is printed.\n\n### \uf072\uf072\uf072\n\n### GATE WALLAH COMPUTER SCIENCE & INFORMATION TECHNOLOGY HANDBOOK\n\n```\nC Programming",
+      "```\nC Programming\n```\n\n```\nint a = 10; // a is a local variable and goes out of scope after execution of f( )\nreturn &a :\n}\nint main () {\nint * ptr = f (); //Ptr points to something which is not valid\nprint (\u201c/d\u201d*,ptr);\nreturn 0 ;\n}"
+    ]
+  },
+  "GATE_2016_Q23": {
+    "subject": "Algorithms",
+    "topic": "Recursion and Divide-and-Conquer",
+    "core_concept": "Divide-and-Conquer Algorithm",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "CHANGE_VARIABLE_NAMES"
+    ],
+    "question_id": "GATE_2016_Q23",
+    "year": 2016,
+    "question": "Consider the following C function: int fun (int n) { int x = 1, k; if (n == 1) return x; for (k = 1; k < n; ++k) x = x + fun (k) * fun (n \u2013 k); return x; } The return value of fun (5) is _______.",
+    "options": [
+      "A) 10",
+      "B) 10",
+      "C) 10",
+      "D) 10"
+    ],
+    "retrieved_go_classes_notes": [
+      "int *fun()\n{\nint marks [5];\nprint f (\u201cEnter the element in an array\u201d);\nfor (int i = 1 ; i < 5; i++)\n{\nscanf(\u201c%d\u201d,& marks[i]);\n}\nreturn marks;\n}\nint main()\n{\nint *n;\nn = fun();\nprintf(\u201c\\n Elements of array are:\u201d);\nfor(int i = 0; i < 5; i++)\n{\nprintf(\u201c%d\u201d,n[i]);\n}\nreturn 0;\n}\nNote:\nfun() function returns a variable \u2018marks\u2019.\nIt returns a local variable, but it is an illegal memory location to be returned, which is allocated with a function in the",
+      "```\nC Programming\n```\n\n```\nint a = 10; // a is a local variable and goes out of scope after execution of f( )\nreturn &a :\n}\nint main () {\nint * ptr = f (); //Ptr points to something which is not valid\nprint (\u201c/d\u201d*,ptr);\nreturn 0 ;\n}"
+    ]
+  },
+  "GATE_2015_Q24": {
+    "subject": "Data Structures",
+    "topic": "Linked Lists",
+    "core_concept": "None explicitly mentioned in the given notes but related to string manipulation and linked lists.",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2015_Q24",
+    "year": 2015,
+    "question": "Consider the following C function written the C programming language. The output of the above function on input \"ABCD EFGH\" is",
+    "options": [
+      "A) ABCD EFGD",
+      "B) ABCD",
+      "C) HGFE DCBA",
+      "D) DCBA"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\nC Programming\n```\n\n```\nint a = 10; // a is a local variable and goes out of scope after execution of f( )\nreturn &a :\n}\nint main () {\nint * ptr = f (); //Ptr points to something which is not valid\nprint (\u201c/d\u201d*,ptr);\nreturn 0 ;\n}",
+      "- \uf07e x has output as \u2013 (x + 1)\n- printf (\u201c%d\\n\u201d, ~2) has output -3 i.e., -(2 + 1)\n- Comma has lowest precedence among all operators in C language.\n- sizeof() is used\n  (i) To find the number of elements present in an array.\n  (ii) To dynamically allocate block of memory.\n\n**1.2. 8 Ternary operator (? :)**"
+    ]
+  },
+  "GATE_2015_Q25": {
+    "subject": "Data Structures",
+    "topic": "Arrays",
+    "core_concept": "None explicitly mentioned in the provided notes, but related to array manipulation and sub-array sums.",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "CHANGE_OPTION_ORDER"
+    ],
+    "question_id": "GATE_2015_Q25",
+    "year": 2015,
+    "question": "Consider the following C function in which size is the number of elements in the array E: The value returned by the function MyX is the",
+    "options": [
+      "A) maximum possible sum of elements in any sub-array of array E",
+      "B) maximum element in any sub-array of array E",
+      "C) sum of the maximum elements in all possible sub-arrays of array E",
+      "D) the sum of all the elements in the array."
+    ],
+    "retrieved_go_classes_notes": [
+      "int *fun()\n{\nint marks [5];\nprint f (\u201cEnter the element in an array\u201d);\nfor (int i = 1 ; i < 5; i++)\n{\nscanf(\u201c%d\u201d,& marks[i]);\n}\nreturn marks;\n}\nint main()\n{\nint *n;\nn = fun();\nprintf(\u201c\\n Elements of array are:\u201d);\nfor(int i = 0; i < 5; i++)\n{\nprintf(\u201c%d\u201d,n[i]);\n}\nreturn 0;\n}\nNote:\nfun() function returns a variable \u2018marks\u2019.\nIt returns a local variable, but it is an illegal memory location to be returned, which is allocated with a function in the",
+      "# include<stdio.h>\n\nvoid helloarray(char * marks)\n{\nprintf(\u201cElements of array are:\u201d);\nfor(int i = 0; i < 5; i++)\n{\nprintf(\u201c%c\u201d, marks[i])\n}\nint main()\n{\nchar marks[5] = {\u2018A\u2019, \u2018B\u2019, \u2018C\u2019, \u2018D\u2019, \u2018E\u2019};\nhelloarray(marks);\nreturn 0;\n}\n}\nNote:\nWhenever you pass an array, it is always call by reference. In previous 2 programs, we passed an address & formal\nargument in both the cases is a pointer internally."
+    ]
+  },
+  "GATE_2011_Q28": {
+    "subject": "Data Structures",
+    "topic": "Linked Lists",
+    "core_concept": "None",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "CHANGE_NUMBERS"
+    ],
+    "question_id": "GATE_2011_Q28",
+    "year": 2011,
+    "question": "What is the return value of the function foo when it is called as foo(345, 10)?",
+    "options": [
+      "A) 345",
+      "B) 12",
+      "C) 5",
+      "D) 3"
+    ],
+    "retrieved_go_classes_notes": [
+      "int *fun()\n{\nint marks [5];\nprint f (\u201cEnter the element in an array\u201d);\nfor (int i = 1 ; i < 5; i++)\n{\nscanf(\u201c%d\u201d,& marks[i]);\n}\nreturn marks;\n}\nint main()\n{\nint *n;\nn = fun();\nprintf(\u201c\\n Elements of array are:\u201d);\nfor(int i = 0; i < 5; i++)\n{\nprintf(\u201c%d\u201d,n[i]);\n}\nreturn 0;\n}\nNote:\nfun() function returns a variable \u2018marks\u2019.\nIt returns a local variable, but it is an illegal memory location to be returned, which is allocated with a function in the",
+      "Ex 2 :\nvoid main() {\nint (*ptr) (int, int);\nptr = add ; // same as ptr = & add\nprintf (\u201c The sum of 10 and 20 is\u201d, (*ptr) (10, 20));\n\n- A function can be called using following 4 ways using pointer to fuction."
+    ]
+  },
+  "GATE_2012_Q31": {
+    "subject": "Algorithms",
+    "topic": "Asymptotic Analysis",
+    "core_concept": "Recurrence Relations and Master Theorem",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "CHANGE_OPTION_ORDER"
+    ],
+    "question_id": "GATE_2012_Q31",
+    "year": 2012,
+    "question": "The running time of f1(n) and f2(n) are",
+    "options": [
+      "A) \u0398(n) and \u0398(n)",
+      "B) \u0398(2\u207f) and \u0398(n)",
+      "C) \u0398(n) and \u0398(2\u207f)",
+      "D) \u0398(2\u207f) and \u0398(2\u207f)"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\n\n(^2) )\nT (n) = C; n = 1\nT(n) = 2T(n \u2013 1 ) + C ; n > 1 O(2\nn)\nT (n) = C; n = 1\nT(n) = 2T\n2\n\uf0e6\uf0f6n\n\uf0e7\uf0f7\uf0e8\uf0f8^ + C ; n^ > 1^\n\uf071(n)\nT (n) = C; n = 1\nT(n) = 2T\n2\n\uf0e6\uf0f6n\n\uf0e7\uf0f7\uf0e8\uf0f8^ + n^ ; n^ > 1^\n\uf071(nlogn)\nT (n) = C; n = 1\nT(n) = T\n2\n\uf0e6\uf0f6n\n\uf0e7\uf0f7\uf0e8\uf0f8^ + C; n^ > 1^\n\uf071(logn)\nT (n) = 1; n = 2\nT(n) = T( n) + C; n > 2 \uf071(loglogn)^\n**1.1 1 Space Complexities**\n\n**GATE WALLAH COMPUTER SCIENCE & INFORMATION TECHNOLOGY HANDBOOK**\n\n```\nAlgorithm",
+      "```\ndd\uf03d \uf0de \uf03dd.\n```\n\n```\nNote: When two objects move with speeds s 1 and s 2"
+    ]
+  },
+  "GATE_2008_Q35": {
+    "subject": "Algorithms",
+    "topic": "Searching, Sorting, Hashing",
+    "core_concept": "None explicitly mentioned but related to string manipulation and input/output operations",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2008_Q35",
+    "year": 2008,
+    "question": "Choose the correct option to fill ?1 and ?2 so that the program below prints an input string in reverse order. Assume that the input string is terminated by a newline character.",
+    "options": [
+      "A) ?1 is (getchar() != '\\n') ?2 is getchar(c);",
+      "B) ?1 is (c = getchar()) != '\\n' ?2 is getchar(c);",
+      "C) ?1 is (c != '\\n') ?2 is putchar(c);",
+      "D) ?1 is ((c = getchar()) != '\\n') ?2 is putchar(c);"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\n\n**2 .4. 9 Operator Precedence Grammar**\n\nFormat: (1) No 2 or more variable side by side\n(2) No \uf0ce production.\n\nExample:\n\n**2.2. 10 Checking LL (1) without Table**\n\nA\uf0ae \uf061 1 |\uf061 1 |\uf061 1 then \uf0ae A\uf0ae \uf061 1 |\uf061 2 |\uf061 3 |\uf0ce\uf020\n\uf020\nfirst (\uf061 1 ) \uf0c7 first (\uf061 2 ) = \uf0c6 first (\uf061 1 ) \uf0c7 first (\uf061 2 ) = \uf0c6\nfirst (\uf061 1 ) \uf0c7 first (\uf061 3 ) = \uf0c6 first (\uf061 1 ) \uf0c7 first (\uf061 3 ) = \uf0c6\nfirst (\uf061 2 ) \uf0c7 first (\uf061 3 ) = \uf0c6 first (\uf061 2 ) \uf0c7 first (\uf061 3 ) = \uf0c6\uf020\nfollow (A) \uf0c7 first (\uf061 1 ) = \uf0c6\uf020\nfollow (A) \uf0c7 first (\uf061 2 ) = \uf0c6\uf020\nfollow (A) \uf0c7 first (\uf061 3 ) = \uf0c6\uf020",
+      "```\n\nprintf(\u201c%d\\t\u201d,i);\nif (i > 4)\nbreak;\ni = i + 1;\n}\nprintf(\u201cEnd\u201d);\n}\nOutput: 1 2 3 4 End\nIn above code, when i becomes 5, the condition i > 4 becomes true, so break statement executes & control passed outside of\nthe loop body i.e., printf(\u201cEnd\u201d) executed.\n\n**2.6 Continue Statement**"
+    ]
+  },
+  "GATE_2006_Q36": {
+    "subject": "Digital Logic",
+    "topic": "Boolean Algebra",
+    "core_concept": "Boolean Algebra Operations",
+    "question_type": "MSQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "CHANGE_OPTION_ORDER"
+    ],
+    "question_id": "GATE_2006_Q36",
+    "year": 2006,
+    "question": "Consider this C code to swap two integers and these five statements:",
+    "options": [
+      "A) S1",
+      "B) S2 and S3",
+      "C) S2 and S4",
+      "D) S2 and S5"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\n\n2\n\n**CONTROL FLOW STATEMENTS**\n\n**2.1 Switch Statement**",
+      "```\nC Programming\n```\n\n```\nPa = a ;\nboth are same."
+    ]
+  },
+  "GATE_2005_Q37": {
+    "subject": "Engineering Mathematics",
+    "topic": "Linear Algebra",
+    "core_concept": "None explicitly mentioned in the provided notes, but related to matrix operations and potentially array manipulation in C programming.",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "CHANGE_OPTION_ORDER",
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_2005_Q37",
+    "year": 2005,
+    "question": "Consider the following C-program:",
+    "options": [
+      "A) no compile warning or error",
+      "B) some compiler-warnings not leading to unintended results",
+      "C) some compiler-warnings due to type-mismatch eventually leading to unintended results",
+      "D) compiler errors"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\nC Programming\n```\n\nFor ex.\n\n```\n11\n21 22\n31 32 33\n41 42 43 44\n```\n\n### 000\n\n### 00\n\n### 0\n\n### A\n\n### AA\n\n### A\n\n### A A A\n\n### A A A A\n\n### \uf0e9\uf0f9\n\n### \uf0ea\uf0fa\n\n### =\uf0ea\uf0fa\n\n### \uf0ea\uf0fa\n\n### \uf0ea\uf0fa\n\n### \uf0eb\uf0fb\n\n**6.2.5 Upper triangular Matrix**\n\n```\n11 12 13 14\n22 23 24\n33 34\n44",
+      "```\n\u2751\u2751\u2751\n```\n\n### GATE WALLAH COMPUTER SCIENCE & INFORMATION TECHNOLOGY HANDBOOK\n\n```\nC Programming"
+    ]
+  },
+  "GATE_0_Q38": {
+    "subject": "Algorithms",
+    "topic": "Asymptotic Analysis, Recurrences, Greedy Algorithms",
+    "core_concept": "Understanding and solving recurrence relations through substitution method",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_0_Q38",
+    "year": 0,
+    "question": "Replacing n with \u230alog\u2082 n\u230b until it becomes 1. It counts how many times this process happens. We need foo(n) = 5. That means: n \u2192 \u230alog\u2082 n\u230b \u2192 \u230alog\u2082 (\u230alog\u2082 n\u230b)\u230b \u2192 ... \u2192 1 This must take 4 reductions (since base case gives 1). Try values: n = 16 log\u208216 = 4 log\u20824 = 2 log\u20822 = 1 Steps: 16 \u2192 4 \u2192 2 \u2192 1 Now count: foo(1) = 1 foo(2) = 1 + 1 = 2 foo(4) = 1 + 2 = 3 foo(16) = 1 + 3 = 4 So 16 gives 4. Try n = 17: \u230alog\u208217\u230b = 4 Then same chain: 4 \u2192 2 \u2192 1 So foo(17) = 1 + foo(4) = 1 + 3 = 4 So still 4. We need one more level. Try n = 65536 (2^16): 65536 \u2192 16 \u2192 4 \u2192 2 \u2192 1 Now count: foo(1) = 1 foo(2) = 2 foo(4) = 3 foo(16) = 4 foo(65536) = 5 Now check smaller: We need \u230alog\u2082 n\u230b = 16 Smallest n with \u230alog\u2082 n\u230b = 16 is: n = 2^16 = 65536 Therefore, the smallest positive integer n is: 65536.",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "\uf05c=ff 12 O( )\n2 n\uf03c \uf03c \uf03c \uf03c^3 n^4 n nn! n\nQuestion.\nWhich of following is TRUE?\n(1) 2 log^2 n=O(n )^2 TRUE\n(2) nn^25 \uf0d7= 2 3log^2 n O( ) TRUE\n(3) 2 nn=O(2 )^2 TRUE\n(4) lognn=O(log log ) FALSE\n(5) log logn=O( log )n n TRUE\nSolution:\n(1) 2 log^2 n=O(n )^2\n=nlog 2^2\n=n",
+      "for (i = 1; i < = n; i = i*2) (^) \uf0ea\uf0fa\uf0eb\uf0fblog 2 n\n\n**GATE WALLAH COMPUTER SCIENCE & INFORMATION TECHNOLOGY HANDBOOK** (^) **6. 10\nAlgorithm**\nprintf **(\u201cDivyajyoti\u201d);**\nfun (n - 1); T (n - 1)\n}\n}\nSolution. T (n) = T (n - 1) + O (log 2 n); n > 0\nor\nT (n) = T (n - 1) + log 2 n\nT (0) = C or n = 0\nT (0) = O (1)\n\n**1. 9 Solving Recurrence Relation\n\n1. 9 .1 Substitution Method**\n\nExample: (1)\nT (n) = T (n - 1) + C\nT (1) = C"
+    ]
+  },
+  "GATE_0_Q39": {
+    "subject": "Data Structures",
+    "topic": "Arrays",
+    "core_concept": "Array Initialization and Access",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "CHANGE_NUMBERS"
+    ],
+    "question_id": "GATE_0_Q39",
+    "year": 0,
+    "question": "8. So: printf(%d, i); prints 9.",
+    "options": [
+      "A) printf(%d, i);",
+      "B) printf(%d, i);",
+      "C) printf(%d, i);",
+      "D) printf(%d, i);"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\nint add (int int);\nvoid main() {\nint (*ptr) (int, int);\nptr = &add;\nprintf (\u201c%d\u201d, (*ptr)(10, 20));\n}\n```\n\n```\nint add (int int);\nvoid main() {\nint (*ptr) (int, int):\nptr = add;\nprintf (\u201c%d\u201d, (*ptr) (10, 20));\n}\nint add (int, int) ;\nvoid main() {\nint(*ptr) (int, int);\nprt= &add;\nprintf (\u201c%d\u201d, (*ptr)(10, 20));\n}\n```\n\n```\nint add (int, int);\nvoid main() {\nint (*ptr) (int, int);\nprt= add;\nprintf (\u201c%d\u201d, (*ptr) (10, 20));\n}",
+      "# include<stdio.h>\n\nint main()\n{\nint i = 0, j = 0;\nint arrayHello[4][3] = {{1, 2, 3}, {2, 3, 4}, {4, 5, 6}};\nfor(i = 0; i < 3 ; i++)\n{\nfor(j = 0; j < 3; j++)\n{\nprintf(\u201carrayHello[%d][%d]=%d\\n\u201d,i,j,arrayHello[i][j])\n}\n}\nreturn 0;\n}\n\nOutput: arrayHello[0][0] = 1\narrayHello[0][1] = 2\narrayHello[0][2] = 3\narrayHello[1][0] = 2\narrayHello[1][1] = 3\narrayHello[1][2] = 4\narrayHello[2][0] = 3\narrayHello[2][1] = 4\narrayHello[2][2] = 5\narrayHello[3][0] = 4"
+    ]
+  },
+  "GATE_2022_Q43": {
+    "subject": "Data Structures",
+    "topic": "Arrays, Stacks, Queues, Linked Lists, Trees, Binary Search Trees, Binary Heaps, Graphs",
+    "core_concept": "Dynamic Memory Allocation",
+    "question_type": "MSQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "CHANGE_OPTION_ORDER"
+    ],
+    "question_id": "GATE_2022_Q43",
+    "year": 2022,
+    "question": "In C runtime environment, which one of the following is stored in heap?",
+    "options": [
+      "A) A static variable declared inside a function",
+      "B) An array of integers declared inside a function",
+      "C) A dynamically allocated array of integers created using malloc() function call",
+      "D) Return address of a function"
+    ],
+    "retrieved_go_classes_notes": [
+      "**3.1.4 Stack**\n- In this local variables are stored and some other information is also saved.\n- A set of values stored for a function is called as stack frame which atleast contain return address.\n  **3.1.5 Heap**\n- This area is responsible for dynamic memory allocation. The heap area is managed by malloc(), calloc(), ralloc() and free()\n  which may be use brk() and sbrk() system calls.\n  **3.1.6 Static Memory**\n- Compile time allocation\n- Static variable\n- Global Variable",
+      "```\n\n3\n\n**STORAGE CLASS & FUNCTION**\n\n**3.1 Memory Organization of C Program**\n\n**3.1.1 Code Segment**"
+    ]
+  },
+  "GATE_2022_Q44": {
+    "subject": "Digital Logic",
+    "topic": "Combinational Circuits",
+    "core_concept": "4-input Multiplexer",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "CHANGE_NUMBERS"
+    ],
+    "question_id": "GATE_2022_Q44",
+    "year": 2022,
+    "question": "The output of the above program is__________  .",
+    "options": [
+      "A) 36",
+      "B) 24",
+      "C) 30",
+      "D) 20"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\n\nOutput\nY\n0 0 I 0\n0 1 I 1\n1 0 I 2\n1 1 I 3\nOutput Y for a 4-input multiplexer is",
+      "```\nOutputs\nA B C\n1 0 0 0 0 0 0 0 0 0 0\n0 1 0 0 0 0 0 0 0 0 1\n0 0 1 0 0 0 0 0 0 1 0\n0 0 0 1 0 0 0 0 0 1 1\n0 0 0 0 1 0 0 0 1 0 0\n0 0 0 0 0 1 0 0 1 0 1\n0 0 0 0 0 0 1 0 1 1 0\n0 0 0 0 0 0 0 1 1 1 1\n```\n\nThe logical expressions for the outputs as follows:\nA = D 4 + D 5 + D 6 + D 7\nB = D 2 + D 3 + D 6 + D 7\nC = D 1 + D 3 + D 5 + D 7\n\n**3. 13 .2. Octal to Binary Encoder**\n\n```\nFig. 3.31. Logic Diagram of Octal-to Binary Encoder"
+    ]
+  },
+  "GATE_2022_Q45": {
+    "subject": "Engineering Mathematics",
+    "topic": "Linear Algebra",
+    "core_concept": "None",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "CHANGE_OPTION_ORDER",
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_2022_Q45",
+    "year": 2022,
+    "question": "The output of the given C program is__________  .",
+    "options": [
+      "A) @#Hello World!",
+      "B) Hello World!",
+      "C) ello World!",
+      "D) Hello World!d!"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\nC Programming\n```\n\nFor ex.\n\n```\n11\n21 22\n31 32 33\n41 42 43 44\n```\n\n### 000\n\n### 00\n\n### 0\n\n### A\n\n### AA\n\n### A\n\n### A A A\n\n### A A A A\n\n### \uf0e9\uf0f9\n\n### \uf0ea\uf0fa\n\n### =\uf0ea\uf0fa\n\n### \uf0ea\uf0fa\n\n### \uf0ea\uf0fa\n\n### \uf0eb\uf0fb\n\n**6.2.5 Upper triangular Matrix**\n\n```\n11 12 13 14\n22 23 24\n33 34\n44",
+      "```\nC Programming"
+    ]
+  },
+  "GATE_0_Q49": {
+    "subject": "Algorithms",
+    "topic": "Searching, Sorting, Hashing",
+    "core_concept": "Divide-and-Conquer Algorithms",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "CHANGE_NUMBERS",
+      "CHANGE_OPTION_ORDER",
+      "CHANGE_VARIABLE_NAMES",
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_0_Q49",
+    "year": 0,
+    "question": "Let's analyze how many swap operations are performed when the function fun() is called with an array of 30 distinct integers initially sorted in descending order.",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "```\n\nConsequently, the number of combinations of n objects taken r at a time, with repetition, is C(n + r \u2013 1, r).\n\n**4.1.1 we recognize the equivalence of the following:**\n\n(a) The number of integer solutions of the equation\n\nx 1 + x 2 + ... + xn = r, xi \u2265 0, 1 \u2264 i \u2264 n.\n\n(b) The number of selections, with repetition, of size r from a collection of size n.\n\n(c) The number of ways r identical objects can be distributed among n distinct containers.\n\n(^) n\n2n 2n 1 2n\nb,\nn n 1 n1n",
+      "int *fun()\n{\nint marks [5];\nprint f (\u201cEnter the element in an array\u201d);\nfor (int i = 1 ; i < 5; i++)\n{\nscanf(\u201c%d\u201d,& marks[i]);\n}\nreturn marks;\n}\nint main()\n{\nint *n;\nn = fun();\nprintf(\u201c\\n Elements of array are:\u201d);\nfor(int i = 0; i < 5; i++)\n{\nprintf(\u201c%d\u201d,n[i]);\n}\nreturn 0;\n}\nNote:\nfun() function returns a variable \u2018marks\u2019.\nIt returns a local variable, but it is an illegal memory location to be returned, which is allocated with a function in the"
+    ]
+  },
+  "GATE_0_Q57": {
+    "subject": "Algorithms",
+    "topic": "Recurrences and Asymptotic Analysis",
+    "core_concept": "Divide-and-Conquer Algorithms",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_0_Q57",
+    "year": 0,
+    "question": "Initial: str1 = \"Hi\", str2 = \"Bye\". Call fun1(str1, str2). fun1 gets copies of the pointers. Swapping s1 and s2 locally doesn\u2019t change str1 and str2 in main. So after fun1: str1 still points to \"Hi\", str2 still points to \"Bye\".",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "( 1 ) strlen (): returns the length of the string passed as an argument.\n(2) strcpy (): copies the contents of one string to another. strcpy (S 1 ,S 2 ) copies the content of string S 2 to string S 1.\n(3) strcmp (): compares the first string with the second string. If both are same it returns 0.\nstrcmp (str1,str2) returns 0 if both strings are same.\n(4) strcat (S 1 ,S 2 ): concat S 1 string with S 2 string and the result i.e concatenation of S 1 ,S 2 is stored in S 1.",
+      "```\n\nExample 2:\nvoid fun (in + n) T (n)\n{\nif (n > 0) C 1 time\n{\nfor (i = 1; i <= n; i + 1) n time\nprintf **(\u201cHello\u201d);**\nfun (n - 1); T (n - 1)\n}\n}\nSolution.\nT(n) = C 1 + n - 1 + T (n - 1)\n= T (n - 1) + n n > 0\nT (0) = C n = 0\n\nExample 3:\nvoid fun (in + n) T(n)\n{\nif (n > 0) C 1\n{\n\nfor (i = 1; i < = n; i = i*2) (^) \uf0ea\uf0fa\uf0eb\uf0fblog 2 n"
+    ]
+  },
+  "GATE_0_Q59": {
+    "subject": "Computer Organization and Architecture",
+    "topic": "Machine Instructions & Addressing Modes",
+    "core_concept": "None explicitly mentioned but related to printf function behavior",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "CHANGE_NUMBERS",
+      "CHANGE_OPTION_ORDER",
+      "CHANGE_VARIABLE_NAMES",
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_0_Q59",
+    "year": 0,
+    "question": "Second printf: Bye Hi. Final output: Hi ByeBye Hi (no space between the two prints in the code)",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "}\n  O/P: Hello\n  printf function display everything written within double quotes on the monitor and the result / value returned\n  by printf () is the number of characters successfully displayed on the screen.\n  So, printf (\u201cHello\u201d) prints Hello and return 5.\n  So, the expression\n  printf (\u201cHello\u201d) || printf (\u201cPankaj\u201d);\n  becomes\n  5 || printf (\u201cPankaj\u201d)\n  As the first operand for logical OR is evaluated as true, second printf () will never execute.",
+      "```\nprintf(\u201cSushil\u201d)"
+    ]
+  },
+  "GATE_0_Q60": {
+    "subject": "Data Structures",
+    "topic": "Arrays",
+    "core_concept": "Pointer Arrays and Memory Allocation",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "CHANGE_VARIABLE_NAMES"
+    ],
+    "question_id": "GATE_0_Q60",
+    "year": 0,
+    "question": "Static char var: A variable located in Data Section of memory m=malloc(10) m=Null A lost memory which cannot be freed (Free (m) is mission here). char *ptr[10]; Sequence of memory locations to store address. (10 memory locations) register int var1;",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "- String literals are stored in read only memory area i.e \u201cpankaj\u201d is stored first & then the address of character \u2018p\u2019 is given\n  to ptr.\n\n### GATE WALLAH COMPUTER SCIENCE & INFORMATION TECHNOLOGY HANDBOOK",
+      "- We are allowed to change content of array and hence we can update any character.\n\n(3) # include<stdio.h>\nvoid main() {\nchar * ptr = \u201cPankaj\u201d ;\nptr = \u201cNeeraj\u201d ;\nprintf(\u201c%s\u201d, ptr);\n}\nOutput: Neeraj\n\n- Pointer ptr being a variable can hold different address at different time. Hence, we can assign another string to a character\n  pointer any time.\n\n(4) # include<stdio.h>\nvoid main()\n{\nchar * ptr = \u201cpankaj\u201d ;\nptr [1] = \u2018u\u2019 ; // Invalid\nprintf(\u201c%s\u201d, ptr);\n}"
+    ]
+  },
+  "GATE_2017_Q61": {
+    "subject": "Algorithms",
+    "topic": "Searching, Sorting, Hashing",
+    "core_concept": "None",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2017_Q61",
+    "year": 2017,
+    "question": "Given the string c = \"GATECSIT2017\" and p = c, compute strlen(c + 2[p] - 6[p] - 1).",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\n\n(^2) )\nT (n) = C; n = 1\nT(n) = 2T(n \u2013 1 ) + C ; n > 1 O(2\nn)\nT (n) = C; n = 1\nT(n) = 2T\n2\n\uf0e6\uf0f6n\n\uf0e7\uf0f7\uf0e8\uf0f8^ + C ; n^ > 1^\n\uf071(n)\nT (n) = C; n = 1\nT(n) = 2T\n2\n\uf0e6\uf0f6n\n\uf0e7\uf0f7\uf0e8\uf0f8^ + n^ ; n^ > 1^\n\uf071(nlogn)\nT (n) = C; n = 1\nT(n) = T\n2\n\uf0e6\uf0f6n\n\uf0e7\uf0f7\uf0e8\uf0f8^ + C; n^ > 1^\n\uf071(logn)\nT (n) = 1; n = 2\nT(n) = T( n) + C; n > 2 \uf071(loglogn)^\n**1.1 1 Space Complexities**\n\n**GATE WALLAH COMPUTER SCIENCE & INFORMATION TECHNOLOGY HANDBOOK**\n\n```\nAlgorithm",
+      "**GATE WALLAH COMPUTER SCIENCE & INFORMATION TECHNOLOGY HANDBOOK** (^) **6. 7\nAlgorithm**\n(^) ==nnO( )^2\n(2) nn^25 \uf0d7= 2 3log^2 n O( )\n=\uf0d7nn^2 3log 2^2\n=\uf0d7nn^23\n=n^5\n==nn^55 O( )\n(3)\n2\n2\n2\n\n### 22\n\n### 2 2 .2\n\n### 22"
+    ]
+  },
+  "GATE_2016_Q62": {
+    "subject": "Algorithms",
+    "topic": "Asymptotic Analysis",
+    "core_concept": "Recurrences",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2016_Q62",
+    "year": 2016,
+    "question": "void mystery(int *ptra, int *ptrb) { int *temp; temp = ptrb; ptrb = ptra; ptra = temp; }",
+    "options": [
+      "A) No effect on a or b",
+      "B) Mystery call modifies a and b",
+      "C) Mystery call modifies ptra and ptrb",
+      "D) Mystery call does not modify a or b"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\n\nExample 2:\nvoid fun (in + n) T (n)\n{\nif (n > 0) C 1 time\n{\nfor (i = 1; i <= n; i + 1) n time\nprintf **(\u201cHello\u201d);**\nfun (n - 1); T (n - 1)\n}\n}\nSolution.\nT(n) = C 1 + n - 1 + T (n - 1)\n= T (n - 1) + n n > 0\nT (0) = C n = 0\n\nExample 3:\nvoid fun (in + n) T(n)\n{\nif (n > 0) C 1\n{\n\nfor (i = 1; i < = n; i = i*2) (^) \uf0ea\uf0fa\uf0eb\uf0fblog 2 n",
+      "```\nC Programming\n```\n\n```\nint a = 10; // a is a local variable and goes out of scope after execution of f( )\nreturn &a :\n}\nint main () {\nint * ptr = f (); //Ptr points to something which is not valid\nprint (\u201c/d\u201d*,ptr);\nreturn 0 ;\n}"
+    ]
+  },
+  "GATE_2016_Q63": {
+    "subject": "Computer Organization and Architecture",
+    "topic": "Machine Instructions & Addressing Modes",
+    "core_concept": "Address Calculation in Arrays",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2016_Q63",
+    "year": 2016,
+    "question": "Given the arrays x[4][3] with base address 2000 and size of unsigned int 4 bytes, evaluate the following expressions: x + 3, *(x + 3), *(x + 2) + 3.",
+    "options": [
+      "A) 2036, 2036, 2036",
+      "B) 2036, 2036, 2036",
+      "C) 2036, 2036, 2036",
+      "D) 2036, 2036, 2036"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\n(ii) 3 \u2013 address Instructions\n```\n\n(^) Opcode A 1 A 2 A 3\n\n- Each address field specify a register or memory operand.\n- It results in short program when evaluating arithmetic expressions.\n- Requires too many bits to specify three addresses\n  Example: To evaluate X = (A + B) * (C + D)\n  Add R 1 , A, B R 1 \uf0ac M[A] + M[B]\n  Add R 2 , C, D R 2 \uf0ac M[C] + M[D]\n  MUL X, R 1 , R 2 M[X] \uf0ac R 1 * R 2\n\nFor these instructions program counter must be required.\n\n```\n(iii) 2 \u2013 address Instructions:",
+      "(a) In RMO\n\nAddress (A[i] [j]) = Base Address (A) + [(j-starting index) + (i \u2013 starting index) \u00d7 M]xw\n\n(b) In CMO\n\nBase Address (A) + [(i \u2013 starting index) + (j \u2013 starting index) \u00d7 M] \u00d7 w\n\n**6.2.3 Sparse Matrices**\n\nMost of the element of the matrix have 0 value and representing such matrix by a 2D array leads to wastage of memory and\nthat is why, it is better than we will only store non-zero elements (Efficient method).\n\n**6.2.4 Lower Triangular Matrix**\n\nn \u00d7 n\n\nAij = 0 if i < j"
+    ]
+  },
+  "GATE_2016_Q64": {
+    "subject": "Data Structures",
+    "topic": "Arrays",
+    "core_concept": "Array Indexing and String Manipulation",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "CHANGE_VARIABLE_NAMES"
+    ],
+    "question_id": "GATE_2016_Q64",
+    "year": 2016,
+    "question": "Given char s1[7] = \"1234\" and p = s1 + 2, what is the value printed by printf(\"%s\", s1)?",
+    "options": [
+      "A) 1204",
+      "B) 1234",
+      "C) 1234",
+      "D) 1204"
+    ],
+    "retrieved_go_classes_notes": [
+      "# include<stdio.h>\n\nint main()\n{\nint i = 0, j = 0;\nint arrayHello[4][3] = {{1, 2, 3}, {2, 3, 4}, {4, 5, 6}};\nfor(i = 0; i < 3 ; i++)\n{\nfor(j = 0; j < 3; j++)\n{\nprintf(\u201carrayHello[%d][%d]=%d\\n\u201d,i,j,arrayHello[i][j])\n}\n}\nreturn 0;\n}\n\nOutput: arrayHello[0][0] = 1\narrayHello[0][1] = 2\narrayHello[0][2] = 3\narrayHello[1][0] = 2\narrayHello[1][1] = 3\narrayHello[1][2] = 4\narrayHello[2][0] = 3\narrayHello[2][1] = 4\narrayHello[2][2] = 5\narrayHello[3][0] = 4",
+      "}\n  O/P: Hello\n  printf function display everything written within double quotes on the monitor and the result / value returned\n  by printf () is the number of characters successfully displayed on the screen.\n  So, printf (\u201cHello\u201d) prints Hello and return 5.\n  So, the expression\n  printf (\u201cHello\u201d) || printf (\u201cPankaj\u201d);\n  becomes\n  5 || printf (\u201cPankaj\u201d)\n  As the first operand for logical OR is evaluated as true, second printf () will never execute."
+    ]
+  },
+  "GATE_2022_Q65": {
+    "subject": "Digital Logic",
+    "topic": "Boolean Algebra, Combinational Circuits, Sequential Circuits",
+    "core_concept": "No core concept extracted directly from the provided notes as it does not pertain to digital logic concepts.",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "CHANGE_NUMBERS",
+      "CHANGE_OPTION_ORDER",
+      "CHANGE_VARIABLE_NAMES",
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_2022_Q65",
+    "year": 2022,
+    "question": "to a[3] = 40\nSo **ptr = 40\nOutput: 1 and 40 \u2192 140\n\n22.",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "```\n\uf044 = {x, y}\nOutput is associated with transition.\n```\n\n- No extra output is produced.\n- For 3 length input, we are getting the 3 length\n  output.\n\n**2.9 Difference between Moore machine and Mealy machine**\n\n```\nMoore machine Mealy machine\n```\n\n1. (^) \uf064 Q \u00d7\uf0e5 \uf0ae Q Q \u00d7\uf0e5 \uf0ae Q\n\n### 2.\n\n### \uf06c Q \uf0ae \uf020\uf044 Q \u00d7\uf0e5 \uf0ae \uf020\uf044\n\n### 3.\n\n```\nLength of O/p\nIf n length I/P (assume 1 length O/P\nsymbol is taken at each state) then\nO/P length is (n+1).\n```",
+      "```\n\nOutput\nY\n0 0 I 0\n0 1 I 1\n1 0 I 2\n1 1 I 3\nOutput Y for a 4-input multiplexer is"
+    ]
+  },
+  "GATE_0_Q72": {
+    "subject": "Computer Organization and Architecture",
+    "topic": "Machine Instructions & Addressing Modes",
+    "core_concept": "Machine Instructions, Addressing Modes",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "CHANGE_NUMBERS",
+      "CHANGE_OPTION_ORDER",
+      "CHANGE_VARIABLE_NAMES",
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_0_Q72",
+    "year": 0,
+    "question": "The value printed by the given C program is ________  .",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "```\nC Programming\n```\n\n```\nint a = 10; // a is a local variable and goes out of scope after execution of f( )\nreturn &a :\n}\nint main () {\nint * ptr = f (); //Ptr points to something which is not valid\nprint (\u201c/d\u201d*,ptr);\nreturn 0 ;\n}",
+      "```\nC Programming\n```\n\n```\nPa = a ;\nboth are same."
+    ]
+  },
+  "GATE_0_Q73": {
+    "subject": "Computer Organization and Architecture",
+    "topic": "Machine Instructions & Addressing Modes",
+    "core_concept": "Segmentation Fault",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_0_Q73",
+    "year": 0,
+    "question": "The output of the given C code segment is________  .",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "```\n\n3\n\n**STORAGE CLASS & FUNCTION**\n\n**3.1 Memory Organization of C Program**\n\n**3.1.1 Code Segment**",
+      "stack. Since the program control comes back to the main () function, and all the variables in the stack are fraud.\nTherefore, we can say that this program is returning memory location, which is already de-allocated, so the output of the\nprogram is a segmentation fault."
+    ]
+  },
+  "GATE_0_Q74": {
+    "subject": "Digital Logic",
+    "topic": "Boolean Algebra",
+    "core_concept": "XOR operation and its binary representation",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_0_Q74",
+    "year": 0,
+    "question": "Consider the following ANSI C code segment: z = x + 3 + y->f1 + y\u2192f2;",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "```\nC Programming\n```\n\nFor ex.\n\n```\n11\n21 22\n31 32 33\n41 42 43 44\n```\n\n### 000\n\n### 00\n\n### 0\n\n### A\n\n### AA\n\n### A\n\n### A A A\n\n### A A A A\n\n### \uf0e9\uf0f9\n\n### \uf0ea\uf0fa\n\n### =\uf0ea\uf0fa\n\n### \uf0ea\uf0fa\n\n### \uf0ea\uf0fa\n\n### \uf0eb\uf0fb\n\n**6.2.5 Upper triangular Matrix**\n\n```\n11 12 13 14\n22 23 24\n33 34\n44",
+      "#include<stdio.h>\nint main () {\nint x = 3, y = 6;\nprintf (\u201c%d\\n\u201d,x & y); // output 2\nprintf (\u201c%d\\n\u201d,x|y); // output 7\nprintf (\u201c%d\\n\u201d, x^y) // output 5\nreturn 0;\n}\nbinary representation of 3: 00000000...0011\nbinary representation of 6: 00000000...0110\n3 & 6: 00000000...0010\n3 | 6: 00000000...0111\n3 ^ 6: 00000000...0101\nXOR of two bits is 1 if both bits are different.\nXOR of two bits is 0 if both bits are same."
+    ]
+  },
+  "GATE_2022_Q75": {
+    "subject": "Algorithms",
+    "topic": "Searching, Sorting, Hashing",
+    "core_concept": "Asymptotic Analysis, Recurrences, Greedy Algorithms, Dynamic Programming, Divide-and-Conquer, Graph Traversals, Shortest Paths, Minimum Spanning Trees",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "CHANGE_OPTION_ORDER"
+    ],
+    "question_id": "GATE_2022_Q75",
+    "year": 2022,
+    "question": "Consider the following segment of C-code:\n\nint j, n;\n\nj = 1;\n\nwhile (j <= n)\n\nj = j * 2;\n\nThe number of comparisons made in the execution of\nthe loop for any n>0 is:",
+    "options": [
+      "A) \\(\\lceil\\log_2 n\\rceil + 1\\)",
+      "B) \\(n\\)",
+      "C) \\(\\lceil\\log_2 n\\rceil\\)",
+      "D) \\(\\lfloor\\log_2 n\\rfloor + 1\\)"
+    ],
+    "retrieved_go_classes_notes": [
+      "- for loop executes the loop body 0 or more times.\n- for statements works as follows:\n  (a) expression \u2013 1 is evaluated once before the first iteration of the loop.\n  (b) expression \u2013 2 is a expression that determines whether to terminate the loop. expression \u2013 2 is evaluated before every\n  iteration.\n  If the expression is true (non - zero), the loop body executed.\n  If the expression is false (zero), execution of the for statement is terminated.",
+      "```\n1 if 1 or 2\n()\n2 1; 2\n2\n```\n\n```\nnn\nTn n\nTn\n```\n\n### \uf0ec\uf0fc==\n\n### =\uf0ef\uf0ef\n\n### \uf0ed\uf0fd\uf0e6\uf0f6+\uf03e\n\n### \uf0ef\uf0ef\uf0e7\uf0f7\uf0e8\uf0f8\n\n### \uf0ee\uf0fe\n\nTime Complexity:\n\nT n( )=O n( )\n\n- Time complexity is same for every case (Best case/Worst case).\n\nSpace Complexity:\n\n**GATE WALLAH COMPUTER SCIENCE & INFORMATION TECHNOLOGY HANDBOOK**\n\n```\nAlgorithm\n```\n\nSpace Complexity\n\n```\n( ) (log )\n()\n```\n\n```\nO n O n\nOn\n```\n\n### =+\n\n### =\n\nNumber of comparisons to find maximum / minimum element on an given array of n elements:\n\nComparison =^32\n2"
+    ]
+  },
+  "GATE_0_Q76": {
+    "subject": "Engineering Mathematics",
+    "topic": "Linear Algebra",
+    "core_concept": "Not applicable to the given question",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_0_Q76",
+    "year": 0,
+    "question": "Consider the following three ANSI \u2013 C programs. P1, P2, and P3",
+    "options": [
+      "A) Only P1 will compile without any error",
+      "B) Only P2 will compile without any error",
+      "C) Only P3 will compile without any error",
+      "D) All three programs P1, P2, and P3 will compile without any error"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\nC Programming\n```\n\nFor ex.\n\n```\n11\n21 22\n31 32 33\n41 42 43 44\n```\n\n### 000\n\n### 00\n\n### 0\n\n### A\n\n### AA\n\n### A\n\n### A A A\n\n### A A A A\n\n### \uf0e9\uf0f9\n\n### \uf0ea\uf0fa\n\n### =\uf0ea\uf0fa\n\n### \uf0ea\uf0fa\n\n### \uf0ea\uf0fa\n\n### \uf0eb\uf0fb\n\n**6.2.5 Upper triangular Matrix**\n\n```\n11 12 13 14\n22 23 24\n33 34\n44",
+      "```\n\n```\nMarks [4]\n```\n\n```\nMarks [3]\n```\n\n### GATE WALLAH COMPUTER SCIENCE & INFORMATION TECHNOLOGY HANDBOOK\n\n```\nC Programming"
+    ]
+  },
+  "GATE_0_Q77": {
+    "subject": "Algorithms",
+    "topic": "Recursion",
+    "core_concept": "Recursion",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "CHANGE_OPTION_ORDER"
+    ],
+    "question_id": "GATE_0_Q77",
+    "year": 0,
+    "question": "Consider the recursive functions represented by the following code segment:",
+    "options": [
+      "A) Only P1 will compile without any error",
+      "B) Only P2 will compile without any error",
+      "C) Only P3 will compile without any error",
+      "D) All three programs P1, P2, and P3 will compile without any error"
+    ],
+    "retrieved_go_classes_notes": [
+      "**3.3 Recursion**\n\nDefinition: When the body of a function call the function itself directly or indirectly.",
+      "```\n\n**4 .18 Decidability problems for Recursive languages**\n\n(^) Problems Recursive"
+    ]
+  },
+  "GATE_0_Q78": {
+    "subject": "Engineering Mathematics",
+    "topic": "Linear Algebra",
+    "core_concept": "None",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "CHANGE_NUMBERS",
+      "CHANGE_OPTION_ORDER",
+      "CHANGE_VARIABLE_NAMES",
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_0_Q78",
+    "year": 0,
+    "question": "Consider the following ANSI-C function.",
+    "options": [
+      "A) Only P1 will compile without any error",
+      "B) Only P2 will compile without any error",
+      "C) Only P3 will compile without any error",
+      "D) All three programs P1, P2, and P3 will compile without any error"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\nC Programming\n```\n\nFor ex.\n\n```\n11\n21 22\n31 32 33\n41 42 43 44\n```\n\n### 000\n\n### 00\n\n### 0\n\n### A\n\n### AA\n\n### A\n\n### A A A\n\n### A A A A\n\n### \uf0e9\uf0f9\n\n### \uf0ea\uf0fa\n\n### =\uf0ea\uf0fa\n\n### \uf0ea\uf0fa\n\n### \uf0ea\uf0fa\n\n### \uf0eb\uf0fb\n\n**6.2.5 Upper triangular Matrix**\n\n```\n11 12 13 14\n22 23 24\n33 34\n44",
+      "```\n\uf0c8 ...... \uf0c8 En = S) and 'A' is any event with in the sample space 'S', then\n```\n\n\ud835\udc43(\ud835\udc34)=\ud835\udc43(\ud835\udc38 1 )\u22c5\ud835\udc43(\ud835\udc34/\ud835\udc38 1 )+\ud835\udc43(\ud835\udc38 2 )\u22c5\ud835\udc43(\ud835\udc34/\ud835\udc38 2 )+......+\ud835\udc43(\ud835\udc38\ud835\udc5b)\u22c5\ud835\udc43(\ud835\udc34/\ud835\udc38\ud835\udc5b)\n\n```\n1\n```\n\n```\n( ) ( ) ( / )\n```\n\n```\nn\nii\ni\n```\n\n```\nP A P E P A E\n=\n```\n\n=\uf0e5\n\n**GATE WALLAH COMPUTER SCIENCE & INFORMATION TECHNOLOGY HANDBOOK**\n\n```\nEngineering Mathematics\nEngineering Mathematics"
+    ]
+  },
+  "GATE_2022_Q80": {
+    "subject": "Engineering Mathematics",
+    "topic": "Linear Algebra",
+    "core_concept": "Eigenvalues and Eigenvectors",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "REWORD_SENTENCE"
+    ],
+    "question_id": "GATE_2022_Q80",
+    "year": 2022,
+    "question": "The output of the given C program is________________",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "```\nC Programming",
+      "```\nC Programming"
+    ]
+  },
+  "GATE_2015_Q26": {
+    "subject": "Algorithms",
+    "topic": "Asymptotic Analysis",
+    "core_concept": "Understanding time complexity through bitwise operations",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2015_Q26",
+    "year": 2015,
+    "question": "Consider the function shown below : int func(int num) { int count = 0; while (num) { count ++; num>> = 1; } return (count); } The value returned by the function func (435) is _____.",
+    "options": [
+      "A) 20",
+      "B) 20",
+      "C) 20",
+      "D) 20"
+    ],
+    "retrieved_go_classes_notes": [
+      "int *fun()\n{\nint marks [5];\nprint f (\u201cEnter the element in an array\u201d);\nfor (int i = 1 ; i < 5; i++)\n{\nscanf(\u201c%d\u201d,& marks[i]);\n}\nreturn marks;\n}\nint main()\n{\nint *n;\nn = fun();\nprintf(\u201c\\n Elements of array are:\u201d);\nfor(int i = 0; i < 5; i++)\n{\nprintf(\u201c%d\u201d,n[i]);\n}\nreturn 0;\n}\nNote:\nfun() function returns a variable \u2018marks\u2019.\nIt returns a local variable, but it is an illegal memory location to be returned, which is allocated with a function in the",
+      "Ex 1 :\n  int add (int, int):\n  void main () {\n  int (*ptr) (int, int);\n  ptr = &add; // ptr is a pointer to add() function\n  printf (\u201cThe sum of 10 and 20 is\u201d, (*ptr )(10, 20)); //calling add()\n  }\n  int add (int, int);"
+    ]
+  },
+  "GATE_2012_Q27": {
+    "subject": "Engineering Mathematics",
+    "topic": "Calculus",
+    "core_concept": "Integration and its properties",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2012_Q27",
+    "year": 2012,
+    "question": "What is the return value of the function foo when it is called as foo (513, 2)?",
+    "options": [
+      "A) 9",
+      "B) 8",
+      "C) 5",
+      "D) 2"
+    ],
+    "retrieved_go_classes_notes": [
+      "int *fun()\n{\nint marks [5];\nprint f (\u201cEnter the element in an array\u201d);\nfor (int i = 1 ; i < 5; i++)\n{\nscanf(\u201c%d\u201d,& marks[i]);\n}\nreturn marks;\n}\nint main()\n{\nint *n;\nn = fun();\nprintf(\u201c\\n Elements of array are:\u201d);\nfor(int i = 0; i < 5; i++)\n{\nprintf(\u201c%d\u201d,n[i]);\n}\nreturn 0;\n}\nNote:\nfun() function returns a variable \u2018marks\u2019.\nIt returns a local variable, but it is an illegal memory location to be returned, which is allocated with a function in the",
+      "```\n\n14. (^) \u222b\u221a\ud835\udc53\ud835\udc53 _\u2032_ ((\ud835\udc65\ud835\udc65))\ud835\udc51\ud835\udc65= 2 .\u221a\ud835\udc53(\ud835\udc65)+\ud835\udc36\n15. If f(x), g(x) are two functions. that are differentiable, then\n\n(^) \u222b\ud835\udc53(\ud835\udc65) \ud835\udc54(\ud835\udc65)\ud835\udc51\ud835\udc65=\ud835\udc53(\ud835\udc65).\u222b\ud835\udc54(\ud835\udc65)\ud835\udc51\ud835\udc65\u2212\u222b[\ud835\udc53 _\u2032_ (\ud835\udc65)\ud835\udc54(\ud835\udc65)]\ud835\udc51\ud835\udc65+\ud835\udc36"
+    ]
+  },
+  "GATE_2010_Q29": {
+    "subject": "Computer Organization and Architecture",
+    "topic": "Digital Logic",
+    "core_concept": "Boolean Algebra, Combinational Circuits, Sequential Circuits",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2010_Q29",
+    "year": 2010,
+    "question": "What does the following program print?",
+    "options": [
+      "A) 2 2",
+      "B) 2 1",
+      "C) 0 1",
+      "D) 0 2"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\nprintf(\u201cSushil\u201d)",
+      "debugging a program."
+    ]
+  },
+  "GATE_2012_Q30": {
+    "subject": "Computer Organization and Architecture",
+    "topic": "Machine Instructions & Addressing Modes",
+    "core_concept": "Instruction execution and addressing modes in CPUs",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2012_Q30",
+    "year": 2012,
+    "question": "The value printed is:",
+    "options": [
+      "A) 6",
+      "B) 8",
+      "C) 14",
+      "D) 15"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\nprintf(\u201cSushil\u201d)",
+      "LCS (p,q)\n{\n1.\n01\n[ 1] 0"
+    ]
+  },
+  "GATE_2012_Q32": {
+    "subject": "Engineering Mathematics",
+    "topic": "Linear Algebra",
+    "core_concept": "Eigenvalues of a matrix and its transpose are the same",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2012_Q32",
+    "year": 2012,
+    "question": "f1(8) and f2(8) return the values",
+    "options": [
+      "A) 1661 and 1640",
+      "B) 59 and 59",
+      "C) 1640 and 1640",
+      "D) 1640 and 1661"
+    ],
+    "retrieved_go_classes_notes": [
+      "(e) Eigen Values of A & AT are the same.\n\n(f) Eigen Values of \ud835\udc58 1 \ud835\udc34+\ud835\udc58 2 \ud835\udc3c (Where \ud835\udc58 1 and \ud835\udc58 2 are scalar) are",
+      "```\n\n```\nOutputs\nA B\n0 0 0 0 X X\n1 0 0 0 0 0\nX 1 0 0 0 1\nX X 1 0 1 0\nX X X 1 1 1"
+    ]
+  },
+  "GATE_2012_Q33": {
+    "subject": "Computer Organization and Architecture",
+    "topic": "Machine Instructions & Addressing Modes",
+    "core_concept": "Machine Instructions and Addressing Modes",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2012_Q33",
+    "year": 2012,
+    "question": "What is printed by the following C program?",
+    "options": [
+      "A) 18",
+      "B) 19",
+      "C) 21",
+      "D) 22"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\nC Programming",
+      "```\nC Programming"
+    ]
+  },
+  "GATE_2012_Q34": {
+    "subject": "Discrete Mathematics",
+    "topic": "Propositional & First Order Logic",
+    "core_concept": "There is at least one replacement a from the universe for which \uf0d8p(a) is false and p(a) is true.",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2012_Q34",
+    "year": 2012,
+    "question": "Which of the following are true?",
+    "options": [
+      "A) II and V only",
+      "B) I, III and IV only",
+      "C) I, II and V only",
+      "D) II, III and V only"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\n\n```\nThere is at least one replacement a from\nthe universe for which \uf0d8p(a) is false and\np(a) is true.\n```\n\n```\nStatement When True? When False?\n```\n\n```\n\uf022x\uf022yP(x, y)\n\uf022y\uf022xP(x, y)\n```\n\n```\nP(x, y) is true for every pair x, y There is a pair x, y for which\nP(x, y) is false.\n```\n\n```\n\uf022x\uf024yP(x, y) For every x^ there is a y^ for which P(x, y) is\ntrue\n```\n\n```\nThere is an x such that\nP(x, y) is false for every y.\n\uf024x\uf022yP(x, y) There is an x^ for which P(x, y) is true for\nevery y.\n```",
+      "```\n\n```\nThere is at least one replacement a from\nthe universe for which p(a) is false.\n```\n\n```\n\uf024x \uf0d8 p(x)\n```\n\n```\nFor at least one choice a in\nThe universe, p(a) is false, so\nIts negation \uf0d8p(a) is true.\n```\n\n```\nFor every replacement a in the universe,\np(a) is true.\n```\n\nGATE WALLAH COMPUTER SCIENCE & INFORMATION TECHNOLOGY HANDBOOK\n\n```\nDiscrete Mathematics\n```\n\n```\n\uf022x \uf0d8 p(x)\n```\n\n```\nFor every replacement a from\nThe universe, p(a) is false and its\nnegation \uf0d8p(a) is true\n```"
+    ]
+  },
+  "GATE_0_Q40": {
+    "subject": "Theory of Computation",
+    "topic": "Regular Expressions, Finite Automata (DFA/NFA)",
+    "core_concept": "Finite Automata (DFA/NFA) and Regular Expressions",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_0_Q40",
+    "year": 0,
+    "question": "10. Initially, total = y[0] = 1.",
+    "options": [
+      "A) Initially, total = y[0] = 1.",
+      "B) Initially, total = y[0] = 1.",
+      "C) Initially, total = y[0] = 1.",
+      "D) Initially, total = y[0] = 1."
+    ],
+    "retrieved_go_classes_notes": [
+      "```\n0 1 m = x y 1 M = x + y 1\n1 0 m = x y 2 M = x + y 2",
+      "```\n\n```\nOutputs\nA B\n0 0 0 0 X X\n1 0 0 0 0 0\nX 1 0 0 0 1\nX X 1 0 1 0\nX X X 1 1 1"
+    ]
+  },
+  "GATE_0_Q41": {
+    "subject": "Algorithms",
+    "topic": "Recurrences and Asymptotic Analysis",
+    "core_concept": "Understanding recursive function calls and their behavior",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_0_Q41",
+    "year": 0,
+    "question": "12. fun2(5) fun1(5) \u2192 fun1::i becomes 0+5 = 5, returns 5.",
+    "options": [
+      "A) fun2(5) fun1(5) \u2192 fun1::i becomes 0+5 = 5, returns 5.",
+      "B) fun2(5) fun1(5) \u2192 fun1::i becomes 0+5 = 5, returns 5.",
+      "C) fun2(5) fun1(5) \u2192 fun1::i becomes 0+5 = 5, returns 5.",
+      "D) fun2(5) fun1(5) \u2192 fun1::i becomes 0+5 = 5, returns 5."
+    ],
+    "retrieved_go_classes_notes": [
+      "```\n\nExample 2:\nvoid fun (in + n) T (n)\n{\nif (n > 0) C 1 time\n{\nfor (i = 1; i <= n; i + 1) n time\nprintf **(\u201cHello\u201d);**\nfun (n - 1); T (n - 1)\n}\n}\nSolution.\nT(n) = C 1 + n - 1 + T (n - 1)\n= T (n - 1) + n n > 0\nT (0) = C n = 0\n\nExample 3:\nvoid fun (in + n) T(n)\n{\nif (n > 0) C 1\n{\n\nfor (i = 1; i < = n; i = i*2) (^) \uf0ea\uf0fa\uf0eb\uf0fblog 2 n",
+      "```\n0 1 m = x y 1 M = x + y 1\n1 0 m = x y 2 M = x + y 2"
+    ]
+  },
+  "GATE_2022_Q42": {
+    "subject": "Digital Logic",
+    "topic": "Combinational Circuits",
+    "core_concept": "Octal to Binary Encoder",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2022_Q42",
+    "year": 2022,
+    "question": "The output of the program is __________.",
+    "options": [
+      "A) 20",
+      "B) 24",
+      "C) 30",
+      "D) 20"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\n\n```\nOutputs\nA B\n0 0 0 0 X X\n1 0 0 0 0 0\nX 1 0 0 0 1\nX X 1 0 1 0\nX X X 1 1 1",
+      "```\nOutputs\nA B C\n1 0 0 0 0 0 0 0 0 0 0\n0 1 0 0 0 0 0 0 0 0 1\n0 0 1 0 0 0 0 0 0 1 0\n0 0 0 1 0 0 0 0 0 1 1\n0 0 0 0 1 0 0 0 1 0 0\n0 0 0 0 0 1 0 0 1 0 1\n0 0 0 0 0 0 1 0 1 1 0\n0 0 0 0 0 0 0 1 1 1 1\n```\n\nThe logical expressions for the outputs as follows:\nA = D 4 + D 5 + D 6 + D 7\nB = D 2 + D 3 + D 6 + D 7\nC = D 1 + D 3 + D 5 + D 7\n\n**3. 13 .2. Octal to Binary Encoder**\n\n```\nFig. 3.31. Logic Diagram of Octal-to Binary Encoder"
+    ]
+  },
+  "GATE_2022_Q46": {
+    "subject": "Digital Logic",
+    "topic": "Sequential Circuits",
+    "core_concept": "Flip-flops and their states in synchronous counters",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2022_Q46",
+    "year": 2022,
+    "question": "The number of swap operations that will be performed, if the function fun0 is called with \ud835\udc34[0, \u2026 ,29] as argument, is ____ .",
+    "options": [
+      "A) 15",
+      "B) 16",
+      "C) 17",
+      "D) 18"
+    ],
+    "retrieved_go_classes_notes": [
+      "=\n1 : 0 1\n2 : 1 0\n3 : if A = 0 then A1=\n4 : A = A (Double inversion)\n**1.1.2. AND Operation**\nIt is a logical operation that are performed by AND gate. The AND operation in Boolean Algebra is similar to\nmultiplication in ordinary algebra.\n1: A 0 0\uf0d7= (Null Law)\n\nGATE WALLAH COMPUTER SCIENCE & INFORMATION TECHNOLOGY HANDBOOK",
+      "```\nThe number of FLIP-FLOPS required is 3. Let the FLIP\u2014FLOPS be FF0, FF1 and FF2 with inputs D 0 , D 1 and D 2 ,\nrespectively. Their outputs are Q 0 , Q 1 , and Q 2 respectively\n```\n\n```\nCounter State FLIP-FLOP inputs\nQ 2 Q 1 Q 0 D 0 D 1 D 2\n0 0 0 0 1 1 1 1\n0 0 1 1 0 0 1 1\n0 1 0 1 0 1 0 1\n1 0 1 0 1 0 1 0\n0 1 1 0 0 1 1 0\n0 0 0 1 1 1 1 0\n```\n\nGATE WALLAH COMPUTER SCIENCE & INFORMATION TECHNOLOGY HANDBOOK\n\n```\nDigital Electronics\n```\n\n```\nFig. 4.38. K-Maps for 8-bit Synchronous counter"
+    ]
+  },
+  "GATE_2022_Q47": {
+    "subject": "Digital Logic",
+    "topic": "Combinational Circuits",
+    "core_concept": "4-input Multiplexer",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2022_Q47",
+    "year": 2022,
+    "question": "What is the output of the above program?",
+    "options": [
+      "A) 14",
+      "B) 24",
+      "C) 30",
+      "D) 20"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\n\n```\nOutputs\nA B\n0 0 0 0 X X\n1 0 0 0 0 0\nX 1 0 0 0 1\nX X 1 0 1 0\nX X X 1 1 1",
+      "```\n\nOutput\nY\n0 0 I 0\n0 1 I 1\n1 0 I 2\n1 1 I 3\nOutput Y for a 4-input multiplexer is"
+    ]
+  },
+  "GATE_2022_Q48": {
+    "subject": "Digital Logic",
+    "topic": "Combinational Circuits",
+    "core_concept": "4-input Multiplexer Output Calculation",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2022_Q48",
+    "year": 2022,
+    "question": "The output of the program is _______.",
+    "options": [
+      "A) 14",
+      "B) 24",
+      "C) 30",
+      "D) 20"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\n\n```\nOutputs\nA B\n0 0 0 0 X X\n1 0 0 0 0 0\nX 1 0 0 0 1\nX X 1 0 1 0\nX X X 1 1 1",
+      "```\n\nOutput\nY\n0 0 I 0\n0 1 I 1\n1 0 I 2\n1 1 I 3\nOutput Y for a 4-input multiplexer is"
+    ]
+  },
+  "GATE_0_Q50": {
+    "subject": "Discrete Mathematics",
+    "topic": "Combinatorics",
+    "core_concept": "The number of ways r identical objects can be distributed among n distinct containers",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_0_Q50",
+    "year": 0,
+    "question": "The total number of swaps can be computed as the sum of the first 29 numbers:",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "```\n\nConsequently, the number of combinations of n objects taken r at a time, with repetition, is C(n + r \u2013 1, r).\n\n**4.1.1 we recognize the equivalence of the following:**\n\n(a) The number of integer solutions of the equation\n\nx 1 + x 2 + ... + xn = r, xi \u2265 0, 1 \u2264 i \u2264 n.\n\n(b) The number of selections, with repetition, of size r from a collection of size n.\n\n(c) The number of ways r identical objects can be distributed among n distinct containers.\n\n(^) n\n2n 2n 1 2n\nb,\nn n 1 n1n",
+      "Let m \uf0ce \u2115. For a procedure of m successive distinct and independent steps with n 1 outcomes possible for the first step, n 2\noutcomes possible for the second step, .... , and nm outcomes possible for the mth step, the total number of possible outcomes\nis\nn 1 \uf0d7 n 2 \uf0d7 \uf0d7 \uf0d7 nm\nFor a collection of m disjoint sets with n 1 elements in the first, n 2 elements in the second,.. ., and nm elements in the mth, the\nnumber of ways to choose one element from the collection is\nn 1 + n 2 + \uf0d7 \uf0d7 \uf0d7 + nm"
+    ]
+  },
+  "GATE_0_Q51": {
+    "subject": "Engineering Mathematics",
+    "topic": "Linear Algebra",
+    "core_concept": "Matrix Multiplication and Resultant Matrix",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_0_Q51",
+    "year": 0,
+    "question": "Total swaps = 29 + 28 + 27 + ... + 1",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "```\n3 \u00d7 3\n```\n\n### \ud835\udc35=[\n\n### \ud835\udc4f 11 \ud835\udc4f 12\n\n### \ud835\udc4f 21 \ud835\udc4f 22\n\n### \ud835\udc4f 31 \ud835\udc4f 32\n\n### ]\n\n```\n3 \u00d7 2\n```\n\n### \ud835\udc34 3 \u00d7 3 \u00d7 \ud835\udc35 3 \u00d7 2\n\n### \u21d2 [\n\n### \ud835\udc4e 11 .\ud835\udc4f 11 +\ud835\udc4e 12 \u22c5\ud835\udc4f 21 +\ud835\udc4e 13 .\ud835\udc4f 31 \ud835\udc4e 11 \ud835\udc4f 12 +\ud835\udc4e 12 \ud835\udc4f 22 +\ud835\udc4e 13 \ud835\udc4f 32\n\n### \ud835\udc4e 21 .\ud835\udc4f 11 +\ud835\udc4e 22 .\ud835\udc4f 21 +\ud835\udc4e 23 .\ud835\udc4f 31 \ud835\udc4e 21 \ud835\udc4f 12 +\ud835\udc4e 22 \ud835\udc4f 22 +\ud835\udc4e 23 \ud835\udc4f 32\n\n### \ud835\udc4e 31 .\ud835\udc4f 11 +\ud835\udc4e 32 \u22c5\ud835\udc4f 21 +\ud835\udc4e 33 \u22c5\ud835\udc4f 31 \ud835\udc4e 31 \ud835\udc4f 12 +\ud835\udc4e 32 \ud835\udc4f 22 +\ud835\udc4e 33 \ud835\udc4f 32\n\n### ]\n\n```\n3 \u00d7 2",
+      "\ud835\udc53(\ud835\udc65)=\ud835\udc52\ud835\udc65= 1 +(\ud835\udc65\u2212 0 ) 11 !+(\ud835\udc65\u2212 0 )^2. 21 !+(\ud835\udc65\u2212 0 )^3. 31 !+......\n\n\uf0de \ud835\udc52\ud835\udc65= 1 + 1 \ud835\udc65!+\ud835\udc65"
+    ]
+  },
+  "GATE_0_Q52": {
+    "subject": "Algorithms",
+    "topic": "Sorting Algorithms",
+    "core_concept": "Analyzing time complexity of sorting algorithms",
+    "question_type": "MCQ",
+    "requires_calculation": true,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_0_Q52",
+    "year": 0,
+    "question": "Total swaps = (n-1) * n / 2",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "Example:\n\n- T 1 (ABC) and T 2 (BCDE)\n\n\uf05c T 1 \u22c8T 2 = \uf070ABCDE 12 (^12 )\n12",
+      "```\n2 (2 ) True\n```\n\n```\nnn\nn n n\nnn\nnnO"
+    ]
+  },
+  "GATE_0_Q53": {
+    "subject": "Data Structures",
+    "topic": "Arrays",
+    "core_concept": "Calculating total swaps in an array",
+    "question_type": "MCQ",
+    "requires_calculation": true,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_0_Q53",
+    "year": 0,
+    "question": "For n = 30: Total swaps = (29 * 30) / 2 = 435",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "Example:\n\n- T 1 (ABC) and T 2 (BCDE)\n\n\uf05c T 1 \u22c8T 2 = \uf070ABCDE 12 (^12 )\n12",
+      "```\nn size on problem n \u2013 1 size x 1 convert them\nT (n) = T (n - 1) + C\n```\n\n```\n[ T (n - 2) + C] + C\nT (n) = T (n - 2) + 2C\n```\n\n```\n= T (n - 3) +3C\nT (n) = T (n - k) + kC\n\u2e2b n \u2013 k = 1\nT (n) = T (1) + (n - 1) C\n= C + (n - 1) C\nT (n) = O (n)\n```\n\n```\nExample (2)"
+    ]
+  },
+  "GATE_0_Q54": {
+    "subject": "Data Structures",
+    "topic": "Arrays",
+    "core_concept": "Finding the maximum value in an array",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_0_Q54",
+    "year": 0,
+    "question": "The function computes the maximum value contained in an integer array p [ ] of size n (n >= 1). If a = = b, means both are at same location & comparison ends.",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "```\nAlgorithm\n```\n\n**4. 8 O/1 Knapsack Problem**\n\nThe maximum profit can be achieved by O/1 knapsack problem where capacity of problem is \u2018p\u2019 and number of objects are\n\n\u2018q\u2019.\n\n**4. 9 Sum of Subset Problem**\n\n- Given n-elements and an integer 'm', it is required to determine whether there exists a subset of given n elements, whose\n\n```\nsum equal M.",
+      "```\n1 if 1 or 2\n()\n2 1; 2\n2\n```\n\n```\nnn\nTn n\nTn\n```\n\n### \uf0ec\uf0fc==\n\n### =\uf0ef\uf0ef\n\n### \uf0ed\uf0fd\uf0e6\uf0f6+\uf03e\n\n### \uf0ef\uf0ef\uf0e7\uf0f7\uf0e8\uf0f8\n\n### \uf0ee\uf0fe\n\nTime Complexity:\n\nT n( )=O n( )\n\n- Time complexity is same for every case (Best case/Worst case).\n\nSpace Complexity:\n\n**GATE WALLAH COMPUTER SCIENCE & INFORMATION TECHNOLOGY HANDBOOK**\n\n```\nAlgorithm\n```\n\nSpace Complexity\n\n```\n( ) (log )\n()\n```\n\n```\nO n O n\nOn\n```\n\n### =+\n\n### =\n\nNumber of comparisons to find maximum / minimum element on an given array of n elements:\n\nComparison =^32\n2"
+    ]
+  },
+  "GATE_0_Q55": {
+    "subject": "Algorithms",
+    "topic": "Recurrences",
+    "core_concept": "T(n) = T(n-1) + C; n > 0",
+    "question_type": "MCQ",
+    "requires_calculation": true,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_0_Q55",
+    "year": 0,
+    "question": "struct Our node p = {'1', '0', 'a'+2}; Members: x = '1', y = '0', z = 'a' + 2 = 'c'. q points to p.",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "```\nT(n) = C 1 +C 2 +T(n-1)\nT(n) =T(n-1) + C n > 0\n```\n\n```\nT (0) = C Constant\n```\n\n```\nT(n) = C; n = 0\nT(n) = T (n - 1) + C; n > 0",
+      "x=\uf072 \uf066 \uf071sin cos\ny=\uf072 \uf066 \uf071sin sin\nz=\uf072 \uf066cos\n(^) J=\uf072 \uf066^2 sin\n(^) dx dy dz=\uf072 \uf066 \uf072 \uf066 \uf071^2 sin d d d\n\u2751\u2751\u2751"
+    ]
+  },
+  "GATE_0_Q56": {
+    "subject": "Computer Organization and Architecture",
+    "topic": "Machine Instructions & Addressing Modes",
+    "core_concept": "Pointer arithmetic and memory addressing",
+    "question_type": "MCQ",
+    "requires_calculation": true,
+    "mutable_fields": [
+      "q"
+    ],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_0_Q56",
+    "year": 0,
+    "question": "(char*)q treats q as a byte pointer (char pointer). *((char*)q+1) \u2192 skip 1 byte from start \u2192 accesses y \u2192 '0'. *((char*)q+2) \u2192 skip 2 bytes \u2192 accesses z \u2192 'c'",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "```\np \uf0ba 1020 i, e address of x\n*P \uf0ba value at (memory location 1020)\n*p \uf0ba 10\nq \uf0ba 1096 i,e address of variable p\n*q \uf0ba value at (memory location 1096)\n\uf0ba 1020 which is again an address\n*q^ \uf0ba^ value at (memory address 1020)^\n**q \uf0ba 10",
+      "```\nP is a pointer to a function that take 2 integer arguments and returns an integer value.\n```\n\n```\n0 1 2 3 q\n```\n\n```\nP\n```\n\n### GATE WALLAH COMPUTER SCIENCE & INFORMATION TECHNOLOGY HANDBOOK\n\n```\nC Programming"
+    ]
+  },
+  "GATE_0_Q58": {
+    "subject": "Algorithms",
+    "topic": "Recurrences and Asymptotic Analysis",
+    "core_concept": "Understanding recursive functions and their time complexity analysis",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_0_Q58",
+    "year": 0,
+    "question": "First printf: Hi Bye. Call fun2(&str1, &str2). fun2 receives pointers to str1 and str2 (double pointers). tmp = *s1 \u2192 tmp points to \"Hi\". *s1 = *s2 \u2192 str1 now points to \"Bye\". *s2 = tmp \u2192 str2 now points to \"Hi\". So after fun2: str1 = \"Bye\", str2 = \"Hi\".",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "```\n\nExample 2:\nvoid fun (in + n) T (n)\n{\nif (n > 0) C 1 time\n{\nfor (i = 1; i <= n; i + 1) n time\nprintf **(\u201cHello\u201d);**\nfun (n - 1); T (n - 1)\n}\n}\nSolution.\nT(n) = C 1 + n - 1 + T (n - 1)\n= T (n - 1) + n n > 0\nT (0) = C n = 0\n\nExample 3:\nvoid fun (in + n) T(n)\n{\nif (n > 0) C 1\n{\n\nfor (i = 1; i < = n; i = i*2) (^) \uf0ea\uf0fa\uf0eb\uf0fblog 2 n",
+      "```\n\nprintf(\u201c%d\\t\u201d,i);\nif (i > 4)\nbreak;\ni = i + 1;\n}\nprintf(\u201cEnd\u201d);\n}\nOutput: 1 2 3 4 End\nIn above code, when i becomes 5, the condition i > 4 becomes true, so break statement executes & control passed outside of\nthe loop body i.e., printf(\u201cEnd\u201d) executed.\n\n**2.6 Continue Statement**"
+    ]
+  },
+  "GATE_2022_Q66": {
+    "subject": "Computer Organization and Architecture",
+    "topic": "Digital Logic",
+    "core_concept": "Boolean Algebra, Combinational Circuits, Sequential Circuits",
+    "question_type": "MCQ",
+    "requires_calculation": true,
+    "mutable_fields": [
+      "A",
+      "B",
+      "A3x3",
+      "B3x2"
+    ],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "CHANGE_NUMBERS"
+    ],
+    "question_id": "GATE_2022_Q66",
+    "year": 2022,
+    "question": "23.",
+    "options": [
+      "A)",
+      "B)",
+      "C)",
+      "D)"
+    ],
+    "retrieved_go_classes_notes": [
+      "A \uf0ac 3 + A\n\nB \uf0ac 4 \uf0b4 A",
+      "```\n3 \u00d7 3\n```\n\n### \ud835\udc35=[\n\n### \ud835\udc4f 11 \ud835\udc4f 12\n\n### \ud835\udc4f 21 \ud835\udc4f 22\n\n### \ud835\udc4f 31 \ud835\udc4f 32\n\n### ]\n\n```\n3 \u00d7 2\n```\n\n### \ud835\udc34 3 \u00d7 3 \u00d7 \ud835\udc35 3 \u00d7 2\n\n### \u21d2 [\n\n### \ud835\udc4e 11 .\ud835\udc4f 11 +\ud835\udc4e 12 \u22c5\ud835\udc4f 21 +\ud835\udc4e 13 .\ud835\udc4f 31 \ud835\udc4e 11 \ud835\udc4f 12 +\ud835\udc4e 12 \ud835\udc4f 22 +\ud835\udc4e 13 \ud835\udc4f 32\n\n### \ud835\udc4e 21 .\ud835\udc4f 11 +\ud835\udc4e 22 .\ud835\udc4f 21 +\ud835\udc4e 23 .\ud835\udc4f 31 \ud835\udc4e 21 \ud835\udc4f 12 +\ud835\udc4e 22 \ud835\udc4f 22 +\ud835\udc4e 23 \ud835\udc4f 32\n\n### \ud835\udc4e 31 .\ud835\udc4f 11 +\ud835\udc4e 32 \u22c5\ud835\udc4f 21 +\ud835\udc4e 33 \u22c5\ud835\udc4f 31 \ud835\udc4e 31 \ud835\udc4f 12 +\ud835\udc4e 32 \ud835\udc4f 22 +\ud835\udc4e 33 \ud835\udc4f 32\n\n### ]\n\n```\n3 \u00d7 2"
+    ]
+  },
+  "GATE_2022_Q67": {
+    "subject": "Computer Organization and Architecture",
+    "topic": "Machine Instructions & Addressing Modes",
+    "core_concept": "Machine Instructions and Addressing Modes in Computer Architecture",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2022_Q67",
+    "year": 2022,
+    "question": "24.",
+    "options": [
+      "A)",
+      "B)",
+      "C)",
+      "D)"
+    ],
+    "retrieved_go_classes_notes": [
+      "### 5.",
+      "```\n\uf0b4\uf03d."
+    ]
+  },
+  "GATE_2022_Q68": {
+    "subject": "Computer Organization and Architecture",
+    "topic": "Machine Instructions & Addressing Modes",
+    "core_concept": "Instruction Pipelining, Pipeline Hazards",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2022_Q68",
+    "year": 2022,
+    "question": "25.",
+    "options": [
+      "A)",
+      "B)",
+      "C)",
+      "D)"
+    ],
+    "retrieved_go_classes_notes": [
+      "### 5.",
+      "```\n3 \u00d7 3\n```\n\n### \ud835\udc35=[\n\n### \ud835\udc4f 11 \ud835\udc4f 12\n\n### \ud835\udc4f 21 \ud835\udc4f 22\n\n### \ud835\udc4f 31 \ud835\udc4f 32\n\n### ]\n\n```\n3 \u00d7 2\n```\n\n### \ud835\udc34 3 \u00d7 3 \u00d7 \ud835\udc35 3 \u00d7 2\n\n### \u21d2 [\n\n### \ud835\udc4e 11 .\ud835\udc4f 11 +\ud835\udc4e 12 \u22c5\ud835\udc4f 21 +\ud835\udc4e 13 .\ud835\udc4f 31 \ud835\udc4e 11 \ud835\udc4f 12 +\ud835\udc4e 12 \ud835\udc4f 22 +\ud835\udc4e 13 \ud835\udc4f 32\n\n### \ud835\udc4e 21 .\ud835\udc4f 11 +\ud835\udc4e 22 .\ud835\udc4f 21 +\ud835\udc4e 23 .\ud835\udc4f 31 \ud835\udc4e 21 \ud835\udc4f 12 +\ud835\udc4e 22 \ud835\udc4f 22 +\ud835\udc4e 23 \ud835\udc4f 32\n\n### \ud835\udc4e 31 .\ud835\udc4f 11 +\ud835\udc4e 32 \u22c5\ud835\udc4f 21 +\ud835\udc4e 33 \u22c5\ud835\udc4f 31 \ud835\udc4e 31 \ud835\udc4f 12 +\ud835\udc4e 32 \ud835\udc4f 22 +\ud835\udc4e 33 \ud835\udc4f 32\n\n### ]\n\n```\n3 \u00d7 2"
+    ]
+  },
+  "GATE_2022_Q69": {
+    "subject": "Digital Logic",
+    "topic": "Boolean Algebra",
+    "core_concept": "Boolean expressions and operations",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2022_Q69",
+    "year": 2022,
+    "question": "26.",
+    "options": [
+      "A)",
+      "B)",
+      "C)",
+      "D)"
+    ],
+    "retrieved_go_classes_notes": [
+      "### 5.",
+      "A \uf0ac 3 + A\n\nB \uf0ac 4 \uf0b4 A"
+    ]
+  },
+  "GATE_2022_Q70": {
+    "subject": "Computer Organization and Architecture",
+    "topic": "Machine Instructions & Addressing Modes",
+    "core_concept": "Machine Instructions and Addressing Modes in Computer Architecture",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2022_Q70",
+    "year": 2022,
+    "question": "27.",
+    "options": [
+      "A)",
+      "B)",
+      "C)",
+      "D)"
+    ],
+    "retrieved_go_classes_notes": [
+      "### 5.",
+      "```\n\uf0b4\uf03d."
+    ]
+  },
+  "GATE_0_Q71": {
+    "subject": "Digital Logic",
+    "topic": "Boolean Algebra",
+    "core_concept": "Minimization of Boolean function",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_0_Q71",
+    "year": 0,
+    "question": "Given expression: a = (x > y) ? ((x > z) ? x : z) : ((y > z) ? y : z)",
+    "options": [
+      "A) x = 3, y = 4, z = 2",
+      "B) x = 6, y = 5, z = 3",
+      "C) x = 6, y = 3, z = 5",
+      "D) x = 5, y = 4, z = 5"
+    ],
+    "retrieved_go_classes_notes": [
+      "(^) = A + B A + B( )( )\n(^) = AA + AB + BA + BB = AB + AB\nExample : Show that\nAB + BC + AC = AC + BC\nSolution : LHS = AB + BC + AC\n= AB C + C + BC A + A + A B + B C( ) ( ) ( )\n= ABC + ABC + ABC + ABC + ABC + ABC\n= ABC + ABC + ABC + ABC\n(^) = AC B + B + BC A + A = AC + BC( ) ( )\n= RHS\n**2.4. Minimization of Boolean function:**\nEvery Boolean function expression must be reduced to as simple form as possible before realization because every logic",
+      "```\n\n14. (^) \u222b\u221a\ud835\udc53\ud835\udc53 _\u2032_ ((\ud835\udc65\ud835\udc65))\ud835\udc51\ud835\udc65= 2 .\u221a\ud835\udc53(\ud835\udc65)+\ud835\udc36\n15. If f(x), g(x) are two functions. that are differentiable, then\n\n(^) \u222b\ud835\udc53(\ud835\udc65) \ud835\udc54(\ud835\udc65)\ud835\udc51\ud835\udc65=\ud835\udc53(\ud835\udc65).\u222b\ud835\udc54(\ud835\udc65)\ud835\udc51\ud835\udc65\u2212\u222b[\ud835\udc53 _\u2032_ (\ud835\udc65)\ud835\udc54(\ud835\udc65)]\ud835\udc51\ud835\udc65+\ud835\udc36"
+    ]
+  },
+  "GATE_2022_Q79": {
+    "subject": "Algorithms",
+    "topic": "Asymptotic Analysis",
+    "core_concept": "Using asymptotic analysis to determine the maximum value of a function",
+    "question_type": "NAT",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2022_Q79",
+    "year": 2022,
+    "question": "The maximum possible value that can be returned from this function is __________. (answer in integer)",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "retrieved_go_classes_notes": [
+      "\uf0b7 Need [i,j] = Max[i,j] \u2013 Allocation [i,j].",
+      "Case (ii): If \ud835\udc5f\ud835\udc61\u2212\ud835\udc60^2 > 0 and r < 0, then the function f (x, y) has maximum at (x 0 , y 0 ) and the maximum value is"
+    ]
+  },
+  "GATE_2026_Q81": {
+    "subject": "Computer Organization and Architecture",
+    "topic": "Machine Instructions & Addressing Modes",
+    "core_concept": "Understanding multi-level pointers and their memory addresses",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2026_Q81",
+    "year": 2026,
+    "question": "Consider the following C program: The maximum possible value that can be returned from this function is __________. (answer in integer)",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\nC Programming\n```\n\n```\nint a = 10; // a is a local variable and goes out of scope after execution of f( )\nreturn &a :\n}\nint main () {\nint * ptr = f (); //Ptr points to something which is not valid\nprint (\u201c/d\u201d*,ptr);\nreturn 0 ;\n}",
+      "```\nall are valid\n```\n\n### \uf0fc\n\n### \uf0ef\n\n### \uf0ef\uf0ef\n\n### \uf0fd\n\n### \uf0ef\n\n### \uf0ef\n\n### \uf0ef\uf0fe\n\n- Multi-level pointer\n  int x : x can store value\n  int *P : p can store address of integer variable\n  int **q : q can store address of pointer variable\n  x = 10 : valid\n  p = &x : valid\n  q = &p : valid"
+    ]
+  },
+  "GATE_2026_Q82": {
+    "subject": "Computer Organization and Architecture",
+    "topic": "Machine Instructions & Addressing Modes",
+    "core_concept": "Understanding function pointers and their dereferencing",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2026_Q82",
+    "year": 2026,
+    "question": "The value printed by the given C program is_______. (Answer in integer)",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "```\nC Programming\n```\n\n```\nint a = 10; // a is a local variable and goes out of scope after execution of f( )\nreturn &a :\n}\nint main () {\nint * ptr = f (); //Ptr points to something which is not valid\nprint (\u201c/d\u201d*,ptr);\nreturn 0 ;\n}",
+      "```\nint add (int int);\nvoid main() {\nint (*ptr) (int, int);\nptr = &add;\nprintf (\u201c%d\u201d, (*ptr)(10, 20));\n}\n```\n\n```\nint add (int int);\nvoid main() {\nint (*ptr) (int, int):\nptr = add;\nprintf (\u201c%d\u201d, (*ptr) (10, 20));\n}\nint add (int, int) ;\nvoid main() {\nint(*ptr) (int, int);\nprt= &add;\nprintf (\u201c%d\u201d, (*ptr)(10, 20));\n}\n```\n\n```\nint add (int, int);\nvoid main() {\nint (*ptr) (int, int);\nprt= add;\nprintf (\u201c%d\u201d, (*ptr) (10, 20));\n}"
+    ]
+  },
+  "GATE_2026_Q83": {
+    "subject": "Computer Organization and Architecture",
+    "topic": "Digital Logic",
+    "core_concept": "Boolean Algebra, Combinational Circuits, Sequential Circuits, Minimization, Number Representations & Computer Arithmetic",
+    "question_type": "MCQ",
+    "requires_calculation": true,
+    "mutable_fields": [
+      "variable_name_or_number"
+    ],
+    "immutable_fields": [
+      "kernel_assumption"
+    ],
+    "transformation_rules": [
+      "CHANGE_NUMBERS",
+      "CHANGE_OPTION_ORDER"
+    ],
+    "question_id": "GATE_2026_Q83",
+    "year": 2026,
+    "question": "Consider the following C program. Assume parameters to a function are evaluated from right to left. The value printed by the given C program is_____. (Answer in integer)",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "```\nC Programming\n```\n\n```\nint a = 10; // a is a local variable and goes out of scope after execution of f( )\nreturn &a :\n}\nint main () {\nint * ptr = f (); //Ptr points to something which is not valid\nprint (\u201c/d\u201d*,ptr);\nreturn 0 ;\n}",
+      "```\nC Programming\n```\n\nNote:\n(a) No of \u2018?\u2019 and \u2018:\u2019 should be equal.\n(b) Every colon (:) should match with just before \u2018?\u2019.\n(c) Every? followed by : not immediately but following.\nExample: int a;\na = 2 > 5? 10 : !5! = 2 > 5? 20 : 30\n\nL 1 M 1 R 1\n2 > 5 is false.\nso, for Leftmost? the value returned is its right expression.\na =! 5! = 2 > 5? 20 : 30 :\n\nLeft Mid Right\n\nLeft expression:\n!5! = 2 > 5\n0! = 2 > 5\n0! =0\n0 i.e., false.\nAs left operand is false, the final value is right expression\na = 30"
+    ]
+  },
+  "GATE_2026_Q84": {
+    "subject": "Computer Organization and Architecture",
+    "topic": "Machine Instructions & Addressing Modes",
+    "core_concept": "Understanding of memory addressing modes and pointer arithmetic in C",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2026_Q84",
+    "year": 2026,
+    "question": "Consider the following C program. Which one of the following options is the CORRECT output of the above C program?",
+    "options": [
+      "A) 20101020",
+      "B) 10202010",
+      "C) 20102010",
+      "D) 10201020"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\nC Programming\n```\n\n```\nint a = 10; // a is a local variable and goes out of scope after execution of f( )\nreturn &a :\n}\nint main () {\nint * ptr = f (); //Ptr points to something which is not valid\nprint (\u201c/d\u201d*,ptr);\nreturn 0 ;\n}",
+      "```\nC Programming"
+    ]
+  },
+  "GATE_2026_Q85": {
+    "subject": "Computer Organization and Architecture",
+    "topic": "Machine Instructions & Addressing Modes",
+    "core_concept": "Understanding of function calls and dynamic scoping in C programming",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2026_Q85",
+    "year": 2026,
+    "question": "Consider the following C program. The output of the program is ______.",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "```\nC Programming\n```\n\n```\nint a = 10; // a is a local variable and goes out of scope after execution of f( )\nreturn &a :\n}\nint main () {\nint * ptr = f (); //Ptr points to something which is not valid\nprint (\u201c/d\u201d*,ptr);\nreturn 0 ;\n}",
+      "```\nC Programming\n```\n\nand dynamic scoping, let\u2019s try to find the output.\nThe order of function calls is:\n\n```\nmain () \u23af\u23af\u23af\u23af\u2192calling f()\u23af\u23af\u23af\u23af\u2192calling g()\n```\n\ng() is printing i, which is not present inside current block. So, because of dynamic scoping compiler will go to the function that\ncalls g() i.e., compiler will search f() for variable i. Hence 20 is printed.\n\n### \uf072\uf072\uf072\n\n### GATE WALLAH COMPUTER SCIENCE & INFORMATION TECHNOLOGY HANDBOOK\n\n```\nC Programming"
+    ]
+  },
+  "GATE_2020_Q86": {
+    "subject": "Digital Logic",
+    "topic": "Combinational Circuits",
+    "core_concept": "4-input Multiplexer",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2020_Q86",
+    "year": 2020,
+    "question": "The output of this program is ______.",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "```\n\n```\nOutputs\nA B\n0 0 0 0 X X\n1 0 0 0 0 0\nX 1 0 0 0 1\nX X 1 0 1 0\nX X X 1 1 1",
+      "```\n\nOutput\nY\n0 0 I 0\n0 1 I 1\n1 0 I 2\n1 1 I 3\nOutput Y for a 4-input multiplexer is"
+    ]
+  },
+  "GATE_2017_Q87": {
+    "subject": "Computer Organization and Architecture",
+    "topic": "Instruction Pipelining",
+    "core_concept": "Pipeline hazards due to concurrent execution of dependent instructions",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2017_Q87",
+    "year": 2017,
+    "question": "The output after executing the following program is _____.",
+    "options": [
+      "A) 5",
+      "B) 10",
+      "C) 15",
+      "D) 20"
+    ],
+    "retrieved_go_classes_notes": [
+      "B \uf0ac 4 \uf0b4 A\n\n- When these operations are performed in the order given, the result is B = 32. But if they are performed concurrently, the\n  value of A used in computing B would be the original value, 5, leading to an incorrect result. If these two operations are\n  performed by instructions in a program, then the instructions must be executed one after the other, because the data used\n  in the second instruction depend on the result of the first instruction. On the other hand, the two operations.",
+      "stack. Since the program control comes back to the main () function, and all the variables in the stack are fraud.\nTherefore, we can say that this program is returning memory location, which is already de-allocated, so the output of the\nprogram is a segmentation fault."
+    ]
+  },
+  "GATE_2017_Q88": {
+    "subject": "Computer Organization and Architecture",
+    "topic": "Machine Instructions & Addressing Modes",
+    "core_concept": "Function pointers and function calls in C",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2017_Q88",
+    "year": 2017,
+    "question": "void f(int*, int); void main() { int i=5, j=10; f(&i, j); printf(\"%d\", i+j); }",
+    "options": [
+      "A) f(s, *s)",
+      "B) i = f(i, s)",
+      "C) f(i, *s)",
+      "D) f(i, *p)"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\nint add (int int);\nvoid main() {\nint (*ptr) (int, int);\nptr = &add;\nprintf (\u201c%d\u201d, (*ptr)(10, 20));\n}\n```\n\n```\nint add (int int);\nvoid main() {\nint (*ptr) (int, int):\nptr = add;\nprintf (\u201c%d\u201d, (*ptr) (10, 20));\n}\nint add (int, int) ;\nvoid main() {\nint(*ptr) (int, int);\nprt= &add;\nprintf (\u201c%d\u201d, (*ptr)(10, 20));\n}\n```\n\n```\nint add (int, int);\nvoid main() {\nint (*ptr) (int, int);\nprt= add;\nprintf (\u201c%d\u201d, (*ptr) (10, 20));\n}",
+      "# include<stdio.h>\n\nint main()\n{\nint i = 0, j = 0;\nint arrayHello[4][3] = {{1, 2, 3}, {2, 3, 4}, {4, 5, 6}};\nfor(i = 0; i < 3 ; i++)\n{\nfor(j = 0; j < 3; j++)\n{\nprintf(\u201carrayHello[%d][%d]=%d\\n\u201d,i,j,arrayHello[i][j])\n}\n}\nreturn 0;\n}\n\nOutput: arrayHello[0][0] = 1\narrayHello[0][1] = 2\narrayHello[0][2] = 3\narrayHello[1][0] = 2\narrayHello[1][1] = 3\narrayHello[1][2] = 4\narrayHello[2][0] = 3\narrayHello[2][1] = 4\narrayHello[2][2] = 5\narrayHello[3][0] = 4"
+    ]
+  },
+  "GATE_2015_Q89": {
+    "subject": "Digital Logic",
+    "topic": "Boolean Algebra and Logic Gates",
+    "core_concept": "Truth Table and Output Calculation",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2015_Q89",
+    "year": 2015,
+    "question": "The output of the above function on input \"ABCD EFGH\" is",
+    "options": [
+      "(a) ABCD EFGD",
+      "(b) ABCD",
+      "(c) HGFE DCBA",
+      "(d) DCBA"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\n\n```\nOutputs\nA B\n0 0 0 0 X X\n1 0 0 0 0 0\nX 1 0 0 0 1\nX X 1 0 1 0\nX X X 1 1 1",
+      "Output: 13579 (All odd numbers between 1 to 10)\n  whenever i becomes even, condition i%2 = = 0 becomes true & continue causes the control to go to i++ & printf is skipped."
+    ]
+  },
+  "GATE_2016_Q90": {
+    "subject": "Computer Organization and Architecture",
+    "topic": "Digital Logic",
+    "core_concept": "Boolean Algebra, Combinational Circuits, Sequential Circuits, Minimization, Number Representations & Computer Arithmetic",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2016_Q90",
+    "year": 2016,
+    "question": "The return value of fun (5) is _______.",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "int *fun()\n{\nint marks [5];\nprint f (\u201cEnter the element in an array\u201d);\nfor (int i = 1 ; i < 5; i++)\n{\nscanf(\u201c%d\u201d,& marks[i]);\n}\nreturn marks;\n}\nint main()\n{\nint *n;\nn = fun();\nprintf(\u201c\\n Elements of array are:\u201d);\nfor(int i = 0; i < 5; i++)\n{\nprintf(\u201c%d\u201d,n[i]);\n}\nreturn 0;\n}\nNote:\nfun() function returns a variable \u2018marks\u2019.\nIt returns a local variable, but it is an illegal memory location to be returned, which is allocated with a function in the",
+      "```\n\nExample 2:\nvoid fun (in + n) T (n)\n{\nif (n > 0) C 1 time\n{\nfor (i = 1; i <= n; i + 1) n time\nprintf **(\u201cHello\u201d);**\nfun (n - 1); T (n - 1)\n}\n}\nSolution.\nT(n) = C 1 + n - 1 + T (n - 1)\n= T (n - 1) + n n > 0\nT (0) = C n = 0\n\nExample 3:\nvoid fun (in + n) T(n)\n{\nif (n > 0) C 1\n{\n\nfor (i = 1; i < = n; i = i*2) (^) \uf0ea\uf0fa\uf0eb\uf0fblog 2 n"
+    ]
+  },
+  "GATE_0_Q91": {
+    "subject": "Algorithms",
+    "topic": "Asymptotic Analysis",
+    "core_concept": "Analyzing the time complexity of recursive functions and loops",
+    "question_type": "MCQ",
+    "requires_calculation": true,
+    "mutable_fields": [
+      "n"
+    ],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "CHANGE_OPTION_ORDER"
+    ],
+    "question_id": "GATE_0_Q91",
+    "year": 0,
+    "question": "The function \ud835\udc54(\ud835\udc5b) returns \ud835\udc5b+ 10. The function \ud835\udc53(\ud835\udc5b) calls \ud835\udc54(\ud835\udc5b\u00d7 2), so it returns 2\ud835\udc5b+ 10. In the main function, the loop runs with \ud835\udc5b taking values 1 and 2 (since the loop condition is \ud835\udc5b< 3 ). Now, calculate for each iteration:\n\nFor \ud835\udc5b= 1 :\nf(1) = \ud835\udc54(2 \u00d7 1) = \ud835\udc54(2) = 2 + 10 = 12.\n\nThen, g(f(1)) = g(12) = 12 + 10 = 22.\n\nFor n = 2 :\nf(2) = g(2 \u00d7 2) = g(4) = 4 + 10 = 14.\n\nThen, g(f(2)) = g(14) = 14 + 10 = 24.\n\nThe sum is the total from each iteration:\n22 + 24 = 46\n\nSo, the output of the program is:",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "\ud835\udc53(\ud835\udc65)=\ud835\udc52\ud835\udc65= 1 +(\ud835\udc65\u2212 0 ) 11 !+(\ud835\udc65\u2212 0 )^2. 21 !+(\ud835\udc65\u2212 0 )^3. 31 !+......\n\n\uf0de \ud835\udc52\ud835\udc65= 1 + 1 \ud835\udc65!+\ud835\udc65",
+      "```\n\nExample 2:\nvoid fun (in + n) T (n)\n{\nif (n > 0) C 1 time\n{\nfor (i = 1; i <= n; i + 1) n time\nprintf **(\u201cHello\u201d);**\nfun (n - 1); T (n - 1)\n}\n}\nSolution.\nT(n) = C 1 + n - 1 + T (n - 1)\n= T (n - 1) + n n > 0\nT (0) = C n = 0\n\nExample 3:\nvoid fun (in + n) T(n)\n{\nif (n > 0) C 1\n{\n\nfor (i = 1; i < = n; i = i*2) (^) \uf0ea\uf0fa\uf0eb\uf0fblog 2 n"
+    ]
+  },
+  "GATE_0_Q92": {
+    "subject": "Algorithms",
+    "topic": "Recursion and Recurrence Relations",
+    "core_concept": "Understanding recursive functions and their computational complexity",
+    "question_type": "MCQ",
+    "requires_calculation": true,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_0_Q92",
+    "year": 0,
+    "question": "16. The function works in two phases:\n1. When x \u2260 1: Each call prints '*' and recursively calls Count(x/2, y).\nStarting from x = 1024, it keeps halving until x = 1.\nSince 1024 = 2^10, this happens 10 times, so 10 prints per cycle.",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "```\n\nExample 2:\nvoid fun (in + n) T (n)\n{\nif (n > 0) C 1 time\n{\nfor (i = 1; i <= n; i + 1) n time\nprintf **(\u201cHello\u201d);**\nfun (n - 1); T (n - 1)\n}\n}\nSolution.\nT(n) = C 1 + n - 1 + T (n - 1)\n= T (n - 1) + n n > 0\nT (0) = C n = 0\n\nExample 3:\nvoid fun (in + n) T(n)\n{\nif (n > 0) C 1\n{\n\nfor (i = 1; i < = n; i = i*2) (^) \uf0ea\uf0fa\uf0eb\uf0fblog 2 n",
+      "- Certain arguments for which the function does not call itself are called as base argument, base values.\n- In general, for recursion to be non-cyclic whenever a function calls itself the formal arguments must get closer to the base\n  argument.\n  Example 1:\n  Consider the factorial code:\n  int factorial (int n)\n  {\n  if (n = = 0)\n  return 1;\n  else\n  return n * factorial (n - 1);\n  }"
+    ]
+  },
+  "GATE_0_Q93": {
+    "subject": "Data Structures",
+    "topic": "String Operations",
+    "core_concept": "The behavior of `strlen()` function on negative values and its implications",
+    "question_type": "MCQ",
+    "requires_calculation": true,
+    "mutable_fields": [
+      "len"
+    ],
+    "immutable_fields": [],
+    "transformation_rules": [
+      "CHANGE_NUMBERS"
+    ],
+    "question_id": "GATE_0_Q93",
+    "year": 0,
+    "question": "17. Inside printlength: \nstrlen(s) - strlen(t) = 3 - 5 = -2\nBut since strlen returns unsigned int, -2 becomes a very large positive number (wrap-around in unsigned). So: \n(strlen(s) - strlen(t)) > c\n= ( (unsigned)3 - (unsigned)5 ) > 0\n= (0xFFFFFFFE) > 0 \u2192 True\nThus: \nlen = strlen(s) = 3\nOutput: 3",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "( 1 ) strlen (): returns the length of the string passed as an argument.\n(2) strcpy (): copies the contents of one string to another. strcpy (S 1 ,S 2 ) copies the content of string S 2 to string S 1.\n(3) strcmp (): compares the first string with the second string. If both are same it returns 0.\nstrcmp (str1,str2) returns 0 if both strings are same.\n(4) strcat (S 1 ,S 2 ): concat S 1 string with S 2 string and the result i.e concatenation of S 1 ,S 2 is stored in S 1.",
+      "```\n\nprintf(\u201c%d\\t\u201d,i);\nif (i > 4)\nbreak;\ni = i + 1;\n}\nprintf(\u201cEnd\u201d);\n}\nOutput: 1 2 3 4 End\nIn above code, when i becomes 5, the condition i > 4 becomes true, so break statement executes & control passed outside of\nthe loop body i.e., printf(\u201cEnd\u201d) executed.\n\n**2.6 Continue Statement**"
+    ]
+  },
+  "GATE_0_Q94": {
+    "subject": "Digital Logic",
+    "topic": "Boolean Algebra",
+    "core_concept": "Minimization of Boolean expressions",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_0_Q94",
+    "year": 0,
+    "question": "18. Final Output: 53423122233445(Option A)",
+    "options": [
+      "A) 53423122233445",
+      "B) 53423122233446",
+      "C) 53423122233447",
+      "D) 53423122233448"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\n\n```\nOutputs\nA B\n0 0 0 0 X X\n1 0 0 0 0 0\nX 1 0 0 0 1\nX X 1 0 1 0\nX X X 1 1 1",
+      "```\nWindow Size (Advertisement Window) (16 bits)\n```\n\n```\nCheck sum (16 bits) Urgent Pointer (16 bits)\nOptions\n(0 - 40 bytes)\n```\n\n```\nPort Number Name\n0 \u2013 1023 Well known port No.\n1024 \u2013 49151 Registered Port No.\n49152 \u2013 65535 Dynamic Port No.\n```\n\n```\nWrap Around time (WAT) =\n\uf05b \uf05d\n```"
+    ]
+  },
+  "GATE_0_Q95": {
+    "subject": "Digital Logic",
+    "topic": "Digital Logic Circuits",
+    "core_concept": "Decimal Counter and Binary Coded Decimal (BCD)",
+    "question_type": "MCQ",
+    "requires_calculation": true,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_0_Q95",
+    "year": 0,
+    "question": "19. Since count is static, each call returns the cumulative value:\ntotal(5) \u2192 binary 101 \u2192 2 set bits \u2192 count = 2\ntotal(4) \u2192 binary 100 \u2192 1 set bit \u2192 count = 3\ntotal(3) \u2192 binary 011 \u2192 2 set bits \u2192 count = 5\ntotal(2) \u2192 binary 010 \u2192 1 set bit \u2192 count = 6\ntotal(1) \u2192 binary 001 \u2192 1 set bit \u2192 count = 7\nReturns: 2, 3, 5, 6, 7\nNow summing in main:\n\ud835\udc65= 2 + 3 + 5 + 6 + 7 = 23",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "A decimal counter follows a sequence of 10 states and returns to 0 after the count of 9. Such a counter must have at least four\nflip-flops to represent each decimal digit, since a decimal digit is represented by a binary code with at least four bits. The\nsequence of states in a decimal counter is dictated by the binary code used to represent a decimal digit. If the BCD code is used,",
+      "0101 1011\n\n5 11(B)\n\nHence (1011011) 2 = (5B) 16\n\n**5.1.2. BCD (Binary Coded Decimal)**"
+    ]
+  },
+  "GATE_0_Q96": {
+    "subject": "Digital Logic",
+    "topic": "Boolean Algebra",
+    "core_concept": "Boolean operations and logic gates",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_0_Q96",
+    "year": 0,
+    "question": "To print the string in reverse using recursion:",
+    "options": [
+      "A) Read character and check for newline",
+      "B) Print that character",
+      "C) c = getchar() != '\\n'",
+      "D) putchar(c);"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\nprintf(\u201cSushil\u201d)",
+      "( 1 ) strlen (): returns the length of the string passed as an argument.\n(2) strcpy (): copies the contents of one string to another. strcpy (S 1 ,S 2 ) copies the content of string S 2 to string S 1.\n(3) strcmp (): compares the first string with the second string. If both are same it returns 0.\nstrcmp (str1,str2) returns 0 if both strings are same.\n(4) strcat (S 1 ,S 2 ): concat S 1 string with S 2 string and the result i.e concatenation of S 1 ,S 2 is stored in S 1."
+    ]
+  },
+  "GATE_0_Q97": {
+    "subject": "Data Structures",
+    "topic": "Stacks",
+    "core_concept": "Activation records of recursive functions can be stored in a stack when they return another function.",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_0_Q97",
+    "year": 0,
+    "question": "If a function can return another function, then its activation record cannot always be removed after return. Stack-based allocation alone is not sufficient in such cases.",
+    "options": [
+      "A) True",
+      "B) False",
+      "C) True",
+      "D) False"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\nAlgorithm\n```\n\nInt n, A[n];\nAlgorithm Rsum(A, n)\n{\nif (n = 1) return (A(1));\nelse;\nreturn (A[n] + RSum(A, (n\u20131));\n}\n\n- Time Complexity = O(n)\n- Space Complexity\n- We need stack space\n- Stack is used to store activation records of function calls\n- Size of activation records is trivial\n- Stack size that we need = O(n)\n- Space complexity = O(n)\n\nAlgorithm A(n)\n{\nif (n = 1) return;\nelse;\n{\n\nA\n2\n\n```\n\uf0e6\uf0f6n\n\uf0e7\uf0f7\uf0e8\uf0f8;^\n```\n\n}\n}\n\nRecurrence relation\nT(n) = C; n = 1\n\nT(n) = T\n2\n\n```\n\uf0e6\uf0f6n\n\uf0e7\uf0f7\uf0e8\uf0f8+ C; n^ > 1^",
+      "```\n\n**7.3 Implementation**\n\nCan be implemented using arrays, linked list.\n\n(a) Using Array :\n\n- Easy to implement and memory efficient.\n- Not dyanmic\n\n(b) Using Linked List :\n\n- Dynamic\n- Require extra memory because of pointer field.\n\n**7.4 Standard Operations**\n\n**7.4.1 Stack**\n\n(a) Push ( ) : Insertion of an element onto stack.\n\n(b) Pop ( ) : Deletion of an element.\n\n(c) Is_empty ( ) : Returns true if stack is empty otherwise return false.\n\n**7.4.2 Queue**"
+    ]
+  },
+  "GATE_2026_Q98": {
+    "subject": "Algorithms",
+    "topic": "Asymptotic Analysis",
+    "core_concept": "Analyzing the time complexity of algorithms using Big O notation",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2026_Q98",
+    "year": 2026,
+    "question": "Consider the following ANSI-C program.",
+    "options": [
+      "A) \\(2^n\\)",
+      "B) \\(\\Theta(n \\log n)\\)",
+      "C) \\(O(n^2)\\)",
+      "D) \\(O(n)\\)"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\n\u2751\u2751\u2751\n```\n\n### GATE WALLAH COMPUTER SCIENCE & INFORMATION TECHNOLOGY HANDBOOK\n\n```\nC Programming",
+      "```\nC Programming\n```\n\nFor ex.\n\n```\n11\n21 22\n31 32 33\n41 42 43 44\n```\n\n### 000\n\n### 00\n\n### 0\n\n### A\n\n### AA\n\n### A\n\n### A A A\n\n### A A A A\n\n### \uf0e9\uf0f9\n\n### \uf0ea\uf0fa\n\n### =\uf0ea\uf0fa\n\n### \uf0ea\uf0fa\n\n### \uf0ea\uf0fa\n\n### \uf0eb\uf0fb\n\n**6.2.5 Upper triangular Matrix**\n\n```\n11 12 13 14\n22 23 24\n33 34\n44"
+    ]
+  },
+  "GATE_2026_Q99": {
+    "subject": "Computer Organization and Architecture",
+    "topic": "Machine Instructions & Addressing Modes",
+    "core_concept": "Understanding machine instructions and addressing modes in C programming context",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2026_Q99",
+    "year": 2026,
+    "question": "Consider the following C program.",
+    "options": [
+      "A) 2, 0, 4, 8, 0",
+      "B) 2, 0, 4, 8, 20",
+      "C) 2, 0, 4, 8, 25",
+      "D) 2, 0, 4, 8, 30"
+    ],
+    "retrieved_go_classes_notes": [
+      "```\nC Programming\n```\n\nFor ex.\n\n```\n11\n21 22\n31 32 33\n41 42 43 44\n```\n\n### 000\n\n### 00\n\n### 0\n\n### A\n\n### AA\n\n### A\n\n### A A A\n\n### A A A A\n\n### \uf0e9\uf0f9\n\n### \uf0ea\uf0fa\n\n### =\uf0ea\uf0fa\n\n### \uf0ea\uf0fa\n\n### \uf0ea\uf0fa\n\n### \uf0eb\uf0fb\n\n**6.2.5 Upper triangular Matrix**\n\n```\n11 12 13 14\n22 23 24\n33 34\n44",
+      "```\nC Programming"
+    ]
+  },
+  "GATE_2022_Q100": {
+    "subject": "Data Structures",
+    "topic": "Arrays",
+    "core_concept": "The recursive nature of the fun() function and its impact on the number of swap operations",
+    "question_type": "MCQ",
+    "requires_calculation": false,
+    "mutable_fields": [],
+    "immutable_fields": [],
+    "transformation_rules": [],
+    "question_id": "GATE_2022_Q100",
+    "year": 2022,
+    "question": "The number of swap operations that will be performed, if the function fun() is called with \ud835\udc34[0, \u2026 ,29] as argument, is ____ .",
+    "options": [],
+    "retrieved_go_classes_notes": [
+      "int *fun()\n{\nint marks [5];\nprint f (\u201cEnter the element in an array\u201d);\nfor (int i = 1 ; i < 5; i++)\n{\nscanf(\u201c%d\u201d,& marks[i]);\n}\nreturn marks;\n}\nint main()\n{\nint *n;\nn = fun();\nprintf(\u201c\\n Elements of array are:\u201d);\nfor(int i = 0; i < 5; i++)\n{\nprintf(\u201c%d\u201d,n[i]);\n}\nreturn 0;\n}\nNote:\nfun() function returns a variable \u2018marks\u2019.\nIt returns a local variable, but it is an illegal memory location to be returned, which is allocated with a function in the",
+      "```\n\nExample 2:\nvoid fun (in + n) T (n)\n{\nif (n > 0) C 1 time\n{\nfor (i = 1; i <= n; i + 1) n time\nprintf **(\u201cHello\u201d);**\nfun (n - 1); T (n - 1)\n}\n}\nSolution.\nT(n) = C 1 + n - 1 + T (n - 1)\n= T (n - 1) + n n > 0\nT (0) = C n = 0\n\nExample 3:\nvoid fun (in + n) T(n)\n{\nif (n > 0) C 1\n{\n\nfor (i = 1; i < = n; i = i*2) (^) \uf0ea\uf0fa\uf0eb\uf0fblog 2 n"
+    ]
+  }
+}
