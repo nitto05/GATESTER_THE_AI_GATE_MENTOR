@@ -1,54 +1,89 @@
-import os 
+import os
 import uuid
 from dotenv import load_dotenv
-# from google import genai
 from qdrant_client import QdrantClient
 from qdrant_client.models import Distance, VectorParams, PointStruct
-from langchain_text_splitters import MarkdownTextSplitter
 from sentence_transformers import SentenceTransformer
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+
+# Try PyMuPDF (fitz) or pypdf
+try:
+    import fitz
+    USE_FITZ = True
+except ImportError:
+    import pypdf
+    USE_FITZ = False
 
 load_dotenv()
 
-# ai_client = genai.Client(api_key = os.getenv("GEMINI_API_KEY"))
-
 client = QdrantClient(
-    url = os.getenv("QDRANT_URL"),
-    api_key = os.getenv("QDRANT_API_KEY")
+    url=os.getenv("QDRANT_URL"),
+    api_key=os.getenv("QDRANT_API_KEY")
 )
 
 print("Loading local embedding model (BAAI/bge-small-en-v1.5)...")
 embed_model = SentenceTransformer("BAAI/bge-small-en-v1.5")
 
-with open("knowledge_base/books/revisionBook_cs_it.md", "r", encoding = "utf-8") as f:
-    text = f.read()
+# GO Classes Notes PDF paths
+files_to_ingest = [
+    ("knowledge_base/books/go_classes_notes_1.pdf", "pdf"),
+    ("knowledge_base/books/go_classes_notes_2.pdf", "pdf")
+]
 
-splitter = MarkdownTextSplitter(chunk_size = 500, chunk_overlap = 50)
-chunks = splitter.split_text(text)
-print(f"Total chunks : {len(chunks)}")
+all_chunks = []
+text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
 
+for file_path, file_type in files_to_ingest:
+    if os.path.exists(file_path):
+        print(f"📖 Ingesting '{file_path}'...")
+        full_text = ""
+        if file_type == "pdf":
+            if USE_FITZ:
+                doc = fitz.open(file_path)
+                for page in doc:
+                    full_text += page.get_text() + "\n"
+                doc.close()
+            else:
+                reader = pypdf.PdfReader(file_path)
+                for page in reader.pages:
+                    full_text += (page.extract_text() or "") + "\n"
+        elif file_type == "md":
+            with open(file_path, "r", encoding="utf-8") as f:
+                full_text = f.read()
+
+        chunks = text_splitter.split_text(full_text)
+        print(f"   Created {len(chunks)} text chunks from {file_path}.")
+        all_chunks.extend(chunks)
+    else:
+        print(f"  ⚠️ Warning: '{file_path}' not found!")
+
+print(f"\n📚 Total Combined Chunks across all notes: {len(all_chunks)}")
+
+# Re-create gate_books collection in Qdrant Cloud
 if client.collection_exists("gate_books"):
     client.delete_collection("gate_books")
 
 client.create_collection(
-    collection_name = "gate_books",
-    vectors_config = VectorParams(size=384, distance = Distance.COSINE)
+    collection_name="gate_books",
+    vectors_config=VectorParams(size=384, distance=Distance.COSINE)
 )
 
-print("Embedding chunks locally (0 cloud API calls)...")
+print("\n⚡ Embedding all GO Classes notes locally & uploading to Qdrant Cloud...")
 
-embeddings = embed_model.encode(chunks, batch_size=64, show_progress_bar = True)
+embeddings = embed_model.encode(all_chunks, batch_size=64, show_progress_bar=True)
 
 points = []
-for i, vecotr in enumerate(embeddings):
+for i, vector in enumerate(embeddings):
     points.append(PointStruct(
-        id = str(uuid.uuid4()),
-        vector = vecotr.tolist(),
-        payload = {"text": chunks[i], "chunk_index" : i}
+        id=str(uuid.uuid4()),
+        vector=vector.tolist(),
+        payload={"text": all_chunks[i], "chunk_index": i}
     ))
 
 upload_batch_size = 250
 for i in range(0, len(points), upload_batch_size):
-    batch_points = points[i: i+ upload_batch_size]
-    client.upsert(collection_name = "gate_books", points=batch_points)
-    print(f"Uploaded batch {i // upload_batch_size + 1}/{(len(points)+upload_batch_size-1) // upload_batch_size} to Qdrant Cloud...")
-print(f"Done. Uploaded{len(points)} chunks to Qdrant!!!!")
+    batch_points = points[i:i + upload_batch_size]
+    client.upsert(collection_name="gate_books", points=batch_points)
+    print(f"   Uploaded batch {i // upload_batch_size + 1}/{(len(points)+upload_batch_size-1) // upload_batch_size} to Qdrant Cloud...")
+
+print(f"\n🎉 DONE! Uploaded {len(points)} GO Classes Notes chunks to Qdrant Cloud 'gate_books' collection!")
