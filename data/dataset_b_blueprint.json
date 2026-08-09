@@ -23,7 +23,7 @@
     ]
   },
   "GATE_2022_Q2": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Data Structures",
     "topic": "Machine Instructions & Addressing Modes",
     "core_concept": "Pointer assignment and dereferencing in C",
     "question_type": "MCQ",
@@ -133,7 +133,7 @@
     ]
   },
   "GATE_2022_Q7": {
-    "subject": "Algorithms",
+    "subject": "Data Structures",
     "topic": "Recursion",
     "core_concept": "Recursive function to compute the maximum value in an integer array",
     "question_type": "MCQ",
@@ -169,7 +169,7 @@
     ]
   },
   "GATE_2022_Q9": {
-    "subject": "Algorithms",
+    "subject": "Data Structures",
     "topic": "Recursion",
     "core_concept": "Recursive function to determine if an array has all identical elements",
     "question_type": "MCQ",
@@ -384,7 +384,7 @@
     ]
   },
   "GATE_2017_Q19": {
-    "subject": "Data Structures",
+    "subject": "Algorithms",
     "topic": "Algorithms",
     "core_concept": "Asymptotic Analysis, Recurrences, Greedy Algorithms, Dynamic Programming, Divide-and-Conquer, Graph Traversals, Shortest Paths, Minimum Spanning Trees",
     "question_type": "MCQ",
@@ -826,7 +826,7 @@
     ]
   },
   "GATE_0_Q38": {
-    "subject": "Algorithms",
+    "subject": "Operating Systems",
     "topic": "Recursion",
     "core_concept": "Understanding the behavior and termination condition of recursive functions",
     "question_type": "MCQ",
@@ -936,7 +936,7 @@
     ]
   },
   "GATE_2022_Q43": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Data Structures",
     "topic": "Memory Hierarchy",
     "core_concept": "The heap segment stores dynamically allocated memory",
     "question_type": "MCQ",
@@ -1028,7 +1028,7 @@
     ]
   },
   "GATE_2022_Q47": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Data Structures",
     "topic": "Machine Instructions & Addressing Modes",
     "core_concept": "Understanding array initialization and access in C",
     "question_type": "MCQ",
@@ -1203,7 +1203,7 @@
     ]
   },
   "GATE_0_Q56": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Data Structures",
     "topic": "Machine Instructions & Addressing Modes",
     "core_concept": "Character pointers and their operations",
     "question_type": "MCQ",
@@ -1523,7 +1523,7 @@
     ]
   },
   "GATE_0_Q71": {
-    "subject": "Algorithms",
+    "subject": "Data Structures",
     "topic": "Searching, Sorting, Hashing",
     "core_concept": "Binary search tree operations",
     "question_type": "MCQ",
@@ -1582,7 +1582,7 @@
     ]
   },
   "GATE_0_Q74": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Digital Logic",
     "topic": "Digital Logic",
     "core_concept": "Boolean Algebra, Combinational Circuits, Sequential Circuits, Minimization, Number Representations & Computer Arithmetic",
     "question_type": "MCQ",
@@ -1646,7 +1646,7 @@
     ]
   },
   "GATE_0_Q77": {
-    "subject": "Algorithms",
+    "subject": "Data Structures",
     "topic": "Recursion",
     "core_concept": "High space complexity due to recursion stack and performance overhead compared to iterative solutions",
     "question_type": "MCQ",
@@ -2066,7 +2066,7 @@
     ]
   },
   "GATE_0_Q97": {
-    "subject": "Theory of Computation",
+    "subject": "Data Structures",
     "topic": "Recursion and Activation Records",
     "core_concept": "Programming languages which permit a function to return a function as its result cannot be implemented with a stack-based storage allocation scheme for activation records",
     "question_type": "MCQ",
@@ -2378,7 +2378,7 @@
     ]
   },
   "GATE_2011_Q111": {
-    "subject": "Data Structures",
+    "subject": "Algorithms",
     "topic": "Algorithms",
     "core_concept": "Asymptotic Analysis, Recurrences, Greedy Algorithms, Dynamic Programming, Divide-and-Conquer, Graph Traversals, Shortest Paths, Minimum Spanning Trees",
     "question_type": "MCQ",
@@ -2401,7 +2401,7 @@
     ]
   },
   "GATE_0_Q112": {
-    "subject": "Programming in C",
+    "subject": "Data Structures",
     "topic": "Runtime Environment",
     "core_concept": "C String Functions (strcpy)",
     "question_type": "MCQ",
@@ -2804,7 +2804,7 @@
     ]
   },
   "GATE_2007_Q131": {
-    "subject": "Algorithms",
+    "subject": "Data Structures",
     "topic": "Stack Operations",
     "core_concept": "Operations on stacks to simulate queue operations",
     "question_type": "MCQ",
@@ -2904,7 +2904,7 @@
     ]
   },
   "GATE_0_Q136": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Data Structures",
     "topic": "Machine Instructions & Addressing Modes",
     "core_concept": "Translation Scheme and Evaluation of Arithmetic Expressions",
     "question_type": "MCQ",
@@ -3439,7 +3439,7 @@
     ]
   },
   "GATE_0_Q161": {
-    "subject": "Data Structures",
+    "subject": "Algorithms",
     "topic": "Algorithms",
     "core_concept": "Asymptotic Analysis, Recurrences, Greedy Algorithms, Dynamic Programming, Divide-and-Conquer, Graph Traversals, Shortest Paths, Minimum Spanning Trees",
     "question_type": "MCQ",
@@ -3677,7 +3677,7 @@
     ]
   },
   "GATE_0_Q172": {
-    "subject": "Algorithms",
+    "subject": "Data Structures",
     "topic": "Sorting Algorithms",
     "core_concept": "Worst-case analysis of Quick Sort",
     "question_type": "MCQ",
@@ -4238,7 +4238,7 @@
     ]
   },
   "GATE_0_Q200": {
-    "subject": "Algorithms",
+    "subject": "Data Structures",
     "topic": "Searching",
     "core_concept": "Matrix operations and array indexing",
     "question_type": "MCQ",
@@ -4343,7 +4343,7 @@
     ]
   },
   "GATE_0_Q205": {
-    "subject": "Data Structures",
+    "subject": "Algorithms",
     "topic": "Graph Traversals",
     "core_concept": "Breadth-First Search (BFS) and its properties in undirected graphs",
     "question_type": "MCQ",
@@ -4412,7 +4412,7 @@
     ]
   },
   "GATE_0_Q208": {
-    "subject": "Algorithms",
+    "subject": "Engineering Mathematics",
     "topic": "Graph Algorithms",
     "core_concept": "Shortest Path Algorithms and Graph Properties",
     "question_type": "MCQ",
@@ -4435,7 +4435,7 @@
     ]
   },
   "GATE_0_Q209": {
-    "subject": "Algorithms",
+    "subject": "Data Structures",
     "topic": "Graph Search",
     "core_concept": "In an undirected graph, DFS tree edges can only be tree edges or back edges, and cross edges are impossible.",
     "question_type": "MCQ",
@@ -4476,7 +4476,7 @@
     ]
   },
   "GATE_2017_Q211": {
-    "subject": "Algorithms",
+    "subject": "Data Structures",
     "topic": "Asymptotic Analysis",
     "core_concept": "The algorithm checks the condition for all pairs of elements in the array and finds the worst case time complexity.",
     "question_type": "MCQ",
@@ -4499,7 +4499,7 @@
     ]
   },
   "GATE_2013_Q212": {
-    "subject": "Algorithms",
+    "subject": "Data Structures",
     "topic": "Sorting",
     "core_concept": "Sorting algorithm and its properties",
     "question_type": "MCQ",
@@ -4517,7 +4517,7 @@
     ]
   },
   "GATE_2021_Q213": {
-    "subject": "Algorithms",
+    "subject": "Data Structures",
     "topic": "Searching",
     "core_concept": "Algorithm to check if an array is sorted in either ascending or descending order",
     "question_type": "MCQ",
@@ -4563,7 +4563,7 @@
     ]
   },
   "GATE_0_Q215": {
-    "subject": "Algorithms",
+    "subject": "Operating Systems",
     "topic": "Time Complexity",
     "core_concept": "Comparing time complexities of different algorithms",
     "question_type": "MCQ",
@@ -4638,7 +4638,7 @@
     ]
   },
   "GATE_0_Q218": {
-    "subject": "Discrete Mathematics",
+    "subject": "Digital Logic",
     "topic": "Propositional & First Order Logic",
     "core_concept": "Boolean operations and expressions",
     "question_type": "MCQ",
@@ -4684,7 +4684,7 @@
     ]
   },
   "GATE_0_Q220": {
-    "subject": "Data Structures",
+    "subject": "Digital Logic",
     "topic": "Algorithms",
     "core_concept": "Boolean algebra and simplification of Boolean expressions",
     "question_type": "MCQ",
@@ -4730,7 +4730,7 @@
     ]
   },
   "GATE_0_Q222": {
-    "subject": "Data Structures",
+    "subject": "Digital Logic",
     "topic": "Algorithms",
     "core_concept": "Divide-and-Conquer Algorithms",
     "question_type": "MCQ",
@@ -4753,7 +4753,7 @@
     ]
   },
   "GATE_0_Q223": {
-    "subject": "Algorithms and Asymptotic Notations",
+    "subject": "Algorithms",
     "topic": "Asymptotic Notations",
     "core_concept": "Understanding and applying different asymptotic notations (Big O, Big Omega, Big Theta)",
     "question_type": "MCQ",
@@ -4799,7 +4799,7 @@
     ]
   },
   "GATE_2007_Q225": {
-    "subject": "Theory of Computation",
+    "subject": "Digital Logic",
     "topic": "Finite Automata",
     "core_concept": "Mealy machine and its Boolean expressions",
     "question_type": "MSQ",
@@ -4927,7 +4927,7 @@
     ]
   },
   "GATE_0_Q231": {
-    "subject": "Algorithms",
+    "subject": "Digital Logic",
     "topic": "Time Complexity",
     "core_concept": "Time complexity of carry look-ahead adder (CLA)",
     "question_type": "MCQ",
@@ -5037,7 +5037,7 @@
     ]
   },
   "GATE_2015_Q236": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Digital Logic",
     "topic": "Machine Instructions & Addressing Modes",
     "core_concept": "Understanding of counters and flip-flops in digital circuits",
     "question_type": "MCQ",
@@ -5129,7 +5129,7 @@
     ]
   },
   "GATE_2006_Q240": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Digital Logic",
     "topic": "Digital Logic",
     "core_concept": "Boolean Algebra, Combinational Circuits, Sequential Circuits",
     "question_type": "MCQ",
@@ -5198,7 +5198,7 @@
     ]
   },
   "GATE_0_Q243": {
-    "subject": "Digital Logic",
+    "subject": "Operating Systems",
     "topic": "Sequential Circuits",
     "core_concept": "Designing a Mealy Machine to process a string of 's and 's",
     "question_type": "MCQ",
@@ -5799,7 +5799,7 @@
     ]
   },
   "GATE_0_Q272": {
-    "subject": "Compiler Design",
+    "subject": "Theory of Computation",
     "topic": "Syntax Directed Translation",
     "core_concept": "Comparison between b and c can be made using a pushdown automaton, indicating that L\u2082 is a context-free language.",
     "question_type": "MCQ",
@@ -5860,7 +5860,7 @@
     "retrieved_go_classes_notes": []
   },
   "GATE_0_Q275": {
-    "subject": "Theory of Computation",
+    "subject": "Data Structures",
     "topic": "Regular Languages, Context-Free Languages, Recursive Languages",
     "core_concept": "The language L\u2081 can be recognized by a single stack machine (push-down automaton) as it involves pushing and popping symbols based on the input sequence.",
     "question_type": "MCQ",
@@ -5914,7 +5914,7 @@
     ]
   },
   "GATE_0_Q278": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Digital Logic",
     "topic": "Digital Logic",
     "core_concept": "Boolean Algebra, Combinational Circuits, Sequential Circuits",
     "question_type": "MCQ",
@@ -5937,7 +5937,7 @@
     ]
   },
   "GATE_0_Q279": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Digital Logic",
     "topic": "Digital Logic",
     "core_concept": "Boolean Algebra, Combinational Circuits, Sequential Circuits",
     "question_type": "MCQ",
@@ -6029,7 +6029,7 @@
     ]
   },
   "GATE_0_Q283": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Digital Logic",
     "topic": "Digital Logic",
     "core_concept": "Boolean Algebra, Combinational Circuits, Sequential Circuits",
     "question_type": "MCQ",
@@ -6075,7 +6075,7 @@
     ]
   },
   "GATE_0_Q285": {
-    "subject": "Compiler Design",
+    "subject": "Theory of Computation",
     "topic": "Compiler Design",
     "core_concept": "Compiler Design Grammars and Their Properties",
     "question_type": "MCQ",
@@ -6433,7 +6433,7 @@
     ]
   },
   "GATE_0_Q303": {
-    "subject": "Compiler Design",
+    "subject": "Theory of Computation",
     "topic": "Lexical Analysis",
     "core_concept": "Lexical analyzer recognizes tokens based on patterns and outputs the longest possible prefix matching token",
     "question_type": "MCQ",
@@ -6502,7 +6502,7 @@
     ]
   },
   "GATE_2016_Q306": {
-    "subject": "Theory of Computation",
+    "subject": "Discrete Mathematics",
     "topic": "Closure Property",
     "core_concept": "Closure property of regular languages under union operation",
     "question_type": "MCQ",
@@ -6594,7 +6594,7 @@
     ]
   },
   "GATE_2022_Q310": {
-    "subject": "Compiler Design",
+    "subject": "Theory of Computation",
     "topic": "Grammar Properties",
     "core_concept": "Determining whether a grammar is LL(1) or ambiguous",
     "question_type": "MCQ",
@@ -6640,7 +6640,7 @@
     ]
   },
   "GATE_2022_Q312": {
-    "subject": "Compiler Design",
+    "subject": "Theory of Computation",
     "topic": "Compiler Design",
     "core_concept": "First and Follow sets of non-terminals",
     "question_type": "MCQ",
@@ -6686,7 +6686,7 @@
     ]
   },
   "GATE_2022_Q314": {
-    "subject": "Compiler Design",
+    "subject": "Theory of Computation",
     "topic": "LR(0) Parsing",
     "core_concept": "LR(0) parsing rules and closure operation",
     "question_type": "MCQ",
@@ -6809,7 +6809,7 @@
     ]
   },
   "GATE_0_Q320": {
-    "subject": "Compiler Design",
+    "subject": "Theory of Computation",
     "topic": "Grammar",
     "core_concept": "Augmented Grammar",
     "question_type": "MCQ",
@@ -6942,7 +6942,7 @@
     ]
   },
   "GATE_2014_Q326": {
-    "subject": "Compiler Design",
+    "subject": "Theory of Computation",
     "topic": "LR Parser",
     "core_concept": "The number of reduction steps taken by a bottom-up parser while accepting the string",
     "question_type": "MCQ",
@@ -6965,7 +6965,7 @@
     ]
   },
   "GATE_2014_Q327": {
-    "subject": "Compiler Design",
+    "subject": "Theory of Computation",
     "topic": "Syntax-Directed Translation",
     "core_concept": "Understanding LL(1) parsing tables and their components (FIRST, FOLLOW sets)",
     "question_type": "MCQ",
@@ -6988,7 +6988,7 @@
     ]
   },
   "GATE_2010_Q328": {
-    "subject": "Compiler Design",
+    "subject": "Theory of Computation",
     "topic": "Parsing Grammars",
     "core_concept": "The grammar is not suitable for predictive-parsing due to ambiguity",
     "question_type": "MCQ",
@@ -7034,7 +7034,7 @@
     ]
   },
   "GATE_2007_Q330": {
-    "subject": "Compiler Design",
+    "subject": "Theory of Computation",
     "topic": "Parsing",
     "core_concept": "Context-Free Grammar and Parse Trees",
     "question_type": "MCQ",
@@ -7075,7 +7075,7 @@
     ]
   },
   "GATE_0_Q332": {
-    "subject": "Theory of Computation",
+    "subject": "Compiler Design",
     "topic": "Compiler Design",
     "core_concept": "Parsing theory and conflicts",
     "question_type": "MCQ",
@@ -7121,7 +7121,7 @@
     ]
   },
   "GATE_0_Q334": {
-    "subject": "Compiler Design",
+    "subject": "Theory of Computation",
     "topic": "Syntax Directed Translation",
     "core_concept": "Adding type information to identifier entries in the symbol table during semantic analysis",
     "question_type": "MCQ",
@@ -7139,7 +7139,7 @@
     ]
   },
   "GATE_0_Q335": {
-    "subject": "Compiler Design",
+    "subject": "Theory of Computation",
     "topic": "Syntax Directed Translation",
     "core_concept": "The actions in syntax directed translation can be used to type-check syntactically correct integer variable declarations and integer expressions.",
     "question_type": "MCQ",
@@ -7187,7 +7187,7 @@
     ]
   },
   "GATE_0_Q337": {
-    "subject": "Compiler Design",
+    "subject": "Data Structures",
     "topic": "Symbol Table",
     "core_concept": "The symbol table is used to keep track of the scope of variables and is created during the lexical analysis phase.",
     "question_type": "MCQ",
@@ -7417,7 +7417,7 @@
     ]
   },
   "GATE_2026_Q347": {
-    "subject": "Compiler Design",
+    "subject": "Digital Logic",
     "topic": "Intermediate Code Generation",
     "core_concept": "Backpatching for Boolean expressions and flow-of-control statements",
     "question_type": "MCQ",
@@ -7440,7 +7440,7 @@
     ]
   },
   "GATE_2026_Q348": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Digital Logic",
     "topic": "Digital Logic",
     "core_concept": "Boolean Algebra, Combinational Circuits, Sequential Circuits, Minimization, Number Representations & Computer Arithmetic",
     "question_type": "MCQ",
@@ -7591,7 +7591,7 @@
     ]
   },
   "GATE_2023_Q355": {
-    "subject": "Compiler Design",
+    "subject": "Computer Organization and Architecture",
     "topic": "Register Allocation",
     "core_concept": "An optimal code generation algorithm for a load/store architecture where only load and store instructions can have memory operands and arithmetic instructions can have only register or immediate operands.",
     "question_type": "MCQ",
@@ -7609,7 +7609,7 @@
     ]
   },
   "GATE_2023_Q356": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Digital Logic",
     "topic": "Digital Logic",
     "core_concept": "Boolean Algebra, Combinational Circuits, Sequential Circuits, Minimization, Number Representations & Computer Arithmetic",
     "question_type": "MCQ",
@@ -7627,7 +7627,7 @@
     ]
   },
   "GATE_2023_Q357": {
-    "subject": "Compiler Design",
+    "subject": "Theory of Computation",
     "topic": "Compiler Design: Lexical Analysis",
     "core_concept": "Lexical analysis involves the conversion of source code into tokens, which are then used to build an Abstract Syntax Tree (AST)",
     "question_type": "MCQ",
@@ -7762,7 +7762,7 @@
     ]
   },
   "GATE_2014_Q363": {
-    "subject": "Theory of Computation",
+    "subject": "Compiler Design",
     "topic": "Compiler Design",
     "core_concept": "Lexical Analysis, Parsing (LL/LR/LALR), Runtime Environments",
     "question_type": "MCQ",
@@ -7785,7 +7785,7 @@
     ]
   },
   "GATE_2011_Q364": {
-    "subject": "Compiler Design",
+    "subject": "Computer Organization and Architecture",
     "topic": "Register Allocation",
     "core_concept": "The expression tree must be evaluated using registers due to the machine architecture constraints.",
     "question_type": "MCQ",
@@ -7812,7 +7812,7 @@
     ]
   },
   "GATE_2012_Q365": {
-    "subject": "Compiler Design",
+    "subject": "Computer Organization and Architecture",
     "topic": "Register Allocation",
     "core_concept": "An optimal code generation algorithm for a load/store architecture, where arithmetic instructions can have only register or immediate operands.",
     "question_type": "MCQ",
@@ -7840,7 +7840,7 @@
     ]
   },
   "GATE_2014_Q366": {
-    "subject": "Compiler Design",
+    "subject": "Data Structures",
     "topic": "Runtime Environments",
     "core_concept": "Compilers for programming languages that support recursion necessarily need heap storage for memory allocation in the run-time environment.",
     "question_type": "MCQ",
@@ -7909,7 +7909,7 @@
     ]
   },
   "GATE_0_Q369": {
-    "subject": "Compiler Design",
+    "subject": "Computer Organization and Architecture",
     "topic": "Register Allocation",
     "core_concept": "Determining the minimum number of registers needed to execute a program without spilling",
     "question_type": "MCQ",
@@ -8103,7 +8103,7 @@
     ]
   },
   "GATE_2014_Q378": {
-    "subject": "Algorithms",
+    "subject": "Operating Systems",
     "topic": "Asymptotic Analysis",
     "core_concept": "The number of total orders on a set containing n elements can be calculated using the formula for permutations.",
     "question_type": "NAT",
@@ -8126,7 +8126,7 @@
     ]
   },
   "GATE_2014_Q379": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Computer Networks",
     "topic": "Machine Instructions & Addressing Modes",
     "core_concept": "Time complexity of switching between user/kernel modes vs. switching between processes",
     "question_type": "MCQ",
@@ -8221,7 +8221,7 @@
     ]
   },
   "GATE_2007_Q383": {
-    "subject": "Engineering Mathematics",
+    "subject": "Operating Systems",
     "topic": "Linear Algebra",
     "core_concept": "Understanding the behavior of processes in a multi-threaded environment",
     "question_type": "MCQ",
@@ -8244,7 +8244,7 @@
     ]
   },
   "GATE_0_Q384": {
-    "subject": "Engineering Mathematics",
+    "subject": "Algorithms",
     "topic": "Asymptotic Analysis",
     "core_concept": "Asymptotic analysis of algorithms, calculating average case time complexity",
     "question_type": "MCQ",
@@ -8303,7 +8303,7 @@
     ]
   },
   "GATE_0_Q387": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Operating Systems",
     "topic": "Interrupts and System Calls",
     "core_concept": "Interrupts related to system calls and process scheduling",
     "question_type": "MCQ",
@@ -8326,7 +8326,7 @@
     ]
   },
   "GATE_0_Q388": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Digital Logic",
     "topic": "Digital Logic",
     "core_concept": "Boolean Algebra, Combinational Circuits, Sequential Circuits",
     "question_type": "MCQ",
@@ -8395,7 +8395,7 @@
     ]
   },
   "GATE_0_Q391": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Operating Systems",
     "topic": "Interrupts and Exceptions",
     "core_concept": "Disk interrupt for another process",
     "question_type": "MCQ",
@@ -8418,7 +8418,7 @@
     ]
   },
   "GATE_0_Q392": {
-    "subject": "Algorithms",
+    "subject": "Operating Systems",
     "topic": "Algorithm Analysis and Design Techniques",
     "core_concept": "Shortest Job First (SJF) scheduling algorithm and its trade-offs",
     "question_type": "MCQ",
@@ -8441,7 +8441,7 @@
     ]
   },
   "GATE_0_Q393": {
-    "subject": "Algorithms",
+    "subject": "Operating Systems",
     "topic": "Time Complexity",
     "core_concept": "Comparing time complexities of different algorithms based on their performance on a set of processes",
     "question_type": "MCQ",
@@ -8518,7 +8518,7 @@
     ]
   },
   "GATE_0_Q397": {
-    "subject": "Theory of Computation",
+    "subject": "Operating Systems",
     "topic": "Turing Machines, Undecidability",
     "core_concept": "Context switches or process switches can only occur in kernel mode due to mode switching during context switch.",
     "question_type": "NAT",
@@ -8538,7 +8538,7 @@
     ]
   },
   "GATE_0_Q398": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Data Structures",
     "topic": "Data Structures",
     "core_concept": "Recursion and Recursion Stack Space Complexity",
     "question_type": "MCQ",
@@ -8556,7 +8556,7 @@
     ]
   },
   "GATE_0_Q399": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Digital Logic",
     "topic": "Digital Logic",
     "core_concept": "Boolean Algebra, Combinational Circuits, Sequential Circuits",
     "question_type": "MCQ",
@@ -8574,7 +8574,7 @@
     ]
   },
   "GATE_0_Q400": {
-    "subject": "Data Structures",
+    "subject": "Operating Systems",
     "topic": "Binary Semaphores and Shared Variables",
     "core_concept": "Semaphores and their usage in synchronization",
     "question_type": "MCQ",
@@ -8643,7 +8643,7 @@
     ]
   },
   "GATE_2026_Q403": {
-    "subject": "Theory of Computation",
+    "subject": "Compiler Design",
     "topic": "Compiler Design",
     "core_concept": "Runtime Environments and Intermediate Code Generation",
     "question_type": "MCQ",
@@ -8666,7 +8666,7 @@
     ]
   },
   "GATE_2024_Q404": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Digital Logic",
     "topic": "Digital Logic",
     "core_concept": "Boolean Algebra, Combinational Circuits, Sequential Circuits, Minimization, Number Representations & Computer Arithmetic",
     "question_type": "MCQ",
@@ -8689,7 +8689,7 @@
     ]
   },
   "GATE_0_Q405": {
-    "subject": "Compiler Design",
+    "subject": "Operating Systems",
     "topic": "Register Allocation",
     "core_concept": "Understanding the behavior of semaphores and their impact on the order of operations in concurrent programs",
     "question_type": "MCQ",
@@ -8712,7 +8712,7 @@
     ]
   },
   "GATE_2019_Q406": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Digital Logic",
     "topic": "Digital Logic",
     "core_concept": "Boolean Algebra, Combinational Circuits, Sequential Circuits",
     "question_type": "MCQ",
@@ -8758,7 +8758,7 @@
     ]
   },
   "GATE_2018_Q408": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Operating Systems",
     "topic": "Digital Logic",
     "core_concept": "Sequential circuits and state machines",
     "question_type": "MCQ",
@@ -8894,7 +8894,7 @@
     ]
   },
   "GATE_2006_Q414": {
-    "subject": "Data Structures",
+    "subject": "Operating Systems",
     "topic": "Linked List",
     "core_concept": "Circularly linked list representation of a Queue",
     "question_type": "MCQ",
@@ -8917,7 +8917,7 @@
     ]
   },
   "GATE_0_Q415": {
-    "subject": "Theory of Computation",
+    "subject": "Operating Systems",
     "topic": "Undecidability",
     "core_concept": "The Halting Problem for Turing Machines is undecidable",
     "question_type": "MCQ",
@@ -8963,7 +8963,7 @@
     ]
   },
   "GATE_2022_Q417": {
-    "subject": "Data Structures",
+    "subject": "Operating Systems",
     "topic": "Queues",
     "core_concept": "Properties and implementation of queues using stacks",
     "question_type": "MCQ",
@@ -8986,7 +8986,7 @@
     ]
   },
   "GATE_2022_Q418": {
-    "subject": "Compiler Design",
+    "subject": "Operating Systems",
     "topic": "Compiler Tokenization",
     "core_concept": "Understanding tokenization in compilers and its application in lexical analysis",
     "question_type": "MCQ",
@@ -9032,7 +9032,7 @@
     ]
   },
   "GATE_0_Q420": {
-    "subject": "Algorithms",
+    "subject": "Engineering Mathematics",
     "topic": "Algorithm Design",
     "core_concept": "Maximum Matching in Bipartite Graphs",
     "question_type": "NAT",
@@ -9073,7 +9073,7 @@
     ]
   },
   "GATE_0_Q422": {
-    "subject": "Theory of Computation",
+    "subject": "Operating Systems",
     "topic": "Closure Property",
     "core_concept": "The complement of a recursively enumerable language is recursively enumerable",
     "question_type": "MCQ",
@@ -9150,7 +9150,7 @@
     ]
   },
   "GATE_0_Q426": {
-    "subject": "Data Structures",
+    "subject": "Operating Systems",
     "topic": "Queues",
     "core_concept": "Using queues to reverse the order of elements without using additional storage",
     "question_type": "MCQ",
@@ -9219,7 +9219,7 @@
     ]
   },
   "GATE_0_Q429": {
-    "subject": "Compiler Design",
+    "subject": "Operating Systems",
     "topic": "Runtime Environment",
     "core_concept": "Relocation constants calculation in a runtime environment",
     "question_type": "MCQ",
@@ -9267,7 +9267,7 @@
     ]
   },
   "GATE_2025_Q431": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Operating Systems",
     "topic": "Memory Hierarchy (Cache, Main Memory, Virtual Memory)",
     "core_concept": "Demand paging with LRU policy and row-major order storage",
     "question_type": "MCQ",
@@ -9317,7 +9317,7 @@
     ]
   },
   "GATE_2020_Q433": {
-    "subject": "Data Structures",
+    "subject": "Operating Systems",
     "topic": "Stacks",
     "core_concept": "The average stack-life of an element in a stack implemented with a single array and two stacks growing from opposite ends",
     "question_type": "MCQ",
@@ -9340,7 +9340,7 @@
     ]
   },
   "GATE_2020_Q434": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Operating Systems",
     "topic": "Memory Hierarchy",
     "core_concept": "Page Fault Rate Calculation",
     "question_type": "MCQ",
@@ -9386,7 +9386,7 @@
     ]
   },
   "GATE_2020_Q436": {
-    "subject": "Data Structures",
+    "subject": "Operating Systems",
     "topic": "Algorithms",
     "core_concept": "Page Replacement Algorithms and their behavior with increasing frame size",
     "question_type": "MCQ",
@@ -9409,7 +9409,7 @@
     ]
   },
   "GATE_2016_Q437": {
-    "subject": "Data Structures",
+    "subject": "Operating Systems",
     "topic": "Queues",
     "core_concept": "First-in-first-out (FIFO) computations are efficiently supported by stacks.",
     "question_type": "MCQ",
@@ -9432,7 +9432,7 @@
     ]
   },
   "GATE_2014_Q438": {
-    "subject": "Data Structures",
+    "subject": "Computer Organization and Architecture",
     "topic": "Hash Tables",
     "core_concept": "Page coloring in hash tables to avoid collisions",
     "question_type": "MCQ",
@@ -9478,7 +9478,7 @@
     ]
   },
   "GATE_2007_Q440": {
-    "subject": "Data Structures",
+    "subject": "Computer Organization and Architecture",
     "topic": "Hash Tables",
     "core_concept": "Hash functions, chaining method, maximum, minimum, and average chain lengths",
     "question_type": "MCQ",
@@ -9501,7 +9501,7 @@
     ]
   },
   "GATE_2007_Q441": {
-    "subject": "Compiler Design",
+    "subject": "Operating Systems",
     "topic": "Runtime Environment",
     "core_concept": "A compiler using dynamic memory allocation can be written for a computer that does not use virtual memory.",
     "question_type": "NAT",
@@ -9999,7 +9999,7 @@
     ]
   },
   "GATE_2020_Q464": {
-    "subject": "Data Structures",
+    "subject": "Databases (DBMS)",
     "topic": "Data Structures",
     "core_concept": "Normalization forms (1NF, 2NF, 3NF, BCNF)",
     "question_type": "MCQ",
@@ -10068,7 +10068,7 @@
     ]
   },
   "GATE_2014_Q467": {
-    "subject": "Discrete Mathematics",
+    "subject": "Databases (DBMS)",
     "topic": "Sets, Relations, Functions, Partial Orders, Lattices",
     "core_concept": "Candidate keys and super keys in relational databases",
     "question_type": "MCQ",
@@ -10091,7 +10091,7 @@
     ]
   },
   "GATE_0_Q468": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Digital Logic",
     "topic": "Digital Logic",
     "core_concept": "Boolean Algebra, Combinational Circuits, Sequential Circuits",
     "question_type": "MCQ",
@@ -10258,7 +10258,7 @@
     ]
   },
   "GATE_2022_Q475": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Digital Logic",
     "topic": "Digital Logic",
     "core_concept": "Boolean Algebra, Combinational Circuits, Sequential Circuits",
     "question_type": "MCQ",
@@ -10327,7 +10327,7 @@
     ]
   },
   "GATE_0_Q478": {
-    "subject": "Discrete Mathematics",
+    "subject": "Databases (DBMS)",
     "topic": "Sets, Relations, Functions",
     "core_concept": "Properties of sets and relations, uniqueness of elements, candidate keys, primary keys",
     "question_type": "MCQ",
@@ -10391,7 +10391,7 @@
     ]
   },
   "GATE_0_Q481": {
-    "subject": "Data Structures",
+    "subject": "Discrete Mathematics",
     "topic": "Graph Theory",
     "core_concept": "Identifying maximal/minimal elements, greatest/least elements, and LUB/GLB from diagrams",
     "question_type": "NAT",
@@ -10414,7 +10414,7 @@
     ]
   },
   "GATE_0_Q482": {
-    "subject": "Data Structures and Algorithms",
+    "subject": "Discrete Mathematics",
     "topic": "Graph Theory",
     "core_concept": "Representing relationships between entities using graphs",
     "question_type": "NAT",
@@ -10437,7 +10437,7 @@
     ]
   },
   "GATE_0_Q483": {
-    "subject": "Data Structures",
+    "subject": "Discrete Mathematics",
     "topic": "Graph Theory",
     "core_concept": "Visual representation of relationships between categories",
     "question_type": "MCQ",
@@ -10506,7 +10506,7 @@
     ]
   },
   "GATE_2015_Q486": {
-    "subject": "Discrete Mathematics",
+    "subject": "Databases (DBMS)",
     "topic": "Relations",
     "core_concept": "Composite relation and its properties",
     "question_type": "MCQ",
@@ -10552,7 +10552,7 @@
     ]
   },
   "GATE_2015_Q488": {
-    "subject": "Theory of Computation",
+    "subject": "Databases (DBMS)",
     "topic": "Finite State Machines",
     "core_concept": "Minimum number of states required to realize an FSM",
     "question_type": "NAT",
@@ -10621,7 +10621,7 @@
     ]
   },
   "GATE_0_Q491": {
-    "subject": "Data Structures",
+    "subject": "Databases (DBMS)",
     "topic": "Hashing",
     "core_concept": "Hash table with chaining for collision resolution",
     "question_type": "MCQ",
@@ -10639,7 +10639,7 @@
     ]
   },
   "GATE_0_Q492": {
-    "subject": "Discrete Mathematics",
+    "subject": "Databases (DBMS)",
     "topic": "Propositional & First Order Logic",
     "core_concept": "Tuple relational calculus and its equivalence in relational algebra",
     "question_type": "MCQ",
@@ -10680,7 +10680,7 @@
     ]
   },
   "GATE_2022_Q494": {
-    "subject": "Data Structures",
+    "subject": "Databases (DBMS)",
     "topic": "Algorithms",
     "core_concept": "Relational algebra operations and set theory",
     "question_type": "MCQ",
@@ -10772,7 +10772,7 @@
     ]
   },
   "GATE_0_Q498": {
-    "subject": "Algorithms",
+    "subject": "Discrete Mathematics",
     "topic": "Searching",
     "core_concept": "Estimating the number of tuples returned by a selection query based on uniform distribution",
     "question_type": "MCQ",
@@ -10795,7 +10795,7 @@
     ]
   },
   "GATE_2007_Q499": {
-    "subject": "Data Structures",
+    "subject": "Databases (DBMS)",
     "topic": "Algorithms",
     "core_concept": "Join operation in relational databases and its complexity",
     "question_type": "MCQ",
@@ -10841,7 +10841,7 @@
     ]
   },
   "GATE_2022_Q501": {
-    "subject": "Algorithms",
+    "subject": "Databases (DBMS)",
     "topic": "Sorting",
     "core_concept": "SQL queries and relational databases",
     "question_type": "MSQ",
@@ -10918,7 +10918,7 @@
     ]
   },
   "GATE_0_Q505": {
-    "subject": "Data Structures",
+    "subject": "Databases (DBMS)",
     "topic": "Algorithms",
     "core_concept": "Hashing and Ordered Indexing",
     "question_type": "MCQ",
@@ -11015,7 +11015,7 @@
     ]
   },
   "GATE_0_Q510": {
-    "subject": "Algorithms",
+    "subject": "Databases (DBMS)",
     "topic": "Sorting and Searching",
     "core_concept": "The order of operations in SQL queries can affect performance due to the way DBMS processes them.",
     "question_type": "NAT",
@@ -11038,7 +11038,7 @@
     ]
   },
   "GATE_2022_Q511": {
-    "subject": "Discrete Mathematics",
+    "subject": "Databases (DBMS)",
     "topic": "Combinatory",
     "core_concept": "Finding the number of ways to arrange elements with certain conditions",
     "question_type": "MCQ",
@@ -11084,7 +11084,7 @@
     ]
   },
   "GATE_2022_Q513": {
-    "subject": "Data Structures",
+    "subject": "Algorithms",
     "topic": "Algorithms",
     "core_concept": "Searching, Sorting, Hashing, Asymptotic Analysis, Recurrences, Greedy Algorithms, Dynamic Programming, Divide-and-Conquer, Graph Traversals, Shortest Paths, Minimum Spanning Trees",
     "question_type": "NAT",
@@ -11107,7 +11107,7 @@
     ]
   },
   "GATE_2017_Q514": {
-    "subject": "Algorithms",
+    "subject": "Databases (DBMS)",
     "topic": "Recursion",
     "core_concept": "The number of times the recursive function is called",
     "question_type": "MCQ",
@@ -11148,7 +11148,7 @@
     ]
   },
   "GATE_2017_Q516": {
-    "subject": "Algorithms",
+    "subject": "Databases (DBMS)",
     "topic": "Sorting",
     "core_concept": "Insertion Sort and its comparison operations",
     "question_type": "MSQ",
@@ -11166,7 +11166,7 @@
     ]
   },
   "GATE_2017_Q517": {
-    "subject": "Theory of Computation",
+    "subject": "Discrete Mathematics",
     "topic": "Regular Expressions",
     "core_concept": "Regular Expressions and their application in syntax-directed translation",
     "question_type": "NAT",
@@ -11207,7 +11207,7 @@
     ]
   },
   "GATE_2014_Q519": {
-    "subject": "Algorithms",
+    "subject": "Databases (DBMS)",
     "topic": "Sorting and Searching",
     "core_concept": "SQL Joins and Tuples Multiplicity",
     "question_type": "MCQ",
@@ -11253,7 +11253,7 @@
     ]
   },
   "GATE_2011_Q521": {
-    "subject": "Discrete Mathematics",
+    "subject": "Databases (DBMS)",
     "topic": "Propositional & First Order Logic",
     "core_concept": "Logical Inference",
     "question_type": "MCQ",
@@ -11299,7 +11299,7 @@
     ]
   },
   "GATE_2006_Q523": {
-    "subject": "Data Structures",
+    "subject": "Databases (DBMS)",
     "topic": "Data Structures: Arrays, Stacks, Queues, Linked Lists, Trees, Binary Search Trees, Binary Heaps, Graphs",
     "core_concept": "Understanding of SQL queries and JOIN operations in the context of data structures",
     "question_type": "MCQ",
@@ -11322,7 +11322,7 @@
     ]
   },
   "GATE_2006_Q524": {
-    "subject": "Theory of Computation",
+    "subject": "Databases (DBMS)",
     "topic": "Closure Property",
     "core_concept": "Closure Property of Regular Languages",
     "question_type": "Multiple Selects (MSQ)",
@@ -11345,7 +11345,7 @@
     ]
   },
   "GATE_2006_Q525": {
-    "subject": "Discrete Mathematics",
+    "subject": "Databases (DBMS)",
     "topic": "Propositional & First Order Logic",
     "core_concept": "Relational Algebra and SQL Queries",
     "question_type": "MCQ",
@@ -11611,7 +11611,7 @@
     ]
   },
   "GATE_0_Q537": {
-    "subject": "Data Structures",
+    "subject": "Databases (DBMS)",
     "topic": "Trees",
     "core_concept": "Properties of B-trees including the minimum occupancy condition for internal nodes and the exception for the root node",
     "question_type": "MCQ",
@@ -11670,7 +11670,7 @@
     ]
   },
   "GATE_0_Q540": {
-    "subject": "Data Structures",
+    "subject": "Algorithms",
     "topic": "Algorithms",
     "core_concept": "Asymptotic Analysis, Hashing, Searching, Sorting",
     "question_type": "MCQ",
@@ -11693,7 +11693,7 @@
     ]
   },
   "GATE_0_Q541": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Discrete Mathematics",
     "topic": "Machine Instructions & Addressing Modes",
     "core_concept": "Understanding of address code sequences and basic blocks",
     "question_type": "MCQ",
@@ -11711,7 +11711,7 @@
     ]
   },
   "GATE_0_Q542": {
-    "subject": "Data Structures",
+    "subject": "Databases (DBMS)",
     "topic": "Binary Search Trees",
     "core_concept": "The height of a binary search tree increases at most by one when inserting all keys from a given set.",
     "question_type": "MCQ",
@@ -11752,7 +11752,7 @@
     ]
   },
   "GATE_2026_Q544": {
-    "subject": "Theory of Computation",
+    "subject": "Databases (DBMS)",
     "topic": "Regular Expressions",
     "core_concept": "Regular Expressions and their properties",
     "question_type": "NAT",
@@ -11798,7 +11798,7 @@
     ]
   },
   "GATE_2026_Q546": {
-    "subject": "Data Structures",
+    "subject": "Databases (DBMS)",
     "topic": "Queues",
     "core_concept": "Operations on queues and their manipulation to achieve specific outcomes",
     "question_type": "MCQ",
@@ -11867,7 +11867,7 @@
     ]
   },
   "GATE_0_Q549": {
-    "subject": "Data Structures",
+    "subject": "Databases (DBMS)",
     "topic": "Queues",
     "core_concept": "The worst case time complexity for both enqueue and dequeue operations in a queue is O(n).",
     "question_type": "MCQ",
@@ -11936,7 +11936,7 @@
     ]
   },
   "GATE_0_Q552": {
-    "subject": "Data Structures",
+    "subject": "Discrete Mathematics",
     "topic": "Graph Theory",
     "core_concept": "Graph has multiple spanning trees of different costs",
     "question_type": "MSQ",
@@ -11954,7 +11954,7 @@
     ]
   },
   "GATE_2016_Q553": {
-    "subject": "Data Structures",
+    "subject": "Databases (DBMS)",
     "topic": "Graph Traversals",
     "core_concept": "Correct handling of transactions and atomicity in database systems",
     "question_type": "MCQ",
@@ -11977,7 +11977,7 @@
     ]
   },
   "GATE_2016_Q554": {
-    "subject": "Engineering Mathematics",
+    "subject": "Databases (DBMS)",
     "topic": "Linear Algebra",
     "core_concept": "Matrix Operations and Determinants",
     "question_type": "MCQ",
@@ -11995,7 +11995,7 @@
     ]
   },
   "GATE_2016_Q555": {
-    "subject": "Data Structures",
+    "subject": "Discrete Mathematics",
     "topic": "Graph Theory",
     "core_concept": "Graph Traversals",
     "question_type": "MCQ",
@@ -12013,7 +12013,7 @@
     ]
   },
   "GATE_2010_Q556": {
-    "subject": "Theory of Computation",
+    "subject": "Databases (DBMS)",
     "topic": "Concurrency Control Protocols",
     "core_concept": "Protocols ensuring both conflict serializability and freedom from deadlock",
     "question_type": "MCQ",
@@ -12059,7 +12059,7 @@
     ]
   },
   "GATE_2010_Q558": {
-    "subject": "Data Structures",
+    "subject": "Databases (DBMS)",
     "topic": "Queues",
     "core_concept": "Queue operations and serializability",
     "question_type": "MCQ",
@@ -12082,7 +12082,7 @@
     ]
   },
   "GATE_2010_Q559": {
-    "subject": "Data Structures",
+    "subject": "Discrete Mathematics",
     "topic": "Graph Theory",
     "core_concept": "Graph has multiple spanning trees of different costs",
     "question_type": "MCQ",
@@ -12128,7 +12128,7 @@
     ]
   },
   "GATE_2007_Q561": {
-    "subject": "Data Structures",
+    "subject": "Algorithms",
     "topic": "Algorithms",
     "core_concept": "Asymptotic Analysis, Recurrences, Greedy Algorithms, Dynamic Programming, Divide-and-Conquer, Graph Traversals, Shortest Paths, Minimum Spanning Trees",
     "question_type": "MCQ",
@@ -12174,7 +12174,7 @@
     ]
   },
   "GATE_2007_Q563": {
-    "subject": "Theory of Computation",
+    "subject": "Databases (DBMS)",
     "topic": "Regular Expressions",
     "core_concept": "The 'Durability' property ensures that changes made to the database persist even in case of failures like Operating System crashes, Disk crashes, Power failures, etc.",
     "question_type": "MCQ",
@@ -12220,7 +12220,7 @@
     ]
   },
   "GATE_0_Q565": {
-    "subject": "Compiler Design",
+    "subject": "Theory of Computation",
     "topic": "Compiler Design: Lexical Analysis",
     "core_concept": "Lexical analysis and its components (tokens, regular expressions, finite automata)",
     "question_type": "MCQ",
@@ -12243,7 +12243,7 @@
     ]
   },
   "GATE_0_Q566": {
-    "subject": "Data Structures",
+    "subject": "Databases (DBMS)",
     "topic": "Algorithms",
     "core_concept": "Algorithm Analysis and Correctness",
     "question_type": "MCQ",
@@ -12347,7 +12347,7 @@
     ]
   },
   "GATE_2022_Q571": {
-    "subject": "Compiler Design",
+    "subject": "Computer Organization and Architecture",
     "topic": "Pipelining and Dependency Analysis",
     "core_concept": "Dependency analysis in pipelined processors",
     "question_type": "MCQ",
@@ -12370,7 +12370,7 @@
     ]
   },
   "GATE_2022_Q572": {
-    "subject": "Compiler Design",
+    "subject": "Computer Organization and Architecture",
     "topic": "Pipeline Execution and Forwarding",
     "core_concept": "Forwarding in pipelined execution involves passing results between stages to avoid stalls",
     "question_type": "MCQ",
@@ -12413,7 +12413,7 @@
     ]
   },
   "GATE_0_Q574": {
-    "subject": "Data Structures",
+    "subject": "Algorithms",
     "topic": "Algorithms",
     "core_concept": "Asymptotic Analysis, Recurrences, Greedy Algorithms, Dynamic Programming, Divide-and-Conquer, Graph Traversals, Shortest Paths, Minimum Spanning Trees",
     "question_type": "MCQ",
@@ -12453,7 +12453,7 @@
     ]
   },
   "GATE_0_Q576": {
-    "subject": "Compiler Design",
+    "subject": "Computer Organization and Architecture",
     "topic": "Two Pass Assembler",
     "core_concept": "Pass numbers and their respective activities in a two-pass assembler",
     "question_type": "MCQ",
@@ -12512,7 +12512,7 @@
     ]
   },
   "GATE_2017_Q579": {
-    "subject": "Algorithms",
+    "subject": "Computer Organization and Architecture",
     "topic": "Time Complexity",
     "core_concept": "Pipeline processing and latency analysis",
     "question_type": "MCQ",
@@ -12566,7 +12566,7 @@
     ]
   },
   "GATE_2016_Q582": {
-    "subject": "Data Structures",
+    "subject": "Algorithms",
     "topic": "Algorithms",
     "core_concept": "Asymptotic Analysis, Recurrences, Greedy Algorithms, Dynamic Programming, Divide-and-Conquer, Graph Traversals, Shortest Paths, Minimum Spanning Trees",
     "question_type": "MCQ",
@@ -12658,7 +12658,7 @@
     ]
   },
   "GATE_0_Q586": {
-    "subject": "Algorithms",
+    "subject": "Computer Organization and Architecture",
     "topic": "Time Complexity",
     "core_concept": "Calculating the total execution time of a pipeline with multiple stages and varying delays",
     "question_type": "MCQ",
@@ -12676,7 +12676,7 @@
     ]
   },
   "GATE_0_Q587": {
-    "subject": "Compiler Design",
+    "subject": "Computer Organization and Architecture",
     "topic": "Lexical Analysis",
     "core_concept": "Forwarding of data between stages in an instruction pipeline",
     "question_type": "MCQ",
@@ -12745,7 +12745,7 @@
     ]
   },
   "GATE_0_Q590": {
-    "subject": "Compiler Design",
+    "subject": "Computer Organization and Architecture",
     "topic": "Register Allocation",
     "core_concept": "An optimal code generation algorithm for a load/store architecture, where arithmetic instructions can have only register or immediate operands.",
     "question_type": "NAT",
@@ -12804,7 +12804,7 @@
     ]
   },
   "GATE_0_Q593": {
-    "subject": "Compiler Design",
+    "subject": "Computer Organization and Architecture",
     "topic": "Three Address Code",
     "core_concept": "Three address code generation and manipulation",
     "question_type": "NAT",
@@ -12822,7 +12822,7 @@
     ]
   },
   "GATE_0_Q594": {
-    "subject": "Compiler Design",
+    "subject": "Data Structures",
     "topic": "Assembling Process",
     "core_concept": "Loop unrolling as an optimization technique by the compiler to improve instruction-level parallelism",
     "question_type": "MCQ",
@@ -12840,7 +12840,7 @@
     ]
   },
   "GATE_0_Q595": {
-    "subject": "Data Structures",
+    "subject": "Computer Organization and Architecture",
     "topic": "Linked Lists",
     "core_concept": "Understanding of data dependencies and their impact on branch conditions in conditional instructions",
     "question_type": "MCQ",
@@ -12865,7 +12865,7 @@
     ]
   },
   "GATE_0_Q596": {
-    "subject": "Compiler Design",
+    "subject": "Computer Organization and Architecture",
     "topic": "Register Allocation",
     "core_concept": "An optimal code generation algorithm for a load/store architecture requires a minimum number of registers to avoid register spilling.",
     "question_type": "NAT",
@@ -12883,7 +12883,7 @@
     ]
   },
   "GATE_0_Q597": {
-    "subject": "Compiler Design",
+    "subject": "Computer Organization and Architecture",
     "topic": "Assemblers",
     "core_concept": "A two-pass assembler uses its machine opcode table in the first pass of assembly.",
     "question_type": "MCQ",
@@ -12970,7 +12970,7 @@
     ]
   },
   "GATE_2006_Q601": {
-    "subject": "Compiler Design",
+    "subject": "Computer Organization and Architecture",
     "topic": "Intermediate Code Generation",
     "core_concept": "Intermediate Code Generation and Execution",
     "question_type": "MCQ",
@@ -13011,7 +13011,7 @@
     ]
   },
   "GATE_2005_Q603": {
-    "subject": "Compiler Design",
+    "subject": "Computer Organization and Architecture",
     "topic": "Register Allocation",
     "core_concept": "Determining the minimum number of registers required for an optimal code generation algorithm on a load/store architecture with specific constraints.",
     "question_type": "MCQ",
@@ -13034,7 +13034,7 @@
     ]
   },
   "GATE_0_Q604": {
-    "subject": "Compiler Design",
+    "subject": "Computer Organization and Architecture",
     "topic": "Register Allocation",
     "core_concept": "An optimal code generation algorithm for a load/store architecture requires the minimum number of registers to execute an expression.",
     "question_type": "NAT",
@@ -13052,7 +13052,7 @@
     ]
   },
   "GATE_0_Q605": {
-    "subject": "Algorithms",
+    "subject": "Data Structures",
     "topic": "Stack Operations",
     "core_concept": "Implementing a Queue using a Stack",
     "question_type": "MCQ",
@@ -13075,7 +13075,7 @@
     ]
   },
   "GATE_0_Q606": {
-    "subject": "Compiler Design",
+    "subject": "Computer Organization and Architecture",
     "topic": "Three Address Code",
     "core_concept": "The given instruction set is a three-address code that performs arithmetic operations involving one register and one immediate value.",
     "question_type": "MCQ",
@@ -13121,7 +13121,7 @@
     ]
   },
   "GATE_2008_Q608": {
-    "subject": "Compiler Design",
+    "subject": "Computer Organization and Architecture",
     "topic": "Two Pass Assembler",
     "core_concept": "A two pass assembler uses its machine opcode table in the first pass of assembly.",
     "question_type": "MCQ",
@@ -13277,7 +13277,7 @@
     ]
   },
   "GATE_2012_Q615": {
-    "subject": "Algorithms",
+    "subject": "Computer Organization and Architecture",
     "topic": "Time Complexity",
     "core_concept": "Time complexity analysis of algorithmic processes involving cache misses and memory accesses",
     "question_type": "MCQ",
@@ -13300,7 +13300,7 @@
     ]
   },
   "GATE_2008_Q616": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Digital Logic",
     "topic": "Digital Logic",
     "core_concept": "Boolean Algebra, Combinational Circuits, Sequential Circuits, Minimization, Number Representations & Computer Arithmetic",
     "question_type": "MCQ",
@@ -13323,7 +13323,7 @@
     ]
   },
   "GATE_2008_Q617": {
-    "subject": "Theory of Computation",
+    "subject": "Computer Organization and Architecture",
     "topic": "Closure Property",
     "core_concept": "Closure property of regular languages",
     "question_type": "Multiple Selects (MSQ)",
@@ -13369,7 +13369,7 @@
     ]
   },
   "GATE_2005_Q619": {
-    "subject": "Data Structures",
+    "subject": "Computer Organization and Architecture",
     "topic": "Hash Tables",
     "core_concept": "Tag Memory Size Calculation in Cache Systems",
     "question_type": "MCQ",
@@ -13446,7 +13446,7 @@
     ]
   },
   "GATE_0_Q623": {
-    "subject": "Compiler Design",
+    "subject": "Computer Organization and Architecture",
     "topic": "Runtime Environments",
     "core_concept": "Understanding memory alignment and padding, which affects sizeof() and memory efficiency.",
     "question_type": "MCQ",
@@ -13464,7 +13464,7 @@
     ]
   },
   "GATE_0_Q624": {
-    "subject": "Data Structures",
+    "subject": "Computer Organization and Architecture",
     "topic": "Hash Tables",
     "core_concept": "Linear Probing and Miss Ratio Calculation",
     "question_type": "MCQ",
@@ -13505,7 +13505,7 @@
     ]
   },
   "GATE_0_Q626": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Digital Logic",
     "topic": "Digital Logic",
     "core_concept": "Boolean Algebra, Combinational Circuits, Sequential Circuits, Minimization, Number Representations & Computer Arithmetic",
     "question_type": "MCQ",
@@ -13695,7 +13695,7 @@
     ]
   },
   "GATE_0_Q636": {
-    "subject": "Compiler Design",
+    "subject": "Computer Organization and Architecture",
     "topic": "Compiler Design",
     "core_concept": "Deterministic context-free languages and LR parsers",
     "question_type": "MCQ",
@@ -13759,7 +13759,7 @@
     ]
   },
   "GATE_0_Q639": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Digital Logic",
     "topic": "Digital Logic",
     "core_concept": "Boolean Algebra, Combinational Circuits, Sequential Circuits, Minimization",
     "question_type": "MCQ",
@@ -13800,7 +13800,7 @@
     ]
   },
   "GATE_0_Q641": {
-    "subject": "Data Structures",
+    "subject": "Algorithms",
     "topic": "Algorithms",
     "core_concept": "Asymptotic Analysis, Recurrences, Greedy Algorithms, Dynamic Programming, Divide-and-Conquer, Graph Traversals, Shortest Paths, Minimum Spanning Trees",
     "question_type": "NAT",
@@ -13969,7 +13969,7 @@
     ]
   },
   "GATE_0_Q649": {
-    "subject": "Compiler Design",
+    "subject": "Computer Organization and Architecture",
     "topic": "Compiler Design: Lexical Analysis",
     "core_concept": "Interrupt System and CPU Interaction",
     "question_type": "MCQ",
@@ -14042,7 +14042,7 @@
     ]
   },
   "GATE_0_Q652": {
-    "subject": "Data Structures",
+    "subject": "Algorithms",
     "topic": "Graph Theory",
     "core_concept": "Graph traversal algorithms (BFS/DFS)",
     "question_type": "MCQ",
@@ -14154,7 +14154,7 @@
     ]
   },
   "GATE_0_Q657": {
-    "subject": "Algorithms",
+    "subject": "Operating Systems",
     "topic": "Identify Function",
     "core_concept": "Iterative process to find a fixed point",
     "question_type": "MCQ",
@@ -14249,7 +14249,7 @@
     ]
   },
   "GATE_0_Q662": {
-    "subject": "Data Structures",
+    "subject": "Discrete Mathematics",
     "topic": "Graph Theory",
     "core_concept": "Graph has multiple spanning trees of different costs",
     "question_type": "MCQ",
@@ -14303,7 +14303,7 @@
     ]
   },
   "GATE_2016_Q665": {
-    "subject": "Data Structures",
+    "subject": "Algorithms",
     "topic": "Algorithms",
     "core_concept": "Asymptotic Analysis, Recurrences, Greedy Algorithms, Dynamic Programming",
     "question_type": "NAT",
@@ -14321,7 +14321,7 @@
     ]
   },
   "GATE_2007_Q666": {
-    "subject": "Algorithms",
+    "subject": "Data Structures",
     "topic": "Graph Algorithms",
     "core_concept": "Depth-First Search (DFS) and its application in spanning trees",
     "question_type": "MCQ",
@@ -14344,7 +14344,7 @@
     ]
   },
   "GATE_2006_Q667": {
-    "subject": "Data Structures",
+    "subject": "Discrete Mathematics",
     "topic": "Graph Theory",
     "core_concept": "Forwarding Table in Spanning Tree",
     "question_type": "NAT",
@@ -14367,7 +14367,7 @@
     ]
   },
   "GATE_2006_Q668": {
-    "subject": "Data Structures",
+    "subject": "Algorithms",
     "topic": "Algorithms",
     "core_concept": "Asymptotic analysis of algorithms",
     "question_type": "MCQ",
@@ -14500,7 +14500,7 @@
     ]
   },
   "GATE_2022_Q674": {
-    "subject": "Compiler Design",
+    "subject": "Computer Networks",
     "topic": "Runtime Environments",
     "core_concept": "Relocation constants calculation based on module sizes and order",
     "question_type": "MCQ",
@@ -14523,7 +14523,7 @@
     ]
   },
   "GATE_2021_Q675": {
-    "subject": "Compiler Design",
+    "subject": "Computer Networks",
     "topic": "Syntax-Directed Translation",
     "core_concept": "The -address code sequence generation for the given statement",
     "question_type": "MCQ",
@@ -14546,7 +14546,7 @@
     ]
   },
   "GATE_2021_Q676": {
-    "subject": "Data Structures",
+    "subject": "Computer Networks",
     "topic": "Queues",
     "core_concept": "Implementing QUEUES on a circular array is more efficient than implementing QUEUES on a linear array with two indices.",
     "question_type": "MCQ",
@@ -14633,7 +14633,7 @@
     ]
   },
   "GATE_2017_Q680": {
-    "subject": "Data Structures",
+    "subject": "Computer Networks",
     "topic": "Linked Lists",
     "core_concept": "Understanding the behavior of linked lists in terms of fragmentation and memory management",
     "question_type": "MCQ",
@@ -14702,7 +14702,7 @@
     ]
   },
   "GATE_2016_Q683": {
-    "subject": "Data Structures",
+    "subject": "Computer Networks",
     "topic": "Graphs",
     "core_concept": "Graph theory concepts related to network flow and fragmentation",
     "question_type": "NAT",
@@ -14748,7 +14748,7 @@
     ]
   },
   "GATE_0_Q685": {
-    "subject": "Theory of Computation",
+    "subject": "Computer Networks",
     "topic": "Compiler Design",
     "core_concept": "Runtime Environments and Intermediate Code Generation",
     "question_type": "MCQ",
@@ -14796,7 +14796,7 @@
     ]
   },
   "GATE_0_Q687": {
-    "subject": "Compiler Design",
+    "subject": "Computer Networks",
     "topic": "Runtime Environment",
     "core_concept": "Runtime environment and its components",
     "question_type": "MCQ",
@@ -14819,7 +14819,7 @@
     ]
   },
   "GATE_0_Q688": {
-    "subject": "Algorithms",
+    "subject": "Computer Networks",
     "topic": "Sorting",
     "core_concept": "Sorting algorithms (e.g., Quick Sort)",
     "question_type": "MCQ",
@@ -15011,7 +15011,7 @@
     ]
   },
   "GATE_0_Q697": {
-    "subject": "Data Structures",
+    "subject": "Computer Networks",
     "topic": "Linked Lists",
     "core_concept": "Dividing packets into fragments due to MTU limitations",
     "question_type": "MCQ",
@@ -15070,7 +15070,7 @@
     ]
   },
   "GATE_0_Q700": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Digital Logic",
     "topic": "Digital Logic",
     "core_concept": "Boolean Algebra, Combinational Circuits, Sequential Circuits",
     "question_type": "MCQ",
@@ -15153,7 +15153,7 @@
     ]
   },
   "GATE_0_Q704": {
-    "subject": "Compiler Design",
+    "subject": "Computer Networks",
     "topic": "Runtime Environment",
     "core_concept": "Understanding the runtime environment in context of parameter passing and addressing of formal parameters",
     "question_type": "NAT",
@@ -15171,7 +15171,7 @@
     ]
   },
   "GATE_0_Q705": {
-    "subject": "Algorithms",
+    "subject": "Computer Networks",
     "topic": "Recursion",
     "core_concept": "A recursive program to compute Fibonacci numbers is shown below. Assume you are also given an array with all elements initialized to fib(n).",
     "question_type": "MCQ",
@@ -15207,7 +15207,7 @@
     ]
   },
   "GATE_0_Q707": {
-    "subject": "Operating Systems",
+    "subject": "Computer Networks",
     "topic": "Concurrency & Synchronization",
     "core_concept": "HTTP 1.1 and TCP connections",
     "question_type": "MCQ",
@@ -15294,7 +15294,7 @@
     ]
   },
   "GATE_0_Q711": {
-    "subject": "Algorithms",
+    "subject": "Data Structures",
     "topic": "Graph Traversals",
     "core_concept": "Breadth-first traversal and its properties",
     "question_type": "MCQ",
@@ -15409,7 +15409,7 @@
     ]
   },
   "GATE_0_Q716": {
-    "subject": "Data Structures",
+    "subject": "Computer Networks",
     "topic": "Arrays",
     "core_concept": "An array is a data structure that stores elements in contiguous memory locations.",
     "question_type": "MCQ",
@@ -15954,7 +15954,7 @@
     ]
   },
   "GATE_2026_Q741": {
-    "subject": "Discrete Mathematics",
+    "subject": "Algorithms",
     "topic": "Graph Theory",
     "core_concept": "Graph Coloring using Greedy Strategy",
     "question_type": "MCQ",
@@ -16013,7 +16013,7 @@
     ]
   },
   "GATE_2024_Q744": {
-    "subject": "Data Structures",
+    "subject": "Discrete Mathematics",
     "topic": "Graph Theory",
     "core_concept": "The number of cycles in a graph can be determined by the trace of the adjacency matrix raised to a power.",
     "question_type": "MCQ",
@@ -16036,7 +16036,7 @@
     ]
   },
   "GATE_2022_Q745": {
-    "subject": "Data Structures",
+    "subject": "Discrete Mathematics",
     "topic": "Graph Theory",
     "core_concept": "Properties of adjacency matrices of simple undirected unweighted graphs",
     "question_type": "MCQ",
@@ -16059,7 +16059,7 @@
     ]
   },
   "GATE_2022_Q746": {
-    "subject": "Data Structures",
+    "subject": "Discrete Mathematics",
     "topic": "Graph Theory",
     "core_concept": "Properties of graphs and their transformations",
     "question_type": "MCQ",
@@ -16105,7 +16105,7 @@
     ]
   },
   "GATE_2009_Q748": {
-    "subject": "Data Structures",
+    "subject": "Algorithms",
     "topic": "Graphs",
     "core_concept": "Minimum spanning tree (MST)",
     "question_type": "MCQ",
@@ -16151,7 +16151,7 @@
     ]
   },
   "GATE_2007_Q750": {
-    "subject": "Algorithms",
+    "subject": "Discrete Mathematics",
     "topic": "Graph Theory",
     "core_concept": "Minimum Vertex Cover and Maximum Independent Set",
     "question_type": "MCQ",
@@ -16174,7 +16174,7 @@
     ]
   },
   "GATE_2007_Q751": {
-    "subject": "Data Structures",
+    "subject": "Discrete Mathematics",
     "topic": "Graph Theory",
     "core_concept": "Kuratowski's Theorem and Non-Planar Graphs",
     "question_type": "MCQ",
@@ -16215,7 +16215,7 @@
     ]
   },
   "GATE_0_Q753": {
-    "subject": "Discrete Mathematics",
+    "subject": "Algorithms",
     "topic": "Graph Theory",
     "core_concept": "A cycle in a graph is a path that starts and ends at the same vertex with no repeated vertices.",
     "question_type": "MCQ",
@@ -16802,7 +16802,7 @@
     ]
   },
   "GATE_2016_Q781": {
-    "subject": "Engineering Mathematics",
+    "subject": "Operating Systems",
     "topic": "Ratio Proportion",
     "core_concept": "Exponential decrease in cycles to failure with increase in load",
     "question_type": "MCQ",
@@ -16948,7 +16948,7 @@
     ]
   },
   "GATE_0_Q788": {
-    "subject": "Engineering Mathematics",
+    "subject": "Operating Systems",
     "topic": "Probability",
     "core_concept": "Calculating the probability of specific events in a random process",
     "question_type": "MCQ",
@@ -17642,7 +17642,7 @@
     ]
   },
   "GATE_0_Q819": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Digital Logic",
     "topic": "Digital Logic",
     "core_concept": "Boolean Algebra, Combinational Circuits, Sequential Circuits",
     "question_type": "MCQ",
@@ -17805,7 +17805,7 @@
     ]
   },
   "GATE_0_Q826": {
-    "subject": "Data Structures",
+    "subject": "Algorithms",
     "topic": "Algorithms",
     "core_concept": "Asymptotic analysis and analogy between actions and emotional states",
     "question_type": "MCQ",
@@ -17828,7 +17828,7 @@
     ]
   },
   "GATE_0_Q827": {
-    "subject": "Engineering Mathematics",
+    "subject": "Operating Systems",
     "topic": "Calculus",
     "core_concept": "The cooling process of the Himalayas absorbs atmospheric carbon dioxide and alters the Earth's atmosphere.",
     "question_type": "NAT",
@@ -17846,7 +17846,7 @@
     ]
   },
   "GATE_0_Q828": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Digital Logic",
     "topic": "Digital Logic",
     "core_concept": "Boolean Algebra, Combinational Circuits, Sequential Circuits, Minimization, Number Representations & Computer Arithmetic",
     "question_type": "MCQ",
@@ -18263,7 +18263,7 @@
     ]
   },
   "GATE_2015_Q846": {
-    "subject": "Engineering Mathematics",
+    "subject": "Theory of Computation",
     "topic": "Linear Algebra",
     "core_concept": "None",
     "question_type": "MCQ",
@@ -18470,7 +18470,7 @@
     ]
   },
   "GATE_2015_Q855": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Digital Logic",
     "topic": "Digital Logic",
     "core_concept": "Boolean Algebra, Combinational Circuits, Sequential Circuits, Minimization, Number Representations & Computer Arithmetic",
     "question_type": "MCQ",
@@ -18493,7 +18493,7 @@
     ]
   },
   "GATE_2015_Q856": {
-    "subject": "Engineering Mathematics",
+    "subject": "Discrete Mathematics",
     "topic": "Discrete Mathematics: Propositional & First Order Logic",
     "core_concept": "Antonyms",
     "question_type": "MCQ",
@@ -18516,7 +18516,7 @@
     ]
   },
   "GATE_2014_Q857": {
-    "subject": "Engineering Mathematics",
+    "subject": "Theory of Computation",
     "topic": "Linear Algebra",
     "core_concept": "The sentence structure and grammar rules related to English language",
     "question_type": "MCQ",
@@ -18912,7 +18912,7 @@
     ]
   },
   "GATE_2022_Q876": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Digital Logic",
     "topic": "Digital Logic",
     "core_concept": "Boolean Algebra, Combinational Circuits, Sequential Circuits, Minimization, Number Representations & Computer Arithmetic",
     "question_type": "MCQ",
@@ -18935,7 +18935,7 @@
     ]
   },
   "GATE_2022_Q877": {
-    "subject": "Computer Organization and Architecture",
+    "subject": "Digital Logic",
     "topic": "Digital Logic",
     "core_concept": "Boolean Algebra, Combinational Circuits, Sequential Circuits, Minimization, Number Representations & Computer Arithmetic",
     "question_type": "MCQ",
@@ -19022,7 +19022,7 @@
     ]
   },
   "GATE_0_Q881": {
-    "subject": "Data Structures",
+    "subject": "Discrete Mathematics",
     "topic": "Graph Theory",
     "core_concept": "Finding an allocation plan based on specific preferences and constraints",
     "question_type": "MCQ",
